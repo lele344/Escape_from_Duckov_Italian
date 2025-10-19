@@ -39,7 +39,7 @@ Se ti piace questo progetto, puoi offrirmi un caffè:
 
 ### 3. Avvio del gioco
 
-1. Avvia il gioco per avere il gioco in italiano
+1. Avvia il gioco, vai nelle opzioni e scegli la lingua Italiano per avere il gioco nella nostra lingua
 
 ## 💬 Contribuire
 
