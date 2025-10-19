@@ -1,4 +1,4 @@
-# Escape_from_Duckov_Italian
+# Escape from Duckov - Traduzione in Italiano
 
 # 🇮🇹 Traduzione italiana per "Escape from Duckov"
 
