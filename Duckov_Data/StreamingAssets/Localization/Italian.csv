@@ -578,17 +578,17 @@ Item_Bullet_AR_L_Electric_Desc,Rilascia energia elettrica all'impatto.,#20250812
 Item_Bullet_AR_L_Space_Desc,Utilizza l’energia del nucleo per distorcere lo spazio e distruggere strutture solide.,#20250812031926,Items
 Item_Bullet_AR_S_Normal_Desc,Munizioni di piccolo calibro.,#20250812031926,Items
 Item_Bullet_AR_S_Burn_Desc,"Caricato con proiettili a combustione continua, applica Bruciatura con possibilità di incendiarsi.",#20250812031926,Items
-Item_Bullet_AR_S_Dumdums_Desc,Infligge più danni ai tessuti ma ha minore penetrazione dell’armatura.,#20250812031926,Items
+Item_Bullet_AR_S_Dumdums_Desc,Infligge più danni ai tessuti ma ha minore penetrazione dell'armatura.,#20250812031926,Items
 Item_Bullet_AR_S_Piercing2_Desc,Può penetrare armature di bassa qualità.,#20250812031926,Items
 Item_Bullet_AR_S_Piercing4_Desc,Può penetrare armature di alta qualità.,#20250812031926,Items
 Item_Bullet_AR_S_Poison_Desc,Proiettile rivestito di veleno.,#20250812031926,Items
 Item_Bullet_AR_S_Electric_Desc,Proiettili caricati elettricamente che possono paralizzare i nemici.,#20250812031926,Items
 Item_Bullet_AR_S_Space_Desc,Utilizza l’energia del nucleo per distorcere lo spazio e distruggere strutture solide.,#20250812031926,Items
 Item_Bullet_SHOT_Normal_Desc,"Cartuccia da caccia, efficace a corto raggio.",#20250812031926,Items
-Item_Bullet_SHOT_Piranha_Desc,Bassa penetrazione dell’armatura ma infligge più danni ai tessuti.,#20250812031926,Items
+Item_Bullet_SHOT_Piranha_Desc,Bassa penetrazione dell'armatura ma infligge più danni ai tessuti.,#20250812031926,Items
 Item_Bullet_SHOT_Burn_Desc,Infligge ingenti danni da Bruciatura.,#20250812031926,Items
 Item_Bullet_SHOT_Piercing2_Desc,Può penetrare armature di base.,#20250812031926,Items
-Item_Bullet_SHOT_Piercing4_Desc,Ha una migliore penetrazione dell’armatura.,#20250812031926,Items
+Item_Bullet_SHOT_Piercing4_Desc,Ha una migliore penetrazione dell'armatura.,#20250812031926,Items
 Item_Bullet_SHOT_Electric_Desc,Munizioni a carica elettrica che infliggono danni da scossa.,#20250812031926,Items
 Item_Bullet_Sniper_Normal_Desc,Munizioni da cecchino standard.,#20250812031926,Items
 Item_Bullet_Sniper_Space_Desc,Munizioni da cecchino con proprietà spaziali.,#20250812031926,Items
@@ -602,7 +602,7 @@ Item_Bullet_Arrow_Normal_Desc,Frecce realizzate con rami.,#20250812031926,Items
 Item_L_RPK_Lv_1,RPK scadente,#20250812031926,Items
 Item_L_RPK_Lv_1_Desc,Una mitragliatrice con alta durabilità.,#20250812031926,Items
 Item_L_AK102_Lv_1,AK102 scadente,#20250812031926,Items
-Item_L_AK102_Lv_1_Desc,"Una versione modernizzata dell’AK, capace di montare più accessori.",#20250812031926,Items
+Item_L_AK102_Lv_1_Desc,"Una versione modernizzata dell'AK, capace di montare più accessori.",#20250812031926,Items
 Item_L_VPO_Lv_1,VPO scadente,#20250812031926,Items
 Item_L_VPO_Lv_1_Desc,Un fucile da cecchino a otturatore girevole-scorrevole.,#20250812031926,Items
 Item_Shot_MP155_Lv_1,MP155 scadente,#20250812031926,Items
@@ -1033,7 +1033,7 @@ Item_BitcoinMiner,Miner di Bitcoin,#20250812031927,Items
 Item_GPU_Potato,Potato Graphics Card,#20250206103400,Items
 Item_GPU_Potato_Desc,È davvero un miracolo.,#20250812031927,Items
 Item_Potato,Patata,#20250206103400,Items
-Item_Potato_Desc,L’aroma della patata.,#20250812031927,Items
+Item_Potato_Desc,L'aroma della patata.,#20250812031927,Items
 Item_BP_GPU_Potato,Progetto: Potato Graphics Card,#20250206103400,Items
 Item_BP_GPU_Potato_Desc,"Progetto artigianale per la scheda grafica di patata, con un disegno visto dall’alto di una cacca per motivi sconosciuti.",#20250812031927,Items
 Item_AnimalWeapon,Disarmato,#20250812031927,Items
@@ -1115,7 +1115,7 @@ Item_Key_Machine,Chiave meccanica,#20250206103400,Items
 Item_Bullet_SHOT_Rusted,Cartucce scadenti (Fucile a pompa),#20250812031927,Items
 Item_Bullet_Sniper_Rusted,Proiettili scadenti (Cecchino),#20250812031927,Items
 Item_Formula_Injection_PainResist_Desc,Una\ ricetta\ per\ creare\ un\ Antidolorifico\ alla\ Stazione\ medica.,#20250930085646,Items
-Item_Quest_Letter_HiddenWarehouse_Explorer,Lettera dell’eremita,#20250206103400,Items
+Item_Quest_Letter_HiddenWarehouse_Explorer,Lettera dell'eremita,#20250206103400,Items
 Item_Quest_Letter_HiddenWarehouse_Explorer_Desc,Ho scavato un tunnel che porta dietro al magazzino dall’altra parte. Ma ho perso la chiave.,#20250812031927,Items
 Item_Key_HiddenWarehouse_Cellar,Chiave della cantina,#20250206103400,Items
 Item_Key_HiddenWarehouse_Cellar_Desc,Una\ chiave\ di\ una\ cantina\ da\ qualche\ parte.,#20250919105708,Items
@@ -1128,7 +1128,7 @@ Item_Totem_ElecResist_2,Totem: RES elettrico II,#20250812031927,Items
 Item_Totem_ElecResist_Desc,Riduce i danni elettrici subiti.,#20250812031927,Items
 Item_Totem_ElecResist_2_Desc,Immunità alle scosse elettriche.,#20250812031927,Items
 Item_Totem_Heal,Totem: Cura,#20250206103400,Items
-Item_Totem_Heal_Desc,Aumenta l’efficacia della guarigione dai medicinali.,#20250812031927,Items
+Item_Totem_Heal_Desc,Aumenta l'efficacia della guarigione dai medicinali.,#20250812031927,Items
 Item_Totem_RecoilControl,Totem: Controllo rinculo,#20250812031927,Items
 Item_Totem_RecoilControl_Desc,Migliora la capacità di controllo del rinculo.,#20250812031927,Items
 Item_Totem_Reload,Totem: Ricarica tattica,#20250812031927,Items
@@ -1148,13 +1148,13 @@ Item_Formula_Injection_HotBlood_Desc,Una\ ricetta\ per\ creare\ un\ Iniettore\ s
 Item_Key_GasStation_Warehouse,Chiave stazione di servizio abbandonata,#20250812031927,Items
 Item_Key_GasStation_Warehouse_Desc,Una chiave di una stazione di servizio abbandonata da qualche parte.,#20250812031927,Items
 Item_Key_RedWareHosue_Warehouse,Chiave ufficio fabbrica,#20250206103400,Items
-Item_Key_RedWareHosue_Warehouse_Desc,Una chiave che apre un ufficio situato nell’area della fabbrica.,#20250812031927,Items
+Item_Key_RedWareHosue_Warehouse_Desc,Una chiave che apre un ufficio situato nell'area della fabbrica.,#20250812031927,Items
 Item_Key_SmallRoom_HiddenWarehouse,Chiave scomparto piccolo,#20250812031927,Items
 Item_Key_SmallRoom_HiddenWarehouse_Desc,Apre un piccolo scomparto in una casa.,#20250812031927,Items
 Item_Key_HiddenWarehouse_Cellar_Wire,Chiave recinto cantina,#20250206103400,Items
 Item_Key_HiddenWarehouse_Cellar_Wire_Desc,Una chiave di un recinto nella cantina.,#20250812031927,Items
-Item_Bullet_AR_L_Rusted_Desc,"Scaduto,\ si\ rompe\ al\ minimo\ tocco.\ Non\ può\ nemmeno\ penetrare\ la\ carta.\ Usare\ questi\ proiettili\ ridurrà\ rapidamente\ la\ durabilità\ dell’arma.",#20250919105708,Items
-Item_Bullet_AR_S_Rusted_Desc,Un proiettile di piccolo calibro arrugginito. Non può penetrare nulla. Usarli ridurrà rapidamente la durabilità dell’arma.,#20250812031926,Items
+Item_Bullet_AR_L_Rusted_Desc,"Scaduto,\ si\ rompe\ al\ minimo\ tocco.\ Non\ può\ nemmeno\ penetrare\ la\ carta.\ Usare\ questi\ proiettili\ ridurrà\ rapidamente\ la\ durabilità\ dell'arma.",#20250919105708,Items
+Item_Bullet_AR_S_Rusted_Desc,Un proiettile di piccolo calibro arrugginito. Non può penetrare nulla. Usarli ridurrà rapidamente la durabilità dell'arma.,#20250812031926,Items
 Item_Magazine_Rifle_Lv_1,Caricatore esteso grande calibro Lv.1,#20250812031927,Items
 Item_Magazine_Rifle_Lv_2,Caricatore esteso grande calibro Lv.2,#20250812031927,Items
 Item_Magazine_Rifle_Lv_3,Caricatore esteso grande calibro Lv.3,#20250812031927,Items
@@ -1212,7 +1212,7 @@ Options_Resolution,Risoluzione,#20250206103400,Options
 Options_ScreenMode,Modalità di visualizzazione,#20250812031927,Options
 Options_Language,Lingua<sub>Lingua</sub>,#20250812031927,Options
 Options_HBAOSettings,Qualità occlusione ambientale,#20250206103400,Options
-Options_GrassSettings,Visualizzazione dell’erba,#20250206103400,Options
+Options_GrassSettings,Visualizzazione dell'erba,#20250206103400,Options
 Options_RunInputModeSettings,Modalità tasto di corsa,#20250812031927,Options
 PerkTree_PhysicalTraining,Potenziamento fisico,#20250812031927,Perks
 PerkTree_Blueprint,Ricerca progetto,#20250206103400,Perks
@@ -1366,12 +1366,12 @@ Quest_0_Desc,Le forniture mediche sono essenziali a Duckov. Mi servono subito de
 Quest_1,Benvenuto a Duckov!,#20250812031927,Quests
 Quest_1_Desc,Il tuo primo compito è semplice: dimostra che riesci a tornare vivo.,#20250812031927,Quests
 Quest_2,Lettera da un esploratore,#20250812031927,Quests
-Quest_2_Desc,"Prima del tuo arrivo abbiamo inviato una squadra di ricognizione a Duckov, ma non abbiamo più avuto notizie. Il loro rifugio si trova in un edificio dell’area industriale. Puoi andare a controllare?",#20250812031927,Quests
+Quest_2_Desc,"Prima del tuo arrivo abbiamo inviato una squadra di ricognizione a Duckov, ma non abbiamo più avuto notizie. Il loro rifugio si trova in un edificio dell'area industriale. Puoi andare a controllare?",#20250812031927,Quests
 Quest_3,Armi riservate,#20250206103400,Quests
 Quest_3_Desc,Procurati un paio di pistole.,#20250812031927,Quests
 Quest_4,Sentiero del cacciatore,#20250812031927,Quests
 Quest_5,Residenza antica,#20250206103400,Quests
-Quest_5_Desc,"Secondo la squadra d’avanguardia, i dipendenti della J-Lab vivevano in un dormitorio nel bosco. Puoi dare un’occhiata alla situazione lì?",#20250812031927,Quests
+Quest_5_Desc,"Secondo la squadra d'avanguardia, i dipendenti della J-Lab vivevano in un dormitorio nel bosco. Puoi dare un'occhiata alla situazione lì?",#20250812031927,Quests
 Quest_6,Dati 1,#20250206103400,Quests
 Quest_6_Desc,"Sembra che J-Lab sia stata evacuata in fretta. Quando abbiamo controllato il laboratorio, tutti i dati erano stati distrutti, ma probabilmente non hanno avuto il tempo di cancellare quelli del dormitorio. Torna lì e copia tutti i file dei computer. Non dimenticare di portare un hard disk portatile!",#20250812031927,Quests
 Quest_7,L’importanza del controllo del sanguinamento,#20250812031927,Quests
@@ -1386,7 +1386,7 @@ Quest_10_Task_1,Controlla un impianto elettrico nel magazzino del porto.,#202508
 Quest_11,Nascosto in profondità,#20250812031927,Quests
 Quest_11_Desc,"I dati che hai riportato sembrano crittati, e non riusciamo a estrarre le informazioni chiave. Ci servono alcuni dischetti J-Lab per la decrittazione. Puoi aiutarci a trovarne uno? Non sono troppo rari e potrebbero trovarsi in qualsiasi luogo visitato dal personale J-Lab.",#20250812031927,Quests
 Quest_12,Mano nera,#20250206103400,Quests
-Quest_12_Desc,"Abbiamo decifrato i dati della stazione di servizio. La persona incontrata sembra essere un messaggero, venuto a informarci dell’attacco a J-Lab. Sembra che l’incidente di J-Lab sia effettivamente legato a questi corvi. Dobbiamo trovare più informazioni su questo messaggero. Si dice che abbia visitato un ufficio doganale. Puoi controllare lì? Forse quel posto è più di una semplice fabbrica alimentare?",#20250812031927,Quests
+Quest_12_Desc,"Abbiamo decifrato i dati della stazione di servizio. La persona incontrata sembra essere un messaggero, venuto a informarci dell'attacco a J-Lab. Sembra che l'incidente di J-Lab sia effettivamente legato a questi corvi. Dobbiamo trovare più informazioni su questo messaggero. Si dice che abbia visitato un ufficio doganale. Puoi controllare lì? Forse quel posto è più di una semplice fabbrica alimentare?",#20250812031927,Quests
 Quest_13,Giocatore 1,#20250812031927,Quests
 Quest_13_Desc,"Questo posto è così noioso. Sarebbe molto più divertente con una console. Puoi procurarmi una console FC (Future Computer)? Ho una cartuccia FC con me. Ah, e non dimenticare di portare anche un controller.",#20250812031927,Quests
 Quest_14,Giocatore 2,#20250812031927,Quests
@@ -1404,9 +1404,9 @@ Quest_19_Desc,"Duck World ha bisogno di una memory card? Altrimenti dovrò ricom
 Quest_20,Giocatore 3,#20250812031927,Quests
 Quest_20_Desc,Assemblare la console è divertente anche quello! Stavolta lascio a te il divertimento! E puoi anche provare il gioco!,#20250812031927,Quests
 Quest_21,Costruzione di base,#20250812031927,Quests
-Quest_21_Desc,"Raccogli due pezzi di legno per costruire un banco da lavoro. Ci sono nemici nei dintorni, quindi non allontanarti troppo. Una volta raccolti i materiali, controlla il pannello di costruzione accanto al distributore automatico. Lascio le tue ricompense nell’armadietto delle consegne.",#20250905113817,Quests
+Quest_21_Desc,"Raccogli due pezzi di legno per costruire un banco da lavoro. Ci sono nemici nei dintorni, quindi non allontanarti troppo. Una volta raccolti i materiali, controlla il pannello di costruzione accanto al distributore automatico. Lascio le tue ricompense nell'armadietto delle consegne.",#20250905113817,Quests
 Quest_22,Personale chiave,#20250812031927,Quests
-Quest_22_Desc,"In base alle informazioni disponibili, abbiamo localizzato alcune scorte J-Lab all’interno dell’area industriale. L’ingresso richiede una scheda magnetica, che potrebbe trovarsi sulle cornacchie d’élite.",#20250812031927,Quests
+Quest_22_Desc,"In base alle informazioni disponibili, abbiamo localizzato alcune scorte J-Lab all'interno dell'area industriale. L'ingresso richiede una scheda magnetica, che potrebbe trovarsi sulle cornacchie d'élite.",#20250812031927,Quests
 Quest_23,Costruzione di base II,#20250822041417,Quests
 Quest_23_Desc,"Grazie a te che hai riparato la torre del segnale, sono riuscito a contattare un vecchio amico. È un mercante d’armi che ha offerto di venire se apriamo un negozio di armi qui.",#20250812031927,Quests
 Quest_24,Costruzione di base III,#20250812031927,Quests
@@ -1434,7 +1434,7 @@ Quest_37,Alimentazione bilanciata II,#20250822041417,Quests
 Quest_38,Alimentazione bilanciata III,#20250812031927,Quests
 Quest_39,Istruttore di fitness,#20250812031927,Quests
 Quest_37_Desc,Assicurati\ che\ l’anatra\ muscolosa\ assuma\ abbastanza\ carboidrati.,#20251011093921,Quests
-Quest_38_Desc,Prenditi\ cura\ del\ benessere\ mentale\ dell’anatra\ muscolosa.,#20251011093921,Quests
+Quest_38_Desc,Prenditi\ cura\ del\ benessere\ mentale\ dell'anatra\ muscolosa.,#20251011093921,Quests
 Quest_39_Desc,Costruisci una palestra adeguata per Mud alla Base.,#20250812031927,Quests
 Quest_40,Commercio all’ingrosso di parti,#20250206103400,Quests
 Quest_40_Desc,Il mio fornitore ha avuto una carenza di materiali grezzi ultimamente. Potremmo trasformarlo in profitto. Fallo e ti venderò un AK-74U a un prezzo migliore.,#20250812031927,Quests
@@ -1445,10 +1445,10 @@ Quest_42,Lista del carico,#20250206103400,Quests
 Quest_42_Desc,I predoni hanno dirottato un carico prezioso vicino al margine nord-ovest di Ground Zero. Voglio sapere cosa c’è dentro. Vedi se riesci a trovare la lista del carico — probabilmente è in uno dei container.,#20250812031927,Quests
 Quest_43,Appassionato di pesca,#20250812031927,Quests
 Quest_43_Desc,Sono nuovo da queste parti e sto ancora orientandomi. Puoi aiutarmi a trovare due moli di pesca a Ground Zero?,#20250812031927,Quests
-Quest_4_Desc,"Se\ hai\ l’equipaggiamento\ giusto,\ puoi\ affrontare\ quei\ predoni\ furiosi—quelli\ rossi\ con\ i\ coltelli\ da\ macellaio.\ Una\ volta\ finito,\ lascerò\ qualche\ bullone\ e\ dado\ nell’armadietto\ delle\ consegne.\ Potrai\ usarli\ per\ migliorare\ il\ banco\ da\ lavoro.",#20250925103331,Quests
+Quest_4_Desc,"Se\ hai\ l'equipaggiamento\ giusto,\ puoi\ affrontare\ quei\ predoni\ furiosi—quelli\ rossi\ con\ i\ coltelli\ da\ macellaio.\ Una\ volta\ finito,\ lascerò\ qualche\ bullone\ e\ dado\ nell'armadietto\ delle\ consegne.\ Potrai\ usarli\ per\ migliorare\ il\ banco\ da\ lavoro.",#20250925103331,Quests
 Quest_45,Piuma strana,#20250206103400,Quests
 Quest_44,Test di prestazioni,#20250812031927,Quests
-Quest_44_Desc,Aiutami a eseguire un test sul campo delle prestazioni dell’AK-74U.,#20250812031927,Quests
+Quest_44_Desc,Aiutami a eseguire un test sul campo delle prestazioni dell'AK-74U.,#20250812031927,Quests
 Quest_46,Punitore,#20250925103331,Quests
 Quest_46_Desc,Quelle anatre nere hanno distrutto troppa infrastruttura. È ora che imparino la lezione.,#20250812031927,Quests
 Quest_33,Missione principale: Macchina inaffidabile,#20250812031927,Quests
@@ -1462,9 +1462,9 @@ Quest_47_Desc,"Stiamo\ pianificando\ una\ nuova\ attività\ nell’area\ del\ ma
 Quest_48,Provenienza da ovest,#20250812031927,Quests
 Quest_48_Desc,Le anatre nere si aggirano ovunque nell’area del magazzino — tipi pericolosi. Puoi eliminarne alcune usando l’arma che ti fornisco?,#20250905113817,Quests
 Quest_49,Arciere,#20250206103400,Quests
-Quest_49_Desc,"Qualcuno ha detto che gli archi sono inutili. Come amante dell’arco, non posso lasciar correre. Dimostra il contrario e ti ricompenserò con un fucile da cecchino.",#20250812031927,Quests
+Quest_49_Desc,"Qualcuno ha detto che gli archi sono inutili. Come amante dell'arco, non posso lasciar correre. Dimostra il contrario e ti ricompenserò con un fucile da cecchino.",#20250812031927,Quests
 Quest_50,Segreto gustoso,#20250812031927,Quests
-Quest_50_Desc,"C’è\ qualcosa\ di\ losco\ in\ una\ certa\ fabbrica\ di\ bevande.\ Vicino\ alla\ segheria,\ nell’area\ del\ magazzino,\ c’è\ una\ torre\ dell’acqua\ che\ nasconde\ i\ loro\ ingredienti\ segreti.\ Qualcosa\ è\ trapelato\ di\ recente—prendine\ alcuni\ campioni.",#20251011093921,Quests
+Quest_50_Desc,"C'è\ qualcosa\ di\ losco\ in\ una\ certa\ fabbrica\ di\ bevande.\ Vicino\ alla\ segheria,\ nell'area\ del\ magazzino,\ c'è\ una\ torre\ dell'acqua\ che\ nasconde\ i\ loro\ ingredienti\ segreti.\ Qualcosa\ è\ trapelato\ di\ recente—prendine\ alcuni\ campioni.",#20251011093921,Quests
 Quest_51,Appassionato di pesca II,#20250822041417,Quests
 Quest_51_Desc,Ho sentito che sei stato nell’area del magazzino. Un amico mi ha detto che lì c’è un ottimo punto di pesca. Pensi di riuscire a trovarlo per me?,#20250812031927,Quests
 Quest_52,Isolamento,#20250206103400,Quests
@@ -1473,7 +1473,7 @@ Quest_53,Caccia all’anatra: Pato Chapo,#20250812031927,Quests
 Quest_53_Desc,Sembra\ che\ ti\ stia\ ambientando\ bene.\ È\ il\ momento\ di\ mettere\ alla\ prova\ le\ tue\ abilità—abbatti\ Pato\ Chapo\ al\ campo\ stradale.,#20251011093921,Quests
 Quest_54,La\ sfida\ di\ Vida,#20250925103331,Quests
 Quest_54_Desc,Piccola pistola. Potenziale enorme.,#20250812031927,Quests
-Quest_55_Desc,"Il\ rifugio\ nell’area\ del\ magazzino\ ha\ problemi\ di\ corrente.\ Si\ trova\ vicino\ a\ una\ casa\ su\ una\ piccola\ collina,\ appena\ a\ nord\ del\ ponte\ rotto.\ O\ potresti\ dire\ che\ è\ a\ nord-est\ della\ fattoria.\ Porta\ una\ chiave\ inglese\ prima\ di\ andare.",#20251011093921,Quests
+Quest_55_Desc,"Il\ rifugio\ nell'area\ del\ magazzino\ ha\ problemi\ di\ corrente.\ Si\ trova\ vicino\ a\ una\ casa\ su\ una\ piccola\ collina,\ appena\ a\ nord\ del\ ponte\ rotto.\ O\ potresti\ dire\ che\ è\ a\ nord-est\ della\ fattoria.\ Porta\ una\ chiave\ inglese\ prima\ di\ andare.",#20251011093921,Quests
 Quest_55_Task_1,Ripara\ l’alimentazione\ del\ rifugio\ nell’area\ del\ magazzino.,#20251030071756,Quests
 Quest_56,Sconosciuto furtivo,#20250812031927,Quests
 Quest_56_Desc,"C’è\ un\ tipo\ inquietante\ nell’area\ del\ magazzino—compare\ e\ scompare\ come\ un\ fantasma,\ sempre\ con\ un\ cane\ al\ suo\ fianco.\ E\ di\ solito\ spara\ da\ lontano.\ Dagli\ una\ lezione.",#20251011093921,Quests
@@ -1485,14 +1485,14 @@ Quest_59_Desc,"Uno\ dei\ miei\ clienti\ si\ nasconde\ alla\ fattoria\ nell’are
 Quest_59_Task_1,Nascondi\ l’acqua\ in\ bottiglia\ nel\ punto\ designato.,#20251030071756,Quests
 Quest_60,Tuttofare,#20251117071453,Quests
 Quest_60_Desc,"Congratulazioni,\ hai\ sbloccato\ tutti\ i\ talenti!\ Costruiamo\ un\ Trofeo\ Commemorativo!",#20250925103331,Quests
-Quest_50_Task_1,Raccogli\ campioni\ dalla\ torre\ dell’acqua\ nella\ segheria.,#20251030071756,Quests
+Quest_50_Task_1,Raccogli\ campioni\ dalla\ torre\ dell'acqua\ nella\ segheria.,#20251030071756,Quests
 Quest_61,Un trofeo parlante!,#20250812031927,Quests
 Quest_61_Desc,Costruisci\ il\ Trofeo\ Commemorativo!,#20250925103331,Quests
 Quest_62,Bravo ragazzo,#20250206103400,Quests
 Quest_62_Desc,"Conosco uno degli sviluppatori (non io, lo giuro) che si comporta in modo strano ultimamente — continua a mormorare “Per favore aggiungilo alla tua Lista dei Desideri, per favore!” di continuo. È un bravo ragazzo... non so cosa gli sia preso. Puoi aiutarlo?",#20250812031927,Quests
 Quest_63,Sfida: Comandante del Gruppo Veloce,#20250812031927,Quests
 Quest_63_Desc,Sconfiggi quell’anatra gialla una volta.,#20250812031927,Quests
-Quest_58_Desc,La fabbrica occidentale è il cuore dell’area del magazzino. È piena di cose di valore — e di pericoli. Ci sono tre ingressi all’area. Ho bisogno che li esplori tutti.,#20250812031927,Quests
+Quest_58_Desc,La fabbrica occidentale è il cuore dell'area del magazzino. È piena di cose di valore — e di pericoli. Ci sono tre ingressi all'area. Ho bisogno che li esplori tutti.,#20250812031927,Quests
 Quest_64,Buon anno!,#20250812031927,Quests
 Quest_64_Desc,Buon anno! Mettiamo un po’ di decorazioni festive!,#20250812031927,Quests
 Scene_Any,Qualsiasi mappa,#20250812031927,ScenesAndLocations
@@ -1515,7 +1515,7 @@ Tag_Accessory,Accessorio,#20250812031927,Tags
 Tag_Armor,Corpo,#20250812031927,Tags
 Tag_Backpack,Zaino,#20250206103400,Tags
 Tag_Blueprint,Progetto,#20250206103400,Tags
-Tag_Bullet,Arma,#20250812031927,Tags
+Tag_Bullet,Proiettile,#20260209061302,Tags
 Tag_Character,Personaggio,#20250206103400,Tags
 Tag_Continer,Contenitore,#20250206103400,Tags
 Tag_Daily,Forniture giornaliere,#20250812031927,Tags
@@ -1873,29 +1873,29 @@ Item_Bullet_PWS_S,Piccolo proiettile energetico,#20250509104638,Items
 Item_Bullet_PWS_S_Desc,Fornisce una piccola carica di energia alle armi energetiche.,#20250812031927,Items
 Item_Bullet_ARR_Explosion,Freccia esplosiva,#20250509170400,Items
 Item_Bullet_ARR_Explosion_Desc,Questa cosa non ha una distanza di esplosione sicura.,#20250509170400,Items
-Item_Bullet_SMG_Rusted_Desc,Un proiettile leggero da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell’arma.,#20250812031927,Items
+Item_Bullet_SMG_Rusted_Desc,Un proiettile leggero da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell'arma.,#20250812031927,Items
 Item_Bullet_SMG_Normal_Desc,Un proiettile leggero da servizio standard.,#20250812031927,Items
 Item_Bullet_SMG_Piercing2_Desc,Un proiettile leggero che penetra armature di base.,#20250812031927,Items
 Item_Bullet_SMG_Piercing3_Desc,Un proiettile leggero che penetra armature intermedie.,#20250812031927,Items
 Item_Bullet_SMG_Dumdums_Desc,Un proiettile leggero che infligge alto danno alla carne ma scarsa penetrazione.,#20250812031927,Items
-Item_Bullet_SMG_Break_Desc,"Un proiettile leggero progettato per rompere l’armatura. Bassa penetrazione ma distrugge rapidamente la durabilità dell’armatura, lasciando il nemico esposto e infliggendo più danno dei proiettili standard.",#20250905113817,Items
-Item_Bullet_AR_Rusted_Desc,Un proiettile da fucile da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell’arma.,#20250812031927,Items
+Item_Bullet_SMG_Break_Desc,"Un proiettile leggero progettato per rompere l'armatura. Bassa penetrazione ma distrugge rapidamente la durabilità dell'armatura, lasciando il nemico esposto e infliggendo più danno dei proiettili standard.",#20250905113817,Items
+Item_Bullet_AR_Rusted_Desc,Un proiettile da fucile da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell'arma.,#20250812031927,Items
 Item_Bullet_AR_Normal_Desc,Un proiettile da fucile da servizio standard.,#20250812031927,Items
 Item_Bullet_AR_Piercing2_Desc,Un proiettile da fucile che penetra armature di base.,#20250812031927,Items
 Item_Bullet_AR_Piercing4_Desc,Un proiettile da fucile che penetra armature intermedie.,#20250812031927,Items
 Item_Bullet_AR_Piercing6_Desc,"Un proiettile da fucile che può perforare quasi tutte le armature, infliggendo danni elevati.",#20250905113817,Items
-Item_Bullet_AR_Break_Desc,"Un proiettile da fucile progettato per rompere l’armatura. Bassi danni e penetrazione, ma distrugge rapidamente la durabilità dell’armatura.",#20250812031927,Items
-Item_Bullet_BR_Rusted_Desc,Un proiettile pesante da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell’arma.,#20250812031927,Items
+Item_Bullet_AR_Break_Desc,"Un proiettile da fucile progettato per rompere l'armatura. Bassi danni e penetrazione, ma distrugge rapidamente la durabilità dell'armatura.",#20250812031927,Items
+Item_Bullet_BR_Rusted_Desc,Un proiettile pesante da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell'arma.,#20250812031927,Items
 Item_Bullet_BR_Normal_Desc,Un proiettile pesante da servizio standard.,#20250812031927,Items
 Item_Bullet_BR_Piercing2_Desc,Un proiettile pesante che penetra armature di base.,#20250812031927,Items
 Item_Bullet_BR_Piercing4_Desc,Un proiettile pesante che penetra armature intermedie.,#20250812031927,Items
 Item_Bullet_BR_Piercing6_Desc,"Un proiettile pesante che può perforare quasi tutte le armature, infliggendo danni elevati e alla testa.",#20250905113817,Items
-Item_Bullet_SNP_Rusted_Desc,Un proiettile da cecchino da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell’arma.,#20250812031927,Items
+Item_Bullet_SNP_Rusted_Desc,Un proiettile da cecchino da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell'arma.,#20250812031927,Items
 Item_Bullet_SNP_Normal_Desc,Un proiettile da cecchino da servizio standard.,#20250812031927,Items
 Item_Bullet_SNP_Piercing2_Desc,Un\ proiettile\ da\ cecchino\ che\ penetra\ armature\ di\ base.,#20250919105709,Items
 Item_Bullet_SNP_Piercing4_Desc,Un proiettile da cecchino che penetra armature intermedie.,#20250812031927,Items
 Item_Bullet_SNP_Piercing6_Desc,"Un proiettile da cecchino che può perforare quasi tutte le armature, infliggendo alti danni alla testa.",#20250905113817,Items
-Item_Bullet_SHT_Rusted_Desc,Una cartuccia da fucile a pompa da servizio leggermente arrugginita. Scarsa penetrazione e alta usura dell’arma.,#20250812031927,Items
+Item_Bullet_SHT_Rusted_Desc,Una cartuccia da fucile a pompa da servizio leggermente arrugginita. Scarsa penetrazione e alta usura dell'arma.,#20250812031927,Items
 Item_Bullet_SHT_Normal_Desc,Una cartuccia da fucile a pompa standard.,#20250812031927,Items
 Item_Bullet_SHT_Piercing2_Desc,Una\ cartuccia\ che\ penetra\ armature\ di\ base.,#20250919105709,Items
 Item_Bullet_SHT_Piercing3_Desc,Una cartuccia che penetra armature intermedie.,#20250812031927,Items
@@ -1955,7 +1955,7 @@ Item_Sniper_SV98_Normal_Desc,"Un eccellente fucile da cecchino tuttofare, con po
 Item_PST_TT33_Normal_Desc,"Una pistola di servizio di base con statistiche medie, ma estremamente economica grazie al design semplice.",#20250812031927,Items
 Item_PST_PM_Normal_Desc,Una pistola di servizio leggera e facile da trasportare.,#20250812031927,Items
 Item_MAG_Desert_Normal_Desc,Dalle dimensioni di una pistola e compatibile con i suoi accessori—ma spara potenti colpi Magnum.,#20250812031927,Items
-Item_BR_M1A_Normal_Desc,"Variante civile dell’M14. Alta precisione e lunga portata, ma sensibilmente pesante.",#20250812031927,Items
+Item_BR_M1A_Normal_Desc,"Variante civile dell'M14. Alta precisione e lunga portata, ma sensibilmente pesante.",#20250812031927,Items
 Item_BR_M14_Normal_Desc,Fucile da battaglia semi-automatico standard con sorprendentemente alta velocità di fuoco.,#20250812031927,Items
 Item_AR_MCXSpear_Normal_Desc,"Potente fucile da battaglia con sistema di controllo di tiro integrato. Costoso, ma praticamente perfetto.",#20250812031927,Items
 Indicator_PutAway,Riponi arma,#20250812031927,Default
@@ -1981,7 +1981,7 @@ Var_damageMultiplier,Coefficiente danno,#20250812031927,Default
 Var buffchanceMultiplier,Moltiplicatore debuff,#20250509104638,Default
 Var bleedChance,Probabilità sanguinamento,#20250812031927,Default
 UI_ItemRepair_RepairAll,Ripara tutto,#20250509104638,Default
-UI_RepairAll_PlaceHolder,Nessun oggetto dell’equipaggiamento attuale necessita riparazione.,#20250812031927,Default
+UI_RepairAll_PlaceHolder,Nessun oggetto dell'equipaggiamento attuale necessita riparazione.,#20250812031927,Default
 Item_Cash,Contanti,#20250509104638,Default
 Item_Cash_Desc,Banconote.,#20250812031927,Default
 UI_Refresh,Aggiorna,#20250509104638,Default
@@ -2351,7 +2351,7 @@ Item_Bullet_BR_Poison_Desc,"Un proiettile pesante imbevuto di tossine, infligge 
 Item_Bullet_BR_Electric_Desc,"Un proiettile pesante riempito di polvere metallica, infligge danni elettrici.",#20250812031927,Default
 Item_Bullet_BR_Space_Desc,"Un proiettile pesante progettato con tecnologia aliena, infligge danni spaziali.",#20250812031927,Default
 Item_Bullet_BR_Dumdums_Desc,Un proiettile pesante che infligge alti danni alla carne ma ha scarsa penetrazione.,#20250812031927,Default
-Item_Bullet_BR_Break_Desc,"Un proiettile pesante progettato per rompere l’armatura. Bassi danni e penetrazione, ma riduce rapidamente la durabilità dell’armatura del nemico, lasciandolo esposto.",#20250812031927,Default
+Item_Bullet_BR_Break_Desc,"Un proiettile pesante progettato per rompere l'armatura. Bassi danni e penetrazione, ma riduce rapidamente la durabilità dell'armatura del nemico, lasciandolo esposto.",#20250812031927,Default
 Item_Bullet_SNP_Burn_Desc,"Un proiettile da cecchino infuso con composti incendiari, infligge danni da fuoco.",#20250812031927,Default
 Item_Bullet_SNP_Piercing3_Desc,Un proiettile da cecchino penetra le armature intermedie.,#20250812031927,Default
 Item_Bullet_SNP_Piercing5_Desc,Un proiettile da cecchino penetra le armature avanzate.,#20250812031927,Default
@@ -2359,7 +2359,7 @@ Item_Bullet_SNP_Poison_Desc,"Un proiettile da cecchino imbevuto di tossine, infl
 Item_Bullet_SNP_Electric_Desc,"Un proiettile da cecchino riempito di polvere metallica, infligge danni elettrici.",#20250812031927,Default
 Item_Bullet_SNP_Space_Desc,"Un proiettile da cecchino progettato con tecnologia aliena, infligge danni spaziali.",#20250812031927,Default
 Item_Bullet_SNP_Dumdums_Desc,Un proiettile da cecchino che infligge alti danni alla carne ma ha scarsa penetrazione.,#20250812031927,Default
-Item_Bullet_SNP_Break_Desc,"Un proiettile da cecchino progettato per rompere l’armatura. Bassi danni e penetrazione, ma riduce rapidamente la durabilità dell’armatura del nemico, lasciandolo esposto.",#20250812031927,Default
+Item_Bullet_SNP_Break_Desc,"Un proiettile da cecchino progettato per rompere l'armatura. Bassi danni e penetrazione, ma riduce rapidamente la durabilità dell'armatura del nemico, lasciandolo esposto.",#20250812031927,Default
 Item_Bullet_SHT_Burn_Desc,"Una cartuccia da fucile a pompa infusa con composti incendiari, infligge danni da fuoco.",#20250812031927,Default
 Item_Bullet_SHT_Piercing4_Desc,Una cartuccia da fucile a pompa penetra le armature intermedie.,#20250812031927,Default
 Item_Bullet_SHT_Piercing5_Desc,Una cartuccia da fucile a pompa penetra le armature avanzate.,#20250812031927,Default
@@ -2367,7 +2367,7 @@ Item_Bullet_SHT_Piercing6_Desc,Una cartuccia da fucile a pompa penetra le armatu
 Item_Bullet_SHT_Poison_Desc,"Una cartuccia da fucile a pompa imbevuta di tossine, infligge danni da veleno.",#20250812031927,Default
 Item_Bullet_SHT_Electric_Desc,"Una cartuccia da fucile a pompa riempita di polvere metallica, infligge danni elettrici.",#20250812031927,Default
 Item_Bullet_SHT_Space_Desc,"Una cartuccia da fucile a pompa progettata con tecnologia aliena, infligge danni spaziali.",#20250812031927,Default
-Item_Bullet_MAG_Rusted_Desc,Un proiettile magnum da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell’arma.,#20250812031927,Default
+Item_Bullet_MAG_Rusted_Desc,Un proiettile magnum da servizio leggermente arrugginito. Scarsa penetrazione e alta usura dell'arma.,#20250812031927,Default
 Item_Bullet_MAG_Normal_Desc,Un proiettile magnum da servizio standard.,#20250812031927,Default
 Item_Bullet_MAG_Burn_Desc,"Un proiettile magnum infuso con composti incendiari, infligge danni da fuoco.",#20250812031927,Default
 Item_Bullet_MAG_Piercing3_Desc,Un proiettile magnum penetra le armature intermedie.,#20250812031927,Default
@@ -2376,7 +2376,7 @@ Item_Bullet_MAG_Poison_Desc,"Un proiettile magnum imbevuto di tossine, infligge 
 Item_Bullet_MAG_Electric_Desc,"Un proiettile magnum riempito di polvere metallica, infligge danni elettrici.",#20250812031927,Default
 Item_Bullet_MAG_Space_Desc,"Un proiettile magnum progettato con tecnologia aliena, infligge danni spaziali.",#20250812031927,Default
 Item_Bullet_MAG_Dumdums_Desc,Un proiettile magnum che infligge alti danni alla carne ma ha scarsa penetrazione.,#20250812031927,Default
-Item_Bullet_MAG_Break_Desc,"Un proiettile magnum progettato per rompere l’armatura. Bassi danni e penetrazione, ma riduce rapidamente la durabilità dell’armatura del nemico, lasciandolo esposto.",#20250812031927,Default
+Item_Bullet_MAG_Break_Desc,"Un proiettile magnum progettato per rompere l'armatura. Bassi danni e penetrazione, ma riduce rapidamente la durabilità dell'armatura del nemico, lasciandolo esposto.",#20250812031927,Default
 MerchantName_Merchant_Myst,Mercante misterioso,#20250509104638,Default
 Item_NightVisionGoggles,Visore notturno GPNVG-18,#20250509104638,Default
 Item_NightVisionGoggles_Desc,Visore notturno ad alte prestazioni che trasforma la notte in giorno con chiarezza eccezionale.,#20250812031927,Default
@@ -2392,7 +2392,7 @@ Item_Glass_Desc,Danno un’aria da studioso.,#20250812031927,Default
 Item_WhiteGown,Camice bianco da laboratorio,#20250509104638,Default
 Item_WhiteGown_Desc,Camice standard indossato dai ricercatori del J-Lab.,#20250812031927,Default
 Item_GlassShiny,Occhiali luccicanti,#20250509104638,Default
-Item_GlassShiny_Desc,Brillano dell’inconfondibile aura di un cattivo.,#20250812031927,Default
+Item_GlassShiny_Desc,Brillano dell'inconfondibile aura di un cattivo.,#20250812031927,Default
 UI_GoOut,Esci,#20250812031927,Default
 Loading_WakeUp,Svegliati...,#20250509104638,Default
 Guide_Intro_0,Svegliati!,#20250509104638,Default
@@ -2433,11 +2433,11 @@ Tag_Sticky_Desc,Non vendibile o lasciabile,#20250812031927,Default
 Tag_Sticky,Protetto,#20250509104638,Default
 Tag_NotSellable,Non in vendita,#20250812031927,Default
 Quest_1101,Sistema di supporto vitale,#20250509104638,Default
-Quest_1101_Desc,"A\ proposito\ del\ sistema\ di\ supporto\ vitale\ dell’astronave,\ ho\ un\ informatore\ con\ alcune\ informazioni.\ Ma\ ha\ una\ condizione:\ vuole\ un\ MP7\ Elettrificato.\ Ricordo\ che\ il\ Comandante\ del\ Gruppo\ Veloce\ nell’area\ del\ magazzino\ ne\ aveva\ uno.",#20251011093921,Default
+Quest_1101_Desc,"A\ proposito\ del\ sistema\ di\ supporto\ vitale\ dell'astronave,\ ho\ un\ informatore\ con\ alcune\ informazioni.\ Ma\ ha\ una\ condizione:\ vuole\ un\ MP7\ Elettrificato.\ Ricordo\ che\ il\ Comandante\ del\ Gruppo\ Veloce\ nell'area\ del\ magazzino\ ne\ aveva\ uno.",#20251011093921,Default
 Quest_1102,Marcatura moduli di supporto vitale,#20250812031927,Default
 Quest_1102_Desc,"A\ proposito\ del\ sistema\ di\ supporto\ vitale\ che\ ho\ menzionato,\ il\ mio\ informatore\ non\ può\ presentarsi\ di\ persona,\ quindi\ ha\ lasciato\ le\ informazioni\ nell’area\ del\ magazzino.\ Quando\ ci\ andrai,\ riportamele.\ È\ nascosto\ in\ un\ rifugio\ blu\ vicino\ al\ ponte\ rotto.",#20250925103332,Default
 Quest_1103,Marca moduli di supporto vitale,#20250509104638,Default
-Quest_1103_Desc,Abbiamo\ individuato\ le\ posizioni\ dei\ moduli\ di\ supporto\ vitale.\ Porta\ il\ marcatore\ nell’area\ del\ magazzino\ e\ segnalali.\ Manderò\ qualcuno\ a\ rimuovere\ il\ dispositivo\ di\ supporto\ vitale\ all’interno.\ Il\ primo\ modulo\ è\ in\ una\ casa\ sul\ lato\ nord\ del\ campo\ stradale\ est.\ Il\ secondo\ è\ dentro\ un\ container\ giallo\ alla\ segheria.\ Il\ terzo\ è\ in\ un\ altro\ container\ giallo\ vicino\ a\ una\ casa\ a\ sud\ del\ burrone.\ Il\ quarto\ si\ trova\ nell’ufficio\ della\ fabbrica\ occidentale.,#20251011093921,Default
+Quest_1103_Desc,Abbiamo\ individuato\ le\ posizioni\ dei\ moduli\ di\ supporto\ vitale.\ Porta\ il\ marcatore\ nell'area\ del\ magazzino\ e\ segnalali.\ Manderò\ qualcuno\ a\ rimuovere\ il\ dispositivo\ di\ supporto\ vitale\ all'interno.\ Il\ primo\ modulo\ è\ in\ una\ casa\ sul\ lato\ nord\ del\ campo\ stradale\ est.\ Il\ secondo\ è\ dentro\ un\ container\ giallo\ alla\ segheria.\ Il\ terzo\ è\ in\ un\ altro\ container\ giallo\ vicino\ a\ una\ casa\ a\ sud\ del\ burrone.\ Il\ quarto\ si\ trova\ nell'ufficio\ della\ fabbrica\ occidentale.,#20251011093921,Default
 Quest_1104,Ripara moduli di supporto vitale,#20250509104638,Default
 Quest_1104_Desc,"I\ moduli\ di\ supporto\ vitale\ sono\ tornati,\ ma\ alcuni\ sono\ un\ po’\ danneggiati.\ Aiutami\ a\ raccogliere\ dei\ materiali\ per\ sistemarli.",#20251011093921,Default
 Quest_1105,Recupera l'unità di circolazione,#20250509104638,Default
@@ -2450,7 +2450,7 @@ Quest_1203,Raffreddamento avanzato,#20250509104638,Default
 Quest_1203_Desc,"Quel\ supercomputer\ consuma\ un’enorme\ quantità\ di\ energia,\ e\ ha\ bisogno\ di\ un\ serio\ sistema\ di\ raffreddamento\ per\ reggere.\ Ricordo\ di\ aver\ visto\ un’unità\ di\ raffreddamento\ in\ una\ casa\ non\ lontano\ dalla\ Miniera\ Nascosta.",#20251009091249,Default
 Quest_1204,Rilascio prestazioni,#20250509104638,Default
 Quest_1204_Desc,"Ho terminato l’analisi del supercomputer. La maggior parte dei componenti è bruciata—servono ricambi. Per prima cosa, troviamo una scheda madre compatibile con tutte queste parti. Dovrebbe essercene una in quella Miniera.",#20250905113817,Default
-Quest_1301,Alla ricerca dell’auto amata,#20250812031927,Default
+Quest_1301,Alla ricerca dell'auto amata,#20250812031927,Default
 Quest_1301_Desc,"Ho\ ricevuto\ una\ lettera\ anonima\ la\ scorsa\ notte.\ Ascolta\ qui:\ ""Ho\ informazioni\ sul\ vettore\ di\ spinta\ che\ cerchi.\ Aiutami\ a\ trovare\ e\ segnare\ la\ mia\ auto\ rubata,\ e\ condividerò\ le\ informazioni\ con\ te.""\ Ho\ controllato—la\ sua\ auto\ dovrebbe\ trovarsi\ a\ est\ della\ piazza\ del\ Municipio\ di\ Farm\ Town.\ È\ un\ SUV\ nero.",#20251011093921,Default
 Quest_1302,Vettore di Spinta,#20250812031927,Default
 Quest_1302_Desc,"Ho ricevuto una risposta—guarda qui: ""Grazie. Le informazioni che cerchi si trovano su un computer al secondo piano dell'Ufficio. È proprio al centro di Farm Town. Non dimenticare un Hard Disk Portatile.""",#20250905113817,Default
@@ -2837,7 +2837,7 @@ Buff_SpaceResistLow,Riduzione Danni Spaziali (S),#20250812031927,Default
 Buff_SpaceResistLow_Desc,Riduce\ leggermente\ i\ danni\ spaziali\ subiti,#20250919105709,Default
 Buff_SpaceResistHigh,Riduzione Danni Spaziali (L),#20250812031927,Default
 Buff_SpaceResistHigh_Desc,Riduce\ notevolmente\ i\ danni\ spaziali\ subiti,#20250919105709,Default
-Item_Injection_StormProtection1_Desc,"Un\ iniettore\ che\ fornisce\ protezione\ contro\ le\ tempeste\ nelle\ fasi\ iniziali\ per\ 120\ secondi.\ Quando\ usato\ insieme\ a\ equipaggiamento\ protettivo,\ offre\ resistenza\ alla\ tempesta.",#20251216062805,Default
+Item_Injection_StormProtection1_Desc,"Un\ iniettore\ che\ fornisce\ protezione\ contro\ i\ disturbi\ tempestosi\ nelle\ fasi\ iniziali\ per\ 180\ secondi\.\ Se\ usato\ insieme\ a\ equipaggiamento\ protettivo,\ offre\ resistenza\ alla\ tempesta\.",#20260209061302,Default
 Item_Injection_StormProtection2_Desc,Iniettore spaziale sperimentale potente che garantisce resistenza temporanea alle distorsioni per 120s.,#20250812031927,Default
 Cname_StormCreature,Creatura della Tempesta,#20250523033740,Default
 Item_ArmorLV4StormProtection,Tuta di Protezione Spaziale,#20250812031927,Default
@@ -3096,7 +3096,7 @@ Perk_Physical_20,Parallele,#20250812031927,Default
 Perk_Physical_21,Gestione del carico,#20250812031927,Default
 Perk_Physical_22,Equilibrio elettrolitico,#20250812031927,Default
 Perk_Physical_23,Camminata veloce,#20250812031927,Default
-Perk_Physical_24,Spinta dell’anca con bilanciere,#20250812031927,Default
+Perk_Physical_24,Spinta dell'anca con bilanciere,#20250812031927,Default
 Perk_Physical_25,Trazioni,#20250812031927,Default
 Perk_Physical_26,Metabolismo energetico,#20250812031927,Default
 Perk_Physical_27,Adattamento metabolico,#20250812031927,Default
@@ -3182,8 +3182,8 @@ Buff_BurnResist_Desc,Immunità all’incendio,#20250919105709,Default
 Buff_SpaceResist,Immunità alla frantumazione,#20250812031927,Default
 Buff_SpaceResist_Desc,Immunità alla frantumazione,#20250919105709,Default
 Item_ArmorLV5StormProtection,Tuta spaziale di protezione definitiva,#20250812031927,Default
-Item_ArmorLV5StormProtection_Desc,L’evoluzione finale della tuta spaziale di protezione di J-Lab. Mantiene la resistenza alle tempeste originale aumentando notevolmente la difesa generale e la riduzione dei danni spaziali. Rimuove automaticamente uno stack di Frantumazione ogni secondo.,#20250812031927,Default
-Item_HelmatLV5StormProtection_Desc,L’evoluzione finale della tuta spaziale di protezione di J-Lab. Mantiene la resistenza alle tempeste originale aumentando notevolmente la difesa generale e la riduzione dei danni spaziali.,#20250812031927,Default
+Item_ArmorLV5StormProtection_Desc,L'evoluzione finale della tuta spaziale di protezione di J-Lab. Mantiene la resistenza alle tempeste originale aumentando notevolmente la difesa generale e la riduzione dei danni spaziali. Rimuove automaticamente uno stack di Frantumazione ogni secondo.,#20250812031927,Default
+Item_HelmatLV5StormProtection_Desc,L'evoluzione finale della tuta spaziale di protezione di J-Lab. Mantiene la resistenza alle tempeste originale aumentando notevolmente la difesa generale e la riduzione dei danni spaziali.,#20250812031927,Default
 Item_HelmatLV5StormProtection,Elmo spaziale di protezione definitivo,#20250812031927,Default
 Item_AcceleratorCard,Scheda\ Acceleratore,#20251030071756,Default
 Item_AcceleratorCard_Desc,Abilita le capacità di rendering 3D sulla console del futuro.,#20250812031927,Default
@@ -3221,7 +3221,7 @@ Item_FaceMask_Fly_Eye,Occhiali da mosca,#20250812031927,Default
 Item_FaceMask_Fly_Eye_Desc,"Occhiali indossati dalla Squadra Mosca, progettati per aiutarli a individuare facilmente il prossimo pasto.",#20250812031927,Default
 Item_Backpack_Fly_Wing_Desc,Zaino leggero usato dalla Squadra Mosca. Aumenta notevolmente il peso trasportabile ma ha una capacità di stoccaggio limitata.,#20250812031927,Default
 Cname_Boss_Fly_Child,Membro della Squadra Mosca,#20250812031927,Default
-Item_Poop_ShitGun_Poison_Desc,L’arma usata dai membri della Squadra Mosca spara proiettili speciali. Bleah!,#20250812031927,Default
+Item_Poop_ShitGun_Poison_Desc,L'arma usata dai membri della Squadra Mosca spara proiettili speciali. Bleah!,#20250812031927,Default
 Item_Poop_ShotShitGun_Poison_Desc,L’arma usata dal Capitano Mosca spara proiettili speciali. Bleah!,#20250812031927,Default
 Buff_NauseousResist,Immunità alla nausea,#20250812031927,Default
 Buff_NauseousResist_Desc,Immunità\ alla\ nausea,#20250919105709,Default
@@ -3239,7 +3239,7 @@ GoldMiner_GMA_005,Occhiali da sole eleganti,#20250812031927,Default
 GoldMiner_GMA_005_Desc,Le prossime 3 pietre piccole che raccogli valgono +500 ciascuna.,#20250812031927,Default
 GoldMiner_GMA_006_Desc,Le pietre piccole contano anche come oro (valore invariato).,#20250812031927,Default
 GoldMiner_GMA_006,Vernice dorata,#20250812031927,Default
-GoldMiner_GMA_007_Desc,"Alla fine del livello, se hai raccolto tutte e 3 le dimensioni delle pepite d’oro, ottieni un moltiplicatore +0,5.",#20250812031927,Default
+GoldMiner_GMA_007_Desc,"Alla fine del livello, se hai raccolto tutte e 3 le dimensioni delle pepite d'oro, ottieni un moltiplicatore +0,5.",#20250812031927,Default
 GoldMiner_GMA_007,Arpa,#20250812031927,Default
 GoldMiner_GMA_008_Desc,"Alla fine del livello, se hai raccolto tutti gli oggetti del campo, ottieni +0,5 Carisma.",#20250812031927,Default
 GoldMiner_GMA_009_Desc,"Dopo aver raccolto una pietra, il prossimo oro vale 2× il suo valore normale.",#20250812031927,Default
@@ -3249,7 +3249,7 @@ GoldMiner_GMA_012_Desc,Le mine non esploderanno al contatto e possono essere rac
 GoldMiner_GMA_014_Desc,Raccogliere un maiale ripristina 100 di Stamina.,#20250812031927,Default
 GoldMiner_GMA_015_Desc,Aumenta\ il\ valore\ del\ maiale\ del\ 20\.,#20250925103332,Default
 GoldMiner_GMA_016_Desc,Aumenta il valore delle pietre del 100%.,#20250812031927,Default
-GoldMiner_GMA_017_Desc,Aumenta il valore dell’oro del 20%.,#20250812031927,Default
+GoldMiner_GMA_017_Desc,Aumenta il valore dell'oro del 20%.,#20250812031927,Default
 GoldMiner_GMA_018_Desc,I primi 5 oggetti valgono 200 ciascuno.,#20250812031927,Default
 GoldMiner_GMA_019_Desc,3 Bombe,#20250812031927,Default
 GoldMiner_GMA_020_Desc,"3 Pozioni della Forza (Forza +100, rimosse dopo la prossima presa)",#20250812031927,Default
@@ -3389,7 +3389,7 @@ Building_GamingCenter_Desc,Un posto dove giocare.,#20250812031927,Default
 GamingConsole_Incomplete,Il cabinato arcade è incompleto. Installa sia la console che il monitor per avviare il gioco.,#20250812031927,Default
 GamingConsole_NoGame,Per favore inserisci la cartuccia di gioco.,#20250812031927,Default
 MainMenu_MODs,Mod,#20250812031927,Default
-Mods_UserAgreement,Accordo per l’uso delle mod,#20250812031927,Default
+Mods_UserAgreement,Accordo per l'uso delle mod,#20250812031927,Default
 SteamWorkshop,Steam Workshop,#20250812031927,Default
 LocalFile,File locali,#20250812031927,Default
 Quest_1299,Installa Supercomputer,#20250812031927,Default
@@ -3416,7 +3416,7 @@ Quest_882,Corriere Ufficiale,#20250812031927,Default
 Quest_882_Task_1,Metti al sicuro il pacco e completa la consegna.,#20250812031927,Default
 Quest_881_Task_1,Metti al sicuro il pacco e completa la consegna.,#20250812031927,Default
 Quest_883,Promozione a Corriere Senior,#20250812031927,Default
-Quest_883_Desc,"Nuovo incarico! Vai al camino nella Fabbrica Occidentale dell’Area del Magazzino, prendi il pacco e consegnalo alla casa verde vicino al Campo Stradale Est. Completa questa consegna e verrai promosso a Corriere Senior!",#20250812031927,Default
+Quest_883_Desc,"Nuovo incarico! Vai al camino nella Fabbrica Occidentale dell'Area del Magazzino, prendi il pacco e consegnalo alla casa verde vicino al Campo Stradale Est. Completa questa consegna e verrai promosso a Corriere Senior!",#20250812031927,Default
 Quest_884,Corriere Senior,#20250812031927,Default
 Quest_885,Promozione a Corriere Esperto,#20250812031927,Default
 Quest_885_Desc,"Hai\ fatto\ un\ ottimo\ lavoro\ finora,\ ma\ per\ diventare\ davvero\ un\ Corriere\ Esperto\ e\ iniziare\ a\ guadagnare\ seriamente,\ dovrai\ migliorare\ la\ tua\ efficienza\.\ Prova\ a\ gestire\ due\ consegne\ in\ un'unica\ corsa:\ la\ prima\ parte\ dalla\ baita\ vicino\ alla\ Segheria\ di\ Farm\ Town\ fino\ al\ pozzo\ prosciugato\ accanto\ alla\ Fattoria\.\ La\ seconda\ invece\ dalla\ guardiola\ vicino\ al\ cancello\ est\ della\ Fabbrica\ Settentrionale\ fino\ alla\ stanza\ sul\ lato\ est\ del\ Sanatorio\.\ Pianifica\ bene\ il\ percorso\ per\ sfruttare\ al\ meglio\ il\ tempo\.",#20251011093922,Default
@@ -3428,7 +3428,7 @@ Quest_887,Corriere Esperto II,#20250812031927,Default
 Quest_888,Promozione a Corriere d’Oro,#20250812031927,Default
 Item_AR_AK47_Quest,AK-47 Personalizzato,#20250812031927,Default
 Item_AR_AK47_Quest_Desc,AK-47 personalizzato. Non può essere riportato alla Base.,#20250812031927,Default
-Quest_888_Desc,"Questo incarico è notoriamente difficile. Molti corrieri esperti hanno fallito. Recupera l’AK-47 personalizzato dal camion blu a nord del campo stradale di Ground Zero, usalo per eliminare il Comandante del Gruppo Rapido nell’Area del Magazzino, e poi consegna l’arma all’ingresso della sala giochi nel distretto commerciale di Farm Town. Non dimenticare di portare munizioni extra per l’AR. Buona fortuna, conto su di te.",#20250812031927,Default
+Quest_888_Desc,"Questo incarico è notoriamente difficile. Molti corrieri esperti hanno fallito. Recupera l'AK-47 personalizzato dal camion blu a nord del campo stradale di Ground Zero, usalo per eliminare il Comandante del Gruppo Rapido nell'Area del Magazzino, e poi consegna l'arma all'ingresso della sala giochi nel distretto commerciale di Farm Town. Non dimenticare di portare munizioni extra per l'AR. Buona fortuna, conto su di te.",#20250812031927,Default
 Quest_889,Corriere d’Oro,#20250812031927,Default
 Quest_889_Desc,Sei diventato il punto di riferimento per tutti i corrieri. È ora di affidarti la missione di consegna definitiva.,#20250812031927,Default
 Item_AR_AUGA3_Quest,StG 77A3 Personalizzato,#20250812031927,Default
@@ -3523,7 +3523,7 @@ Quest_107_Desc,"Bene, hai superato il mio test. Ora arriva la certificazione da 
 Quest_108,Certificazione Cecchino II,#20250812031927,Default
 Quest_108_Desc,"Questo\ è\ un\ vero\ test,\ quindi\ ci\ servono\ bersagli\ veri.\ Ottieni\ due\ uccisioni\ con\ colpo\ alla\ testa\ su\ Pato\ Chapo\ usando\ l'SKS.",#20251020034720,Default
 Quest_208,Cecchino Ufficiale,#20250812031927,Default
-Quest_208_Desc,"Niente male — lo ammetto, ora sei un cecchino. Ma un cecchino ha bisogno dell’arma giusta. C’è un tizio chiamato Lordon nell’Area del Magazzino. Il suo fucile è solido. Portamelo e lo migliorerò. Ricorda: un vero cecchino punta sempre alla testa. Ti consiglio lo StG-77.",#20250905113817,Default
+Quest_208_Desc,"Niente male — lo ammetto, ora sei un cecchino. Ma un cecchino ha bisogno dell'arma giusta. C'è un tizio chiamato Lordon nell'Area del Magazzino. Il suo fucile è solido. Portamelo e lo migliorerò. Ricorda: un vero cecchino punta sempre alla testa. Ti consiglio lo StG-77.",#20250905113817,Default
 Quest_209,Prova di Forza I,#20250812031927,Default
 Quest_209_Desc,"Hai un vero fucile da cecchino. È ora di dimostrare che te lo meriti. E non perderlo, a meno che tu non voglia andare a implorare Lorden per un altro.",#20250812031927,Default
 Quest_109_Desc,Costruisci un MF e metti alla prova la sua potenza.,#20250812031927,Default
@@ -3624,7 +3624,7 @@ Item_NailBat,Mazza da baseball chiodata,#20250905113817,Default
 Item_bat_Desc,Una comune mazza da baseball di legno.,#20250905113817,Default
 Item_NailBat_Desc,Una mazza da baseball modificata che sembra dolorosamente brutale.,#20250905113817,Default
 Cname_RPG,Misel,#20250925103332,Default
-Item_Bullet_Poop_Normal_Desc,Spezzato in piccoli pezzi—della misura giusta per essere caricati in un’arma.,#20250905113817,Default
+Item_Bullet_Poop_Normal_Desc,Spezzato in piccoli pezzi—della misura giusta per essere caricati in un'arma.,#20250905113817,Default
 Item_Shit_Desc,Puzza... ma qualcosa là fuori sembra gradirlo.,#20250905113817,Default
 Item_Totem_FireResist_3_Desc,Immunità al Bruciato e riduzione leggera dei danni da fuoco subiti.,#20250905113817,Default
 Item_Totem_GunControl_Desc,Riduce notevolmente il rinculo delle armi da fuoco.,#20250905113817,Default
@@ -3659,12 +3659,12 @@ Item_Backpack_SBossPoison_LowDurResFire,Zaino di Gulu,#20250905113817,Default
 Item_Helmat_Egg,Guscio d’uovo rotto,#20250905113817,Default
 Item_Helmat_Egg_Desc,Un grande guscio d’uovo rotto con tracce di albume all’interno. Abbastanza grande da essere indossato come elmo.,#20250905113817,Default
 Item_Key_Apartment102,Chiave Appartamento Staff 102,#20250905113817,Default
-Item_Key_Apartment102_Desc,Una\ chiave\ dell’appartamento\ del\ personale\ per\ la\ stanza\ 102\.,#20250919105709,Default
+Item_Key_Apartment102_Desc,Una\ chiave\ dell'appartamento\ del\ personale\ per\ la\ stanza\ 102\.,#20250919105709,Default
 Item_Key_Apartment105,Chiave Appartamento Staff 105,#20250905113817,Default
-Item_Key_Apartment105_Desc,Una\ chiave\ dell’appartamento\ del\ personale\ per\ la\ stanza\ 105\.,#20250919105709,Default
+Item_Key_Apartment105_Desc,Una\ chiave\ dell'appartamento\ del\ personale\ per\ la\ stanza\ 105\.,#20250919105709,Default
 Item_Key_Dormitory101,Chiave\ Stanza\ Dormitorio\ 101,#20250919105709,Default
 Item_Key_Apartment101,Chiave Appartamento Staff 101,#20250905113817,Default
-Item_Key_Apartment101_Desc,Una\ chiave\ dell’appartamento\ del\ personale\ per\ la\ stanza\ 101\.,#20250919105709,Default
+Item_Key_Apartment101_Desc,Una\ chiave\ dell'appartamento\ del\ personale\ per\ la\ stanza\ 101\.,#20250919105709,Default
 Item_Key_Dormitory101_Desc,Una\ chiave\ del\ dormitorio\ per\ la\ stanza\ 101\.,#20250919105709,Default
 Quest_211,Segreto nascosto,#20250905113817,Default
 Quest_211_Desc,"Ho\ trovato\ un\ passaggio\ misterioso\ in\ una\ casa\ a\ sud\ del\ burrone\.\ La\ forte\ perdita\ di\ gas\ rende\ impossibile\ controllare\ a\ fondo\.\ Se\ hai\ una\ maschera\ antigas,\ potresti\ entrare\ e\ vedere\ dove\ porta\?",#20251011093922,Default
@@ -3692,7 +3692,7 @@ UI_Interact_Ship1499,Installa: Sistema di navigazione,#20250905113817,Default
 ShipPartInstalled,Sistema di navigazione installato,#20250905113817,Default
 Quest_321_Desc,Ho\ nascosto\ un\ carico\ al\ cantiere\ improvvisato\ di\ Farm\ Town\.\ È\ roba\ che\ si\ può\ spostare\ solo\ di\ notte\.\ Ma\ ultimamente\ un\ ragno\ rosso\ ribelle\ sta\ rovinando\ tutto\.\ Occupatene\ e\ dividerò\ il\ bottino\ con\ te\.,#20251011093922,Default
 Quest_322,Effetto pubblicitario,#20250905113817,Default
-Quest_322_Desc,"Lo\ StG-77\ funziona\ alla\ grande\ nelle\ tue\ mani,\ ma\ gli\ altri\ clienti\ sono\ ancora\ indecisi\.\ Mi\ servono\ risultati\ più\ vistosi\.\ Usalo\ per\ eliminare\ il\ Capitano\ della\ Sicurezza\ al\ Municipio—così\ vedranno\ di\ cosa\ è\ capace\ quest’arma\.\ Ho\ parecchio\ stock,\ e\ non\ posso\ permettermi\ che\ resti\ a\ prendere\ polvere\.",#20251011093922,Default
+Quest_322_Desc,"Lo\ StG-77\ funziona\ alla\ grande\ nelle\ tue\ mani,\ ma\ gli\ altri\ clienti\ sono\ ancora\ indecisi\.\ Mi\ servono\ risultati\ più\ vistosi\.\ Usalo\ per\ eliminare\ il\ Capitano\ della\ Sicurezza\ al\ Municipio—così\ vedranno\ di\ cosa\ è\ capace\ quest'arma\.\ Ho\ parecchio\ stock,\ e\ non\ posso\ permettermi\ che\ resti\ a\ prendere\ polvere\.",#20251011093922,Default
 Quest_323,Disinfestazione?!,#20250905113817,Default
 Quest_323_Desc,"Ho\ la\ fobia\ dei\ ragni,\ e\ questi\ Spider-Bot\ continuano\ a\ spaventarmi\ a\ morte\ ogni\ volta\ che\ vado\ a\ pescare\ di\ notte\.\ Ultimamente\ non\ ho\ più\ il\ coraggio\ di\ farlo—devi\ aiutarmi!",#20250925103332,Default
 Quest_324,Sospetto,#20250905113817,Default
@@ -3819,7 +3819,7 @@ Item_Leek_Desc,"Sembra una cipolla verde, ma ha un sapore più delicato.",#20250
 Item_Lemon_Desc,"Aspro, ma non esiste bevanda con cui non si sposi bene.",#20250905113817,Default
 Item_Mango_Desc,"Dolce, perfetto per i dessert.",#20250905113817,Default
 Item_Onion_Desc,Basta pensare di tagliarla per far venire le lacrime agli occhi.,#20250905113817,Default
-Item_Orange_Desc,Aspro e ricco di vitamine.,#20250905113817,Default
+Item_Orange_Desc,"Solo\ una\ cassa\ di\ arance\ potrebbe\ essere\ migliore\.\ Ma\ a\ Duckov,\ pochi\ probabilmente\ ne\ avranno\ una\.",#20260209061303,Default
 Item_Pear_Desc,"Succoso, e si dice che calmi la tosse e lenisca i polmoni.",#20250905113817,Default
 Item_Pineapple_Desc,"Dolce e acidulo, ma è meglio metterlo in ammollo in acqua salata prima di mangiarlo.",#20250905113817,Default
 Item_Starfruit_Desc,Taglialo per rivelare una bellissima stella.,#20250905113817,Default
@@ -3862,7 +3862,7 @@ Item_Fish_Redfin_Snapper_Desc,Le pinne rosse attirano molto l'attenzione.,#20250
 Item_Fish_Green_Triggerfish_Desc,"Con scaglie dure e bocca quadrata, ha un fascino buffo.",#20250905113817,Default
 Item_Fish_Blue_Jack_Mackerel_Desc,"Lungo e snello, di solito si muove in banchi.",#20250905113817,Default
 Item_Fish_Green_Cod_Desc,"Rotondo e paffuto, con carne tenera e gustosa.",#20250905113817,Default
-Item_Fish_Blue_Damselfish_Desc,"Vivace, sempre in rapido movimento.",#20250905113817,Default
+Item_Fish_Blue_Damselfish_Desc,"Vivace\ e\ sempre\ in\ movimento\ rapido,\ si\ trova\ esclusivamente\ in\ zone\ estremamente\ fredde\.",#20260209061303,Default
 Item_Fish_Brown_Sardine_Desc,"Si raggruppano stretti sott'acqua, sembrando un unico grande pesce dall'alto.",#20250905113817,Default
 Item_Fish_Orange_Squirrelfish_Desc,Ricoperto di scaglie luccicanti che catturano lo sguardo.,#20250905113817,Default
 Item_Fish_White_Cod_Desc,"Paffuto e pallido, con carne particolarmente deliziosa.",#20250905113817,Default
@@ -3899,7 +3899,7 @@ Quest_918_Desc,"Ho trovato una tecnica per infondere le armi con energia spazial
 Quest_919,Aggiornamento tecnico,#20250905113817,Default
 Quest_919_Desc,"L'infusione di energia spaziale è riuscita, ma il rendimento è ancora troppo basso. Mi servono altre materie prime per perfezionare il processo.",#20250905113817,Default
 Quest_810,Materiali sperimentali,#20250905113817,Default
-Quest_810_Desc,"Ora che hai gli strumenti giusti, è il momento di mostrare le tue abilità. Conto su di te per i materiali dell’esperimento.",#20250905113817,Default
+Quest_810_Desc,"Ora che hai gli strumenti giusti, è il momento di mostrare le tue abilità. Conto su di te per i materiali dell'esperimento.",#20250905113817,Default
 Quest_920,Materiali di riferimento,#20250905113817,Default
 Quest_920_Desc,"Il J-Lab ha condotto ampie ricerche sulle tempeste spaziali prima di partire. Se riesci a trovare dei dati, darebbero una grande spinta alle mie ricerche.",#20250905113817,Default
 Quest_890_Desc,"Con il recente aumento degli ordini, siamo a corto di scatole di cartone e nastro adesivo per l’imballaggio. Potresti procurarmene un po’? E porta anche un paio di forbici, già che ci sei.",#20250905113817,Default
@@ -3917,7 +3917,7 @@ Quest_110,Taglia\ i\ miei\ profitti,#20250925103332,Default
 Quest_110_Desc,Ora\ so\ chi\ ha\ dirottato\ quella\ spedizione\.\ Non\ posso\ perdonare\ chi\ intacca\ i\ miei\ profitti\.\ Vai\ a\ dargli\ una\ lezione\.\ Falli\ soffrire\.,#20250925103332,Default
 Quest_926,Via il vecchio,#20250905113817,Default
 Quest_927,Cliente abituale,#20250905113817,Default
-Quest_927_Desc,Il cliente abituale si è già stufato dell’ultimo giocattolo. Questa volta trovane uno che duri un po’ di più.,#20250905113817,Default
+Quest_927_Desc,Il cliente abituale si è già stufato dell'ultimo giocattolo. Questa volta trovane uno che duri un po' di più.,#20250905113817,Default
 Quest_928,Multitalento,#20250905113817,Default
 Quest_929,Multitalento II,#20250905113817,Default
 Quest_929_Desc,Il\ precedente\ strumento\ era\ troppo\ semplice\.\ Hai\ qualcosa\ di\ più\ impegnativo\?\ Non\ preoccuparti\ dei\ soldi\.,#20250925103332,Default
@@ -4538,7 +4538,7 @@ Note_GroundZero_Loot_Content,"Fai\ fagotto\ e\ torna\ a\ casa\ quando\ hai\ pres
 Note_GroundZero_UltraMan_Content,"Se\ vedi\ un\ tipo\ bianco\ da\ queste\ parti,\ non\ ci\ provare\.\nNon\ chiedermi\ come\ lo\ so\.",#20251011093922,Default
 Note_GroundZero_Camp_Content,"Quei\ bastardi\ del\ J-Lab\ avevano\ promesso\ di\ portarci\ con\ loro,\ ma\ hanno\ infranto\ la\ parola\.\nOra\ nessuno\ può\ fermarci\.\ Ho\ rubato\ un\ po'\ di\ roba\ buona\ al\ J-Lab\ e\ ho\ montato\ un\ campo\ a\ Ground\ Zero\.\nQui\ a\ Ground\ Zero,\ io,\ Pato\ Chapo,\ comando\.\nAncora\ non\ capisco\ come\ funzioni\ quel\ faro\ di\ teletrasporto\ lì\ accanto\.\ Non\ mi\ sembra\ molto\ affidabile\.",#20251011093922,Default
 Note_GroundZero_MidMountain_Content,"Li\ ho\ osservati\ per\ qualche\ giorno—quelli\ del\ Campo\ Stradale\ mi\ sembrano\ strani\.\nIl\ loro\ capo\ brilla\ di\ fuoco\.\ Non\ sembra\ uno\ con\ cui\ vuoi\ avere\ a\ che\ fare\.\nA\ meno\ che\ tu\ non\ sia\ pronto\ a\ dovere,\ stai\ lontano\ da\ loro\.",#20251011093922,Default
-Achievement_Quest_887,Corriere\ esperto,#20251011093922,Default
+Achievement_Quest_887,Corriere\ esperto\.,#20260209061729,Default
 Note_WH_Lorden_Content,"Nell'area\ del\ magazzino,\ c'è\ spesso\ un\ cane\ feroce\ che\ vaga\ in\ giro\.\ Il\ suo\ padrone\ è\ un\ cecchino—sempre\ pronto\ a\ colpire\ dall'ombra\.\ Se\ vedi\ quel\ cane,\ nasconditi\ subito\.\nGli\ amici\ di\ Ground\ Zero\ mi\ hanno\ anche\ parlato\ di\ un\ altro\ tipo\ che\ appare\ lì\ con\ un\ cane\.\ A\ volte\ al\ povero\ cucciolo\ viene\ perfino\ legata\ addosso\ una\ grossa\ cassa\.\nÈ\ un\ chiaro\ segno\ di\ decadenza\ morale—questo\ tizio\ è\ persino\ peggiore\ di\ Lordon\.\n",#20251011093922,Default
 Achievement_Ending_1,Bersaglio\ mobile,#20251009091250,Default
 Achievement_Ending_1_Desc,Ho\ un\ brutto\ presentimento\ su\ questo\.,#20251009091250,Default
@@ -4671,7 +4671,7 @@ Item_SurgicalKitL,Kit\ chirurgico\ potenziato,#20251009091250,Default
 Item_SurgicalKitL_Desc,Usato\ per\ curare\ le\ ferite.,#20251009091250,Default
 Options_advancedDebuffMode,Malus\ avanzato,#20251009091250,Default
 Rule_Info_CantSwitch,"Una\ volta\ selezionata,\ questa\ difficoltà\ non\ può\ essere\ modificata.",#20251009091250,Default
-Task_Beacon_Level_StormZone_Main,Sblocca\ il\ faro\ dell’area\ Tempesta,#20251009091250,Default
+Task_Beacon_Level_StormZone_Main,Sblocca\ il\ faro\ dell'area\ Tempesta,#20251009091250,Default
 UI_Registered,Registrato,#20251009091250,Default
 Item_MoonShine,Soul\ Moonshine,#20251021065937,Items
 Item_MoonShine_Desc,Moonshine\ preparato\ con\ una\ ricetta\ segreta.\ Si\ dice\ che\ sia\ stata\ aggiunta\ cola\.,#20251021065937,Items
@@ -4698,7 +4698,7 @@ Item_ShitBall,Palla\ di\ letame,#20251030071757,Items
 Item_ShitBall_Desc,Può\ essere\ lanciata.,#20251030071757,Items
 Item_EGun_AR_Storm_Virus,\?\?\?,#20251224083649,Items
 Options_HurtVisualSettings,Allerta\ Ferita,#20251030071757,Options
-Item_Kazoo_Desc,Il\ sogno\ musicale\ di\ Xavier!,#20251030071757,Items
+Item_Kazoo_Desc,Il\ sogno\ musicale\ di\ Xavier!\nPerfino\ i\ cavalli\ godono\ del\ suono\ del\ kazoo\.,#20260209061732,Items
 Item_Kazoo,Kazoo,#20251023075403,Items
 Input_Quack,Quack!,#20251027094716,UIText
 Item_Grenade_SpaceBoss,\?\?\?,#20251224083649,Items
@@ -4787,7 +4787,7 @@ Item_GiantSwordFish,Gran\ Pesce\ Spada,#20251106085233,Items
 Item_GiantSwordFish_Desc,Le\ sue\ pinne\ sono\ piuttosto\ affilate.,#20251106085233,Items
 Item_DarkCarrot_Desc,Come\ puoi\ vedere\.\.\.,#20251117073422,Items
 Item_DarkCarrot,,#20251103105644,Items
-Buff_DarkCarrot,,#20251212072228,Buffs
+Buff_DarkCarrot,1\ 000\ %,#20260209061303,Buffs
 Buff_DarkCarrot_Desc,,#20251224083649,Buffs
 Item_Formula_DarkCarrot,,#20251103111611,Items
 Item_Formula_DarkCarrot_Desc,,#20251103111629,Items
@@ -4984,7 +4984,7 @@ Cname_Wolf_Ice,,#20251212072228,Default
 UI_Interact_Light,,#20251212072228,Default
 Cname_Bear,,#20251212072228,Default
 Note_ChallengeSnow_Device_Title,,#20251212072228,Default
-Note_ChallengeSnow_Device_Content,,#20251224083649,Default
+Note_ChallengeSnow_Device_Content,"Per\ garantire\ condizioni\ di\ sopravvivenza\ sul\ nuovo\ pianeta,\ abbiamo\ avviato\ una\ serie\ di\ progetti\ di\ ricerca\ sulla\ modifica\ climatica\.\ Il\ Dispositivo\ di\ Raffreddamento\ Regionale\ è\ il\ nostro\ primo\ risultato,\ anche\ se\ ancora\ in\ fase\ sperimentale\.\ Utilizzando\ l'Energia\ della\ Tempesta,\ abbiamo\ ottenuto\ un\ raffreddamento\ su\ larga\ scala\ capace\ di\ trasformare\ l'estate\ in\ inverno\.\nTuttavia,\ è\ già\ stato\ identificato\ un\ difetto:\ Entro\ un\ raggio\ di\ 80-90\ metri,\ il\ dispositivo\ crea\ una\ zona\ di\ freddo\ estremo\ dove\ l'equipaggiamento\ standard\ anti-freddo\ è\ completamente\ inefficace\.\ Il\ personale\ addetto\ alla\ manutenzione\ deve\ indossare\ equipaggiamento\ specializzato\ per\ avvicinarsi\.\nPer\ testare\ la\ stabilità\ del\ dispositivo,\ pianifichiamo\ di\ installare\ diversi\ Grandi\ Dispositivi\ di\ Raffreddamento\ nell'area\ circostante,\ valutando\ la\ loro\ stabilità\ a\ lungo\ termine\ su\ un\ raggio\ più\ ampio\.",#20260209061732,Default
 Level_ChallengeSnow_Main,,#20251216062805,Default
 Item_ARR_CrossBow_Normal_Desc,,#20251212072228,Default
 Item_Pelt,,#20251212072228,Default
@@ -5003,8 +5003,8 @@ Quest_601,,#20251212072228,Default
 Quest_601_Desc,,#20251218030359,Default
 Quest_602,,#20251212072228,Default
 Quest_602_Desc,,#20251212072228,Default
-Item_SHT_SnowBoss_Fire,,#20251212072228,Default
-Item_SHT_SnowBoss_Ice,,#20251212072228,Default
+Item_SHT_SnowBoss_Fire,BSG-F,#20260209061303,Default
+Item_SHT_SnowBoss_Ice,BSG-I,#20260209061303,Default
 Item_SHT_SnowBoss_Ice_Desc,,#20251212072228,Default
 Item_SHT_SnowBoss_Fire_Desc,,#20251212072228,Default
 Item_AtomicClock,,#20251212072228,Default
@@ -5038,9 +5038,537 @@ Item_Special_AR_RPD_1,,#20251213062924,Items
 Item_Special_AR_RPD_1_Desc,,#20251216062805,Items
 Item_BP_Special_AR_RPD_1,,#20251213062924,Items
 Item_BP_Special_AR_RPD_1_Desc,,#20251216062805,Items
-Item_FrostbiteOintment_Desc,,#20251215072638,Items
+Item_FrostbiteOintment_Desc,Usato\ per\ trattare\ il\ congelamento\.,#20260209061303,Items
 Item_FrostbiteOintment,,#20251215072604,Items
-Item_Key_JLab_StormZone,,#20251224031108,Items
-Item_Key_JLab_StormZone_Desc,,#20251224031500,Items
+Item_Key_JLab_StormZone,Chiave\ della\ Zona\ Teletrasporto\ dell'Area\ Lab,#20260209061303,Items
+Item_Key_JLab_StormZone_Desc,Apre\ il\ cancello\ della\ Zona\ Teletrasporto\ nell'Area\ Lab\.,#20260209061303,Items
 Item_Bullet_Rocket_H,,#20251224073143,Items
 Item_Bullet_Rocket_H_Desc,,#20251224073444,Items
+Item_EGun_Turret_MG,Torretta\ MG,#20251229072217,Items
+Building_Showcase_01,Vetrina\ Espositiva,#20260209061303,Default
+Building_Showcase_01_Desc,Usato\ per\ esporre\ oggetti\.,#20260209061303,Default
+Building_Showcase01,Vetrina\ Espositiva,#20260209061303,Default
+Building_Showcase01_Desc,Usato\ per\ esporre\ oggetti\.,#20260209061303,Default
+Item_EGun_SnowGun_Ice,\?\?\?,#20260202034323,Items
+Item_EGun_SnowGun_Ice_Desc,\?\?\?,#20260202034329,Items
+Item_EGun_Magic_Blue,\?\?\?,#20260202034411,Items
+Item_EGun_Magic_Blue_Desc,\?\?\?,#20260202034417,Items
+Item_BaseDeco_Test,Base\ Decor:\ Capodanno,#20260209061303,Items
+Item_Print_Bullet_ARR_Piercing4_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Freccia\ AP\ Intermedia\.,#20260209061303,Items
+Item_Special_SHT_SnowBoss_1,Modulo Cluster BSG,#20260201150807,Items
+Tag_Acc_SnowBoss,Solo\ BSG,#20260209061303,Tags
+Item_Figurine_Horse,Figurina\ Pony,#20260209061303,Items
+Item_Special_SHT_SnowBoss_1_Desc,"Migliora\ notevolmente\ la\ dispersione\ dei\ proiettili\ del\ fucile\ a\ pompa\ BSG\.\ Tuttavia,\ il\ fuoco\ prolungato\ risulta\ in\ una\ dispersione\ aumentata\.",#20260209061303,Items
+ZZZ,ZZZ,#20260202032305,Dialogues
+Quest_1000,Collezionista,#20260202073302,Quests
+Quest_1000_Desc,"La\ tua\ forza\ è\ stata\ riconosciuta\ da\ tutti\.\ Hai\ dominato\ Duckov\.\ Se\ rimane\ una\ sfida,\ è\ raccogliere\ oggetti\ preziosi\ e\ rari\ per\ diventare\ il\ grande\ collezionista\ qui\.",#20260209061303,Quests
+Item_Quest_1000_CollectionProof,Prova del Grande Collezionista,#20260202073516,Items
+Item_Quest_1000_CollectionProof_Desc,Il\ suo\ proprietario\ è\ riconosciuto\ come\ il\ vero\ Grande\ Collezionista\ di\ Duckov\.,#20260209061303,Items
+Perk_Main_50,Grande Collezionista,#20260202075424,Perks
+Item_Figurine_Lion,Figurina\ Leone,#20260209061303,Items
+Item_Figurine_Lion_Desc,Una\ figurina\ di\ leone\ finemente\ realizzata\.\ Pesante\ e\ solida—probabilmente\ fatta\ di\ rame\ puro\.,#20260209061303,Items
+Item_Special_RKT_SnowGun_1_Desc,"Migliora\ notevolmente\ le\ prestazioni\ della\ Pistola\ Palla\ di\ Neve,\ inclusi\ DMG,\ DMG\ Esplosione\ e\ livello\ AP\.\ Le\ palle\ di\ neve\ si\ dividono\ in\ tre\ proiettili\ quando\ sparate,\ ma\ viaggiano\ a\ una\ velocità\ più\ lenta\.",#20260209061303,Items
+Item_Special_NM_NMGun_2,Modulo\ di\ Controllo\ Meccanico\ Nano\ Gun,#20260209061303,Items
+Item_Special_NM_NMGun_2_Desc,Ti\ permette\ di\ controllare\ brevemente\ unità\ meccaniche\ quando\ colpisci\ la\ testa\ con\ la\ Nano\ Gun\.,#20260209061303,Items
+Item_Helmat_HorseMask,Maschera\ Pony,#20260209061303,Items
+Item_Helmat_HorseMask_Desc,Trasforma!\ Pony!,#20260209061303,Items
+Alert_ColdProtect,\ Livello\ di\ resistenza\ al\ freddo\ basso,#20260206082057,UIText
+Cname_Boss_LionHead,Testa\ di\ Leone,#20260207021617,Characters
+Item_Magazine_SHT_REL_3,Caricatore\ Leggero\ Fucile\ a\ Pompa,#20260208045532,Items
+Item_Magazine_SHT_REL_3_Desc,Un\ caricatore\ di\ fucile\ a\ pompa\ che\ aumenta\ la\ velocità\ di\ ricarica\.,#20260208050018,Items
+Item_Bullet_FireWorks_Normal,Munizioni\ Fuochi\ d'Artificio,#20260208091806,Items
+Item_Bullet_FireWorks_Normal_Desc,Accendiamo\ i\ fuochi\ d'artificio!,#20260208091929,Items
+Print_Bullet_FireWorks_Normal,Piano\ di\ Progetto:\ Munizioni\ Fuochi\ d'Artificio,#20260208100821,Items
+Print_Bullet_FireWorks_Normal_Desc,Un\ piano\ di\ progetto\ per\ stampare\ munizioni\ fuochi\ d'artificio\ alla\ stampante\ 3D\.,#20260208100955,Items
+Level_SnowMilitaryBase,Area\ Lab\ 37,#20260209061303,Default
+Cname_GunTurret,Torretta\ Automatica,#20260209061303,Default
+Building_Showcase_Gun,Espositore\ Armi,#20260209061303,Default
+Building_Showcase_Gun_Desc,Usato\ per\ esporre\ la\ tua\ collezione\ di\ armi\.,#20260209061303,Default
+Quest_611,Segnale\ di\ Soccorso,#20260209061303,Default
+Quest_611_Desc,"Ho\ ricevuto\ una\ richiesta\ anonima\ che\ mi\ chiedeva\ di\ mandare\ qualcuno\ che\ sappia\ combattere\.\ Nessun\ dettaglio,\ nessuna\ spiegazione\.\ Ho\ tracciato\ il\ segnale\ fino\ all'Area\ Lab\ 37,\ un\ antico\ sito\ di\ sperimentazione\ meteorologica\.\ Sembra\ strano,\ ma\ potrebbe\ essere\ redditizio\.\ Conosco\ un\ tunnel\ che\ porta\ lì,\ a\ nord\ di\ Farm\ Town\.\ Non\ sono\ sicuro\ se\ sia\ ancora\ accessibile,\ ma\ vai\ a\ controllare\.",#20260209061303,Default
+Quest_651,Guadagna\ Fiducia,#20260209061303,Default
+Quest_651_Desc,"Quindi,\ lavori\ anche\ tu\ per\ soldi\?\ Ho\ alcuni\ lavori\ decenti\ in\ programma,\ ma\ non\ è\ sicuro\ qui\.\ Pulisci\ prima\ i\ dintorni,\ poi\ parleremo\ di\ quello\ che\ viene\ dopo\.",#20260209061303,Default
+Quest_652,Ripara\ la\ Stampante,#20260209061303,Default
+Quest_652_Desc,"La\ mia\ stampante\ 3D\ è\ rotta\.\ Ho\ bisogno\ del\ tuo\ aiuto\ per\ ripararla\.\ Aggiustala\ e\ te\ ne\ compenserò\ generosamente\.\ E\ una\ volta\ che\ sarà\ di\ nuovo\ funzionante,\ puoi\ usarla\ liberamente\.",#20260209061303,Default
+Tag_ShowCase,Esposizioni,#20260209061303,Default
+Building_Showcase_FakeDuck_01,Manichino\ 1,#20260209061303,Default
+Building_Showcase_FakeDuck_01_Desc,Usato\ per\ esporre\ l'equipaggiamento\.,#20260209061303,Default
+Building_Showcase_FakeDuck_02,Manichino\ 2,#20260209061303,Default
+Building_Showcase_FakeDuck_02_Desc,Usato\ per\ esporre\ l'equipaggiamento\.,#20260209061303,Default
+Building_Showcase_FakeDuck_03,Manichino\ 3,#20260209061303,Default
+Building_Showcase_FakeDuck_03_Desc,Usato\ per\ esporre\ l'equipaggiamento\.,#20260209061303,Default
+Interact_SwapEquipment,Cambia\ Equipaggiamento,#20260209061303,Default
+BaseSkin,Aspetto\ Base,#20260209061303,Default
+Tag_Base_Deco,Decorazioni\ Base,#20260209061303,Default
+Tag_Base_WallPaper,Carta\ da\ Parati\ Base,#20260209061303,Default
+Item_BaseWallPaper_Test,Carta\ da\ Parati:\ Accogliente,#20260209061303,Default
+Item_BaseDeco_Halloween,Decorazione\ Base:\ Zucca,#20260209061303,Default
+Item_BaseWallPaper_White,Carta\ da\ Parati:\ J-Lab,#20260209061303,Default
+Slot_MainWallPaper,Ingresso,#20260209061303,Default
+Slot_RestWallPaper,Camera\ da\ Letto,#20260209061303,Default
+Building_GreenScreen,Schermo\ Verde,#20260209061303,Default
+Building_GreenScreen_Desc,Nessun\ uso\ pratico\.,#20260209061303,Default
+Item_ArmorLV5_Killa,6B13\ Killa,#20260209061732,Default
+Item_ArmorLV5_Killa_Desc,"Un'armatura\ B13\ personalmente\ modificata\ da\ Killa,\ infusa\ di\ tecnologia\ moderna\ e\ senso\ della\ moda\.\ La\ finitura\ color\ sabbia\ è\ indubbiamente\ vistosa.",#20260209061732,Default
+Item_ArmorLV5_Tagilla,AVS\ TE,#20260209061732,Default
+Item_ArmorLV5_Tagilla_Desc,"Il\ caricatore\ di\ piastre\ consumato\ di\ Tagilla\.\ Modificato\ da\ un\ sistema\ di\ carico\ modulare\ AVS\ standard\ prodotto\ da\ Crye\ Precision,\ conserva\ solo\ 3\ tasche\ per\ caricatori\ sulla\ parte\ anteriore\.\ Questa\ configurazione\ potrebbe\ essere\ appena\ sufficiente\ per\ Tagilla\.",#20260209061651,Default
+Item_Hammer_Tagilla,Superfors\ DB\ 2020,#20260209061732,Default
+Item_Hammer_Tagilla_Desc,"Ricoperto\ di\ poliuretano,\ questo\ grande\ martello\ produce\ un\ suono\ sordo\ caratteristico\ all'impatto,\ riducendo\ al\ contempo\ lo\ shock\ dell'impatto\ durante\ l'uso\ e\ mantenendo\ il\ manico\ stabile\.",#20260209061303,Default
+Cname_Tagilla,Tagilla,#20260209061303,Default
+Cname_Killa,Killa,#20260209061303,Default
+Quest_653,Ricognizione,#20260209061303,Default
+Quest_653_Desc,"Il\ centro\ dell'Area\ Lab\ 37\ è\ una\ base\ militare\.\ Un\ tempo\ ospitava\ una\ struttura\ di\ ricerca\ di\ J-Lab,\ focalizzata\ su\ studi\ meteorologici\.\ Tutto\ quello\ che\ cerchiamo\ dovrebbe\ essere\ ancora\ lì,\ ma\ ora\ è\ occupata\ da\ mercenari\ ed\ è\ estremamente\ pericolosa\.\ Prima\ di\ entrare\ nella\ base\ stessa,\ è\ meglio\ fare\ una\ ricognizione\ e\ controllare\ il\ perimetro\.\ Voglio\ che\ tu\ controlli\ i\ lati\ ovest\ e\ est\ della\ Base\ Militare\.",#20260209061303,Default
+Item_Model_Killa,Modello\ Killa,#20260209061303,Default
+Item_Model_Killa_Desc,Una\ replica\ altamente\ accurata\.,#20260209061303,Default
+Item_Model_Tagilla,Modello\ Tagilla,#20260209061303,Default
+Item_Model_Tagilla_Desc,Una\ replica\ altamente\ accurata\.,#20260209061303,Default
+Item_Helmat_Killa,Maska-1SCh\ KE,#20260209061732,Default
+Item_Helmat_Killa_Desc,"Un\ elmetto\ Maska-1SCh\ dotato\ di\ una\ visiera\ protettiva\ in\ metallo\ rimovibile,\ che\ offre\ la\ massima\ protezione\ facciale\.\ Questo\ appartiene\ a\ Killa,\ ridipinto\ in\ nero\ e\ contrassegnato\ dalle\ sue\ tre\ fasce\ caratteristiche\.",#20260209061732,Default
+Item_Helmat_Tagilla,UBEY,#20260209061303,Default
+Item_Helmat_Tagilla_Desc,"Una\ maschera\ da\ saldatura\ in\ acciaio\ un\ tempo\ indossata\ da\ Tagilla,\ sovrano\ della\ Fabbrica\.\ Presenta\ la\ pittura\ UBEY\ \(""Убей""\ —\ Uccidi\)\.",#20260209061732,Default
+Item_BaseWallPaper_NewYear,Carta\ da\ Parati:\ Capodanno,#20260209061303,Default
+Item_BaseWallPaper_NewYear_Desc,Una\ carta\ da\ parati\ con\ design\ di\ Capodanno\.,#20260209061303,Default
+Item_BaseWallPaper_Test_Desc,Una\ carta\ da\ parati\ con\ design\ accogliente\.,#20260209061303,Default
+Item_BaseWallPaper_White_Desc,Una\ carta\ da\ parati\ nello\ stile\ di\ J-Lab\.,#20260209061303,Default
+Item_BaseWallPaper_Rock,Carta\ da\ Parati:\ Roccia,#20260209061303,Default
+Item_BaseWallPaper_Rock_Desc,Una\ carta\ da\ parati\ in\ stile\ roccia\.,#20260209061303,Default
+Item_BaseWallPaper_Warehouse,Carta\ da\ Parati:\ Magazzino,#20260209061303,Default
+Item_BaseWallPaper_Warehouse_Desc,Una\ carta\ da\ parati\ in\ stile\ magazzino\.,#20260209061303,Default
+Item_BaseDeco_Snow,Decorazione\ Base:\ Neve,#20260209061303,Default
+Item_BaseDeco_Halloween_Desc,Un\ ornamento\ decorativo\ a\ forma\ di\ zucca\ di\ Halloween\.,#20260209061303,Default
+Item_BaseDeco_Snow_Desc,Copri\ la\ Base\ di\ neve\.,#20260209061303,Default
+Item_BaseDeco_Test_Desc,Un\ ornamento\ decorativo\ a\ forma\ di\ lanterna\ nello\ stile\ di\ Capodanno\.,#20260209061303,Default
+Item_Shit_Gold,Sterco\ d'Oro,#20260209061303,Default
+Item_Shit_Gold_Desc,Brilla\ intensamente\.,#20260209061303,Default
+Item_BoomCar,Auto\ RC\ Esplosiva,#20260209061303,Default
+Item_BoomCar_Desc,Si\ autodistrugge\ quando\ perde\ il\ controllo\.,#20260209061303,Default
+Usage_Depoly,Schiera,#20260209061303,Default
+Cname_BoomCar,Auto\ RC\ Esplosiva,#20260209061303,Default
+Cname_Horse,Cavallo,#20260209061303,Default
+Quest_612,Segnale\ di\ Soccorso\ II,#20260209061303,Default
+Quest_612_Desc,"Quella\ rotta\ sembra\ essere\ danneggiata\.\ Per\ ora,\ l'unico\ modo\ per\ arrivare\ là\ è\ via\ acqua\.\ C'è\ una\ rotta\ di\ spedizione\ da\ Farm\ Town\ a\ Lab\ Area\ 37\.\ La\ barca\ si\ trova\ al\ Mulino\ a\ sud-ovest\ di\ Farm\ Town—non\ dimenticare\ di\ portare\ un\ biglietto\ del\ traghetto\.\ Oh,\ e\ un'altra\ cosa:\ quel\ laboratorio\ viene\ usato\ per\ esperimenti\ climatici\.\ È\ estremamente\ freddo,\ e\ faresti\ meglio\ a\ copriti\ bene\.\ Il\ segnale\ proviene\ dall'angolo\ sud-ovest\ dell'area\.\ Vai\ a\ controllare\.",#20260209061303,Default
+Quest_613,Indagini\ di\ Base,#20260209061303,Default
+Quest_613_Desc,C'è\ qualcosa\ che\ non\ va\ con\ questo\ Alex\.\ Voglio\ saperne\ di\ più\ su\ di\ lui\.\ Lavorava\ a\ J-Lab\.\ Dovresti\ riuscire\ a\ trovare\ i\ registri\ del\ personale\ nell'Edificio\ Amministrativo\ di\ J-Lab\ a\ Farm\ Town\.\ Copialo\ per\ me\.\ Assicurati\ di\ portare\ un\ Disco\ Rigido\ Portatile\.,#20260209061303,Default
+Quest_615,Chiave\ di\ Decrittazione,#20260209061303,Default
+Quest_615_Desc,"Ho\ trovato\ un\ file\ sul\ computer\ di\ Alex,\ ma\ è\ crittografato\.\ Il\ livello\ di\ crittografia\ è\ incredibilmente\ alto,\ il\ che\ rende\ i\ suoi\ contenuti\ ancora\ più\ intriganti\.\ Ho\ bisogno\ di\ una\ chiave\ privata\ per\ aiutare\ a\ decrittarlo\.\ Un\ Certificato\ J-Lab\ di\ Livello\ 2\ dovrebbe\ essere\ sufficiente\.\ Se\ riesci\ a\ procurartene\ uno,\ portamelo\.",#20260209061303,Default
+Quest_616,Carico\ Misterioso,#20260209061303,Default
+Quest_616_Desc,"Con\ il\ tuo\ aiuto,\ sono\ riuscito\ a\ decrittare\ il\ file—ma\ le\ informazioni\ sono\ ancora\ frustrante\ vague\.\ Sappiamo\ tutti\ che\ Lab\ Area\ 37\ sta\ ufficialmente\ conducendo\ ricerche\ meteorologiche,\ ma\ sembra\ che\ stiano\ anche\ gestendo\ qualcosa\ d'altro\ in\ segreto\.\ Potrebbe\ essere\ collegato\ ai\ Cristalli\ Blu\.\ Per\ contesto,\ questi\ cristalli\ vengono\ comunemente\ usati\ come\ fonte\ di\ energia\.\ Ho\ controllato\ i\ registri\ logistici\ lì\ e\ ho\ scoperto\ che\ hanno\ spedito\ grandi\ quantità\ di\ carico\ per\ anni\.\ Purtroppo,\ non\ sappiamo\ cosa\ sia\.\ Ho\ bisogno\ che\ tu\ vada\ nell'area\ di\ stoccaggio\ della\ Base\ Militare\ e\ trovi\ l'elenco\ di\ spedizione\ all'interno\ dei\ container\.\ Presta\ particolare\ attenzione\ ai\ container\ gialli\.",#20260209061303,Default
+Quest_614,Individuo\ Sospetto,#20260209061303,Default
+Quest_614_Desc,"Sono\ riuscito\ a\ localizzare\ il\ file\ del\ personale\ di\ Alex\.\ Secondo\ esso,\ era\ una\ volta\ impiegato\ da\ TerraGroup\.\ Il\ problema\ è\ che\ non\ riesco\ a\ trovare\ alcun\ record\ di\ tale\ azienda\ che\ sia\ mai\ esistita\.\ Tutte\ le\ altre\ informazioni\ su\ di\ lui\ sono\ state\ deliberatamente\ cancellate\.\ Per\ indagare\ più\ a\ fondo,\ ho\ bisogno\ che\ tu\ installi\ un\ programma\ backdoor\ nella\ sua\ stampante\ 3D,\ così\ posso\ accedere\ alla\ sua\ rete\.\ Ovviamente,\ ciò\ richiede\ alcune\ competenze\ di\ hacking\.\ Puoi\ acquistare\ un\ Dispositivo\ Plug-and-Hack\ da\ me\.\ Anche\ un\ completo\ dilettante\ come\ te\ può\ gestirlo—ma\ funziona\ solo\ una\ volta\.",#20260209061303,Default
+Quest_617,Cliente\ Principale,#20260209061303,Default
+Quest_617_Desc,Si\ sta\ facendo\ chiaro\ adesso:\ Lab\ Area\ 37\ sta\ esportando\ Cristalli\ Blu\.\ La\ maggior\ parte\ delle\ destinazioni\ è\ insignificante—ma\ una\ spicca\.\ Il\ Sanatorio\ a\ Farm\ Town\.\nPerché\ un\ sanatorio\ avrebbe\ bisogno\ di\ Cristalli\ Blu\?\ Ho\ bisogno\ che\ tu\ lo\ controlli\ e\ veda\ se\ qualcosa\ sembra\ strano\.,#20260209061732,Default
+Quest_618,Tessera\ Magnetica\ Misteriosa,#20260209061303,Default
+Quest_618_Desc,"Sembra\ che\ qualcosa\ sia\ nascosto\ sotto\ il\ Sanatorio\.\ In\ base\ alle\ tue\ foto,\ il\ sistema\ di\ accesso\ è\ stato\ crittografato\.\ Abbiamo\ bisogno\ di\ una\ tessera\ magnetica\ speciale\ per\ entrare\.\ La\ stampante\ di\ Alex\ andrà\ bene\.\ Vai\ e\ portane\ una\ indietro\.\ Voglio\ vedere\ se\ riesco\ a\ replicarla\.",#20260209061303,Default
+Quest_619,Nel\ Labirinto,#20260209061303,Default
+Quest_619_Desc,"Ho\ decrittato\ con\ successo\ la\ tessera\ magnetica\ del\ Sanatorio\.\ Detto\ questo,\ realizzare\ una\ carta\ del\ genere\ costa\ una\ fortuna—principalmente\ perché\ i\ prezzi\ dei\ media\ di\ archiviazione\ sono\ aumentati\ di\ recente\.\ Ti\ darò\ una\ carta\ per\ ora\.\ Entra\ e\ dai\ un'occhiata\.\ Controlla\ tutti\ e\ quattro\ gli\ angoli—nord,\ sud,\ est\ e\ ovest—e\ installa\ telecamere\ di\ sorveglianza\ mentre\ sei\ lì\.\ Ho\ la\ sensazione\ che\ sia\ pericoloso\ lì\ dentro,\ quindi\ preparati\ bene\.",#20260209061303,Default
+Quest_620,Il\ Mistero\ del\ Labirinto,#20260209061303,Default
+Quest_620_Desc,"Ho\ controllato\ il\ computer\ di\ Alex\.\ Il\ posto\ in\ cui\ sei\ entrato\ si\ chiama\ ""Labirinto\.""\ Tuttavia,\ i\ dati\ archiviati\ localmente\ sono\ molto\ limitati\.\ Dovrebbe\ esserci\ più\ informazioni\ dettagliate\ all'interno\ del\ Labirinto\.\ Ho\ bisogno\ che\ tu\ recuperi\ quanti\ più\ dati\ possibile\.",#20260209061303,Default
+Quest_621,Il\ Salvatore,#20260209061303,Default
+Quest_621_Desc,"Ho\ esaminato\ i\ dati\ che\ hai\ portato\ indietro\.\ Alex\ sta\ conducendo\ una\ ricerca\ estremamente\ pericolosa\.\ Viene\ da\ un\ altro\ mondo\.\ Non\ ci\ credevo\ all'inizio,\ ma\ le\ prove\ rendono\ difficile\ negarlo\.\ Il\ suo\ obiettivo\ è\ tornare\ al\ suo\ mondo\ originale\.\ Per\ raggiungere\ questo,\ ha\ bisogno\ di\ consumare\ una\ quantità\ massiccia\ di\ energia\ tempestosa\.\ Ciò\ accelererebbe\ drasticamente\ il\ collasso\ di\ questo\ mondo\.\ Non\ che\ mi\ importi\ molto\ di\ questo\ maledetto\ posto,\ ma\ almeno\ aspetta\ finché\ non\ usciamo\ da\ qui\.\ Ad\ ogni\ modo,\ devi\ fermarlo\.\ Dovrebbe\ stare\ eseguendo\ il\ rituale\ nel\ Labirinto\ adesso\.",#20260209061303,Default
+Quest_654,Dati\ Classificati,#20260209061303,Default
+Quest_654_Desc,"Lavoravo\ a\ J-Lab,\ ma\ il\ mio\ progetto\ non\ è\ mai\ stato\ completato\.\ Qualcosa\ è\ successo,\ e\ ho\ dovuto\ andare\ in\ nascondiglio\.\ Ora\ voglio\ riprendere\ il\ mio\ lavoro\.\ Ho\ bisogno\ che\ tu\ recuperi\ tutti\ i\ miei\ dati\ di\ ricerca\.\ Devi\ entrare\ nella\ Base\ Militare\.\ Entra\ nell'edificio\ principale\ sul\ lato\ ovest,\ individua\ i\ file\ etichettati\ con\ Codename\ T\ sui\ loro\ computer\.\ Assicurati\ di\ portare\ un\ disco\ rigido\ portatile\.\ I\ file\ sono\ crittografati—non\ iniziare\ a\ ficcanasare\.",#20260209061303,Default
+Quest_655,Strumento\ di\ Precisione,#20260209061303,Default
+Quest_655_Desc,C'è\ un'ultima\ cosa\ che\ manca\ dalla\ mia\ ricerca:\ un\ dispositivo\ compatto\ speciale\.\ Si\ trova\ nell'Edificio\ Laboratorio\ sul\ lato\ est\ della\ Base\ Militare\.\ Dubito\ che\ i\ mercenari\ avrebbero\ interesse\ in\ esso\.\ Dovrebbe\ ancora\ trovarsi\ in\ una\ scatola\ di\ cartone\ blu\.\ Portami\ solo\ la\ scatola\ indietro\.,#20260209061303,Default
+Quest_656,Parti\ Mancanti,#20260209061303,Default
+Quest_656_Desc,"Lo\ strumento\ che\ hai\ portato\ indietro\ è\ incompleto\.\ A\ meno\ che\ non\ l'abbia\ danneggiato,\ qualcuno\ ha\ rimosso\ due\ componenti\ fondamentali\.\ Oltre\ a\ me,\ solo\ una\ persona\ sa\ a\ cosa\ serve\ questo\ dispositivo:\ un\ ingegnere\ senior\.\ Deve\ sapere\ dove\ si\ trovano\ le\ parti\ mancanti\.\ La\ sua\ casa\ si\ trova\ nel\ Villaggio\ a\ nord-ovest\ di\ Lab\ Area\ 37\.\ Puoi\ trovarlo\ nel\ Farm\ Town\ meridionale\.\ Prendi\ la\ chiave\ da\ lui,\ poi\ vai\ a\ casa\ sua,\ trova\ i\ documenti\ e\ portameli\ indietro\.",#20260209061303,Default
+Quest_657,Palla\ Bicolore,#20260209061303,Default
+Quest_657_Desc,"Come\ previsto,\ era\ lui\.\ Ma\ le\ parti\ non\ sono\ più\ in\ suo\ possesso\.\ Le\ ha\ vendute\ a\ due\ mercenari—Igny\ e\ Fleeze\.\ Entrambi\ sono\ attualmente\ in\ Lab\ Area\ 37\.\ Rintracciiali\ e\ recupera\ quelle\ parti\.",#20260209061303,Default
+Quest_631,Capodanno,#20260209061303,Default
+Quest_631_Desc,Siamo\ stati\ qui\ per\ un\ bel\ po'\ di\ tempo\ adesso\.\ E\ il\ Capodanno\ è\ dietro\ l'angolo\.\ Dovremmo\ decorare\ questo\ posto\.\ Ho\ bisogno\ di\ alcuni\ articoli\ festivi\.\ Aiutami\ a\ raccoglierli\.,#20260209061303,Default
+Quest_632,Fuochi\ d'Artificio\ Fatti\ in\ Casa,#20260209061303,Default
+Quest_632_Desc,"Non\ sarebbe\ Capodanno\ senza\ fuochi\ d'artificio,\ vero\?\ Purtroppo,\ tutto\ quello\ che\ riusciamo\ a\ trovare\ qui\ sono\ vari\ esplosivi\.\ Sembra\ che\ dovremo\ fare\ i\ nostri\ stessi\ fuochi\ d'artificio\.\ Trova\ i\ materiali\ necessari\.\ Mi\ occuperò\ del\ resto\.",#20260209061303,Default
+Quest_633,Angolo\ Perfetto,#20260209061303,Default
+Quest_633_Desc,"I\ fuochi\ d'artificio\ sono\ pronti\.\ Li\ ho\ messi\ all'ingresso\ del\ Bunker\.\ Il\ tuo\ compito\ è\ spostarli\ nell'angolo\ nord-est\ del\ Campeggio\ Stradale—funziona\ meglio\ da\ lì\.\ Dopo\ di\ che,\ dirigiti\ verso\ la\ Short\ Mountain\.\ Ti\ staremo\ aspettando\ lì\.",#20260209061303,Default
+Quest_641,Fratelli\ da\ un\ Altro\ Mondo,#20260209061303,Default
+Quest_641_Desc,"Ho\ anche\ esaminato\ i\ dati\ raccolti\ da\ Xiaoming,\ e\ ho\ trovato\ qualcosa\ di\ interessante\.\ Dice\ che\ Alex\ viene\ da\ un\ altro\ mondo\.\ Xiaoming\ non\ ci\ crede,\ ma\ penso\ sia\ vero\.\ TerraGroup\ è\ un'azienda\ di\ biotecnologie\ dal\ mondo\ di\ Alex,\ in\ qualche\ modo\ simile\ a\ J-Lab\.\ E\ Alex\ non\ è\ l'unico\ che\ è\ venuto\ qui\.\ Non\ riusciamo\ a\ capire\ come\ sono\ arrivati\ qui,\ né\ quanti\ ce\ l'hanno\ fatta\.\nIn\ base\ a\ quello\ che\ abbiamo,\ anche\ una\ coppia\ di\ fratelli\ proviene\ da\ quel\ mondo\.\ Sono\ noti\ come\ Killa\ e\ Tagilla\.\ Eccolo\ qui:\ Tagilla\ ha\ una\ forza\ fisica\ pazzesca\ e\ abilità\ di\ combattimento\.\ Non\ ho\ idea\ che\ tipo\ di\ tecnologia\ abbiano\ usato,\ ma\ mi\ piacerebbe\ provarla\ io\ stesso\.\nC'è\ un\ uomo\ di\ nome\ Vida,\ un\ grande\ fan\ di\ Killa\.\ Potresti\ averlo\ visto\ nel\ supermercato\ di\ Farm\ Town\.\ Potrebbe\ sapere\ dove\ si\ trova\ Killa\.\ Trova\ Killa,\ e\ troviamo\ Tagilla\.",#20260209061732,Default
+Quest_642,Stalker,#20260209061303,Default
+Quest_642_Desc,"Vida\ sembra\ essere\ ossessionato\ dalla\ potenza\ di\ combattimento\ di\ Killa\ e\ lo\ sta\ pedinando\ costantemente\.\ Davvero\ inquietante\.\nSecondo\ l'intelligence\ di\ Vida,\ Killa\ è\ attualmente\ nel\ supermercato\ situato\ all'interno\ del\ Centro\ Visitatori\ di\ Lab\ Area\ 37\.\ Buttalo\ giù\ e\ vedi\ cosa\ possiamo\ ottenere\.",#20260209061732,Default
+Quest_643,Infiltrazione\ Mascherata,#20260209061303,Default
+Quest_643_Desc,"Abbiamo\ localizzato\ Tagilla\.\ Si\ sta\ nascondendo\ nel\ Magazzino\ della\ Base\ Militare\ a\ Lab\ Area\ 37\.\ L'Elmetto\ di\ Killa\ è\ il\ pass\ per\ entrare\ lì\.\ Ne\ hai\ portato\ uno\ indietro,\ vero\?",#20260209061303,Default
+Quest_644,Medicina\ del\ Labirinto,#20260209061303,Default
+Quest_644_Desc,"Sei\ stato\ nel\ posto\ chiamato\ Labirinto,\ vero\?\ Xiaoming\ dice\ che\ c'è\ qualcuno\ lì\ dentro\ ancora\ più\ forte\ di\ Tagilla\.\ Da\ quello\ che\ ho\ visto,\ assomiglia\ in\ modo\ inquietante\ a\ Tagilla\.\ Potrebbe\ essere\ lui\?\ Se\ così—come\ è\ finito\ così\?\nComunque,\ sono\ ancora\ molto\ interessato\ alla\ tecnologia\ che\ sta\ usandoù\ Mi\ aiuterai,\ vero\?",#20260209061732,Default
+Quest_671,Hotel\ Estivo,#20260209061303,Default
+Quest_671_Desc,"Hai\ visitato\ molte\ volte\ Lab\ Area\ 37\ ultimamente\?\ Era\ una\ volta\ un\ resort\ tutto\ l'anno\ con\ un\ clima\ mite,\ anche\ se\ pochi\ lo\ sapevano\.\ Successivamente,\ è\ stato\ convertito\ in\ un'area\ laboratoriale\ e\ sepolto\ sotto\ la\ neve\.\ Dopo\ di\ che,\ nessuno\ è\ andato\ lì\ più\.\ Capitò\ che\ lasciassi\ qualcosa\ dietro\ all'Hotel\ Snow\ Mountain\.\ Potresti\ aiutarmi\ a\ recuperarlo\?",#20260209061303,Default
+Quest_672,L'Istigatore,#20260209061303,Default
+Quest_661,Equipaggiamento\ Invernale\ I,#20260209061303,Default
+Quest_661_Desc,"Sta\ diventando\ più\ freddo,\ e\ gli\ articoli\ invernali\ sono\ molto\ richiesti\.\ Poiché\ sei\ spesso\ a\ Lab\ Area\ 37\ comunque,\ potresti\ portarmi\ indietro\ alcune\ specialità\.\ Non\ preoccuparti—divideremo\ i\ profitti\ equamente\.",#20260209061303,Default
+Quest_662,Equipaggiamento\ Invernale\ II,#20260209061303,Default
+Quest_662_Desc,Il\ lotto\ precedente\ è\ stato\ molto\ apprezzato\.\ Un\ cliente\ importante\ vuole\ qualcosa\ di\ più\ avanzato\.\ L'unico\ modo\ per\ ottenerlo\ è\ dal\ Wolf\ King\ a\ Lab\ Area\ 37\.\ Sono\ sicuro\ che\ troverai\ un\ modo\.,#20260209061303,Default
+Interact_PlaceFirework,Posiziona\ Fuochi\ d'Artificio,#20260209061303,Default
+Interact_IgniteFirework,Guarda\ Fuochi\ d'Artificio,#20260209061303,Default
+Item_Quest_633_FireWork,Fuochi d'Artificio,#20260209061303,Default
+Item_Quest_633_FireWork_Desc,Una\ grande\ scatola\ di\ fuochi\ d'artificio\.,#20260209061303,Default
+Quest_633_Task_2,Posiziona\ e\ Guarda\ i\ Fuochi\ d'Artificio,#20260209061303,Default
+Quest_633_Task_1,Posiziona\ i\ Fuochi\ d'Artificio,#20260209061303,Default
+Quest_622,Costruisci\ una\ Stampante\ 3D,#20260209061303,Default
+Quest_622_Desc,"Hai\ hackerato\ la\ rete\ di\ Alex,\ quindi\ ho\ decodificato\ la\ sua\ stampante\ mentre\ ero\ lì\.\ Se\ vuoi,\ puoi\ costruirne\ una\ anche\ qui\.",#20260209061303,Default
+Tag_Acc_NMGun,Solo\ Nano\ Gun,#20260209061303,Default
+MapInterest_Horse,Pony,#20260209061303,Default
+Interact_Feed,Dai\ da\ Mangiare,#20260209061303,Default
+Interact_Ride,\ Cavalca,#20260209061732,Default
+Character_Alex,Alex,#20260209061303,Default
+UI_Interact_UnlockPrinter,Carica\ i\ dati\ di\ stampa\ 3D,#20260209061303,Default
+UI_Interact_Print,Stampa,#20260209061303,Default
+Building_Printer,Stampante\ 3D,#20260209061303,Default
+Building_Printer_Desc,Una\ Stampante\ 3D\ alimentata\ da\ IA\ che\ stampa\ oggetti\ base\ consumando\ grandi\ quantità\ di\ hashrate\.,#20260209061303,Default
+Item_Ticket_SnowMilitaryBase,Biglietto\ Traghetto\ Area\ Lab,#20260209061303,Default
+Item_Ticket_SnowMilitaryBase_Desc,Un\ biglietto\ di\ andata\ e\ ritorno\ tra\ il\ Molo\ Ovest\ del\ Mulino\ a\ Farm\ Town\ e\ l'Area\ Lab\ 37\.,#20260209061303,Default
+Item_Special_NM_NMGun_1,Allegato\ Macchina\ Bio-Nano,#20260209061303,Default
+Item_Special_NM_NMGun_1_Desc,Ti\ permette\ di\ controllare\ brevemente\ creature\ quando\ colpisci\ la\ testa\ con\ la\ Nano\ Gun\.,#20260209061303,Default
+Item_Injection_Tagilla,Pozione\ di\ Tagilla,#20260209061303,Default
+Item_Injection_Tagilla_Desc,Un\ iniettore\ portato\ da\ Tagilla\ che\ migliora\ notevolmente\ le\ capacità\ fisiche\ ma\ ha\ effetti\ collaterali\ significativi\.,#20260209061303,Default
+Item_Injection_Tagilla_Basaka,Pozione\ del\ Minotauro,#20260209061303,Default
+Item_Injection_Tagilla_Basaka_Desc,Un\ iniettore\ portato\ dal\ Minotauro\ che\ migliora\ significativamente\ le\ capacità\ fisiche\ ma\ ha\ effetti\ collaterali\ gravi\.,#20260209061303,Default
+Buff_Tagilla,Potenza\ di\ Tagilla,#20260209061303,Default
+Buff_Tagilla_Desc,"Migliora\ notevolmente\ le\ abilità\ fisiche,\ ma\ drena\ continuamente\ HP\.",#20260209061303,Default
+Buff_Tagilla_Basaka_Desc,"Migliora\ significativamente\ le\ abilità\ fisiche,\ ma\ drena\ continuamente\ HP\.",#20260209061303,Default
+Buff_Tagilla_Basaka,Potenza\ del\ Minotauro,#20260209061303,Default
+Item_Quest_613_JlabEmployeeList,Disco\ Rigido\ Portatile:\ Registri\ Dipendenti\ J-Lab,#20260209061303,Default
+Item_Quest_613_JlabEmployeeList_Desc,"Contiene\ informazioni\ di\ base\ e\ registri\ di\ trasferimento\ di\ quasi\ tutti\ i\ dipendenti\ di\ J-Lab,\ inclusi\ i\ registri\ di\ licenziamento\ di\ Jeff\ e\ Xiaoming\.",#20260209061303,Default
+Item_HackerDevice_Desc,"Un\ sistema\ di\ hacking\ semplificato\ creato\ da\ Xiaoming\.\ Anche\ i\ principianti\ possono\ usarlo\ facilmente\.\ Una\ volta\ aggiornato,\ può\ prendere\ il\ controllo\ di\ unità\ meccaniche\ senza\ essere\ rilevato\.",#20260209061303,Default
+Item_HackerDevice,Dispositivo\ Plug-and-Hack,#20260209061303,Default
+Item_PrinterHotend,Estremità\ Calda\ della\ Stampante,#20260209061303,Default
+Item_PrinterHotend_Desc,Uno\ dei\ componenti\ principali\ di\ una\ stampante\ 3D\.\ Può\ mantenere\ prestazioni\ stabili\ anche\ a\ temperature\ estremamente\ elevate\.\ Altamente\ preciso\ e\ quindi\ molto\ costoso\.,#20260209061303,Default
+Item_Quest_616_ShippingList,Elenco\ di\ Spedizione,#20260209061303,Default
+Item_Quest_616_ShippingList_Desc,Un\ elenco\ che\ registra\ le\ destinazioni\ per\ il\ carico\.,#20260209061303,Default
+Item_Quest_654_InformationCodeT,Disco\ Rigido\ Portatile:\ Codename\ T,#20260209061303,Default
+Item_Quest_654_InformationCodeT_Desc,Un\ disco\ rigido\ portatile\ contenente\ dati\ di\ ricerca\ etichettati\ Codename\ T\.\ Alex\ ti\ ha\ esplicitamente\ ordinato\ di\ non\ guardare\ dentro\.,#20260209061303,Default
+Item_Quest_654_BluePaperBox,Scatola\ di\ Cartone\ Blu,#20260209061303,Default
+Item_Quest_654_BluePaperBox_Desc,Una\ scatola\ di\ cartone\ blu\.\ Piuttosto\ pesante\.\ Nessuna\ idea\ di\ cosa\ ci\ sia\ dentro\.,#20260209061303,Default
+Item_Quest_656_TradingRecords,Registri\ delle\ Transazioni,#20260209061303,Default
+Item_Quest_656_TradingRecords_Desc,Un\ taccuino\ che\ documenta\ tutte\ le\ transazioni\ effettuate\ dall'ingegnere\ senior\.\ Le\ voci\ sono\ estremamente\ dettagliate\ e\ gli\ importi\ coinvolti\ sono\ sorprendenti\.,#20260209061303,Default
+Item_Quest_657_RedBall,Palla\ Rossa,#20260209061303,Default
+Item_Quest_657_RedBall_Desc,Sembra\ molto\ complessa\.\ Molto\ pesante\ e\ leggermente\ calda\ al\ tatto\.,#20260209061303,Default
+Item_Quest_657_BlueBall,Palla\ Blu,#20260209061303,Default
+Item_Quest_657_BlueBall_Desc,Sembra\ molto\ complessa\.\ Molto\ pesante\ e\ leggermente\ fredda\ al\ tatto\.,#20260209061303,Default
+Item_Quest_641_VidaNote,Note\ di\ Pedinamento,#20260209061303,Default
+Item_Quest_641_VidaNote_Desc,"Il\ registro\ di\ tracciamento\ di\ Vida\ su\ Killa,\ con\ timestamp\ al\ secondo\.\ Giudicando\ dalle\ date,\ succede\ da\ mesi\.",#20260209061303,Default
+Item_Quest_671_FoPhoto,Una\ Foto\ di\ Vogo,#20260209061303,Default
+Item_Quest_671_FoPhoto_Desc,"Una\ foto\ di\ Vogo\ che\ cattura\ un\ grande\ pesce,\ ora\ macchiata\.\ A\ un\ esame\ più\ ravvicinato,\ il\ pesce\ sembra\ avere\ segni\ di\ post-elaborazione\.",#20260209061303,Default
+Item_Information_Maze,Intelligence\ del\ Labirinto,#20260209061303,Default
+Item_Information_Maze_Desc,"Un\ file\ contenente\ informazioni\ sul\ Labirinto,\ ma\ frammentato\ e\ incompleto\.",#20260209061303,Default
+Item_Key_Card_Maze,Tessera\ Magnetica\ del\ Labirinto,#20260209061303,Default
+Item_Key_Card_Maze_Desc,"Consente\ l'accesso\ al\ Labirinto,\ altamente\ crittografato\ e\ quasi\ impossibile\ da\ duplicare\.",#20260209061303,Default
+Item_Key_SnowMilitary_SenorEngineer,Chiave\ della\ Casa\ dell'Ingegnere,#20260209061303,Default
+Item_Key_SnowMilitary_SenorEngineer_Desc,Apre\ la\ porta\ della\ casa\ dell'ingegnere\ senior\.,#20260209061303,Default
+Item_Quest_618_MicroCamera,Microcamera,#20260209061303,Default
+Item_Quest_618_MicroCamera_Desc,Una\ fotocamera\ molto\ piccola\ che\ può\ essere\ installata\ quasi\ ovunque\.\ I\ dati\ vengono\ trasmessi\ tramite\ Wi-Fi\.,#20260209061303,Default
+UI_Interact_Hack,Hackerare,#20260209061303,Default
+Quest_615_Task_1,Hackerare\ la\ Stampante\ 3D,#20260209061303,Default
+UI_Interact_Find,Cerca,#20260209061303,Default
+UI_LootBox_Find,Cerca,#20260209061303,Default
+UI_Interact_Install,Installa,#20260209061303,Default
+Quest_619_Task_1,Installa\ Telecamera\ I,#20260209061303,Default
+Quest_619_Task_2,Installa\ Telecamera\ II,#20260209061303,Default
+Quest_619_Task_3,Installa\ Telecamera\ III,#20260209061303,Default
+Quest_619_Task_4,Installa\ Telecamera\ IV,#20260209061303,Default
+UI_LootBox_BlueBox,Scatola\ di\ Cartone\ Blu,#20260209061303,Default
+Cname_Boss_Fly_Alone,Membro\ Mosca\ Isolato,#20260209061303,Default
+Item_Key_Farm_Nursing_Toilet,Chiave\ del\ Bagno\ del\ Sanatorio,#20260209061303,Default
+Item_Key_Farm_Nursing_Toilet_Desc,Apre\ la\ porta\ del\ bagno\ nel\ Sanatorio\.,#20260209061303,Default
+UI_Interact_ToMaze,Entra\ nel\ Labirinto\ \(Senza\ Ritorno\),#20260209061303,Default
+HelmatLV4_Fleeze,Elmetto\ di\ Fleeze,#20260209061303,Default
+HelmatLV4_Fleeze_Desc,"L'elmetto\ di\ Fleeze\ presenta\ tecnologie\ altamente\ avanzate,\ notevolmente\ più\ caldo\ dell'equipaggiamento\ da\ campo\ di\ neve\ standard\.",#20260209061303,Default
+HelmatLV4_Igny_Desc,"L'elmetto\ di\ Igny\ presenta\ tecnologie\ altamente\ avanzate,\ notevolmente\ più\ caldo\ dell'equipaggiamento\ da\ campo\ di\ neve\ standard\.",#20260209061303,Default
+HelmatLV4_Igny,Elmetto\ di\ Igny,#20260209061303,Default
+ArmorLV4_Fleeze_Desc,"L'armatura\ di\ Fleeze\ presenta\ tecnologie\ altamente\ avanzate,\ con\ due\ slot\ circolari\ progettati\ per\ incorporare\ oggetti\.",#20260209061303,Default
+ArmorLV4_Igny_Desc,"L'armatura\ di\ Igny\ presenta\ tecnologie\ altamente\ avanzate,\ con\ due\ slot\ circolari\ progettati\ per\ incorporare\ oggetti\.",#20260209061303,Default
+ArmorLV4_Fleeze,Armatura\ di\ Fleeze,#20260209061303,Default
+ArmorLV4_Igny,Armatura\ di\ Igny,#20260209061303,Default
+Tag_Gem_Armor_Igny,Palla\ Rossa,#20260209061303,Default
+Tag_Gem_Armor_Fleeze,Palla\ Blu,#20260209061303,Default
+Cname_PMCLeader,Oca\ Sciocca,#20260209061303,Default
+MapLocation_Snow_MilltaryBase,Base\ Militare,#20260209061303,Default
+MapLocation_Snow_ProoVillage,Villaggio,#20260209061303,Default
+MapLocation_Snow_Hotel,Hotel,#20260209061303,Default
+MapLocation_Snow_Obs,Postazione\ di\ Osservazione\ Improvvisata,#20260209061303,Default
+MapLocation_Snow_WeatherStation,Stazione\ Meteorologica,#20260209061303,Default
+MapLocation_Snow_Visitor,Centro\ Visitatori,#20260209061303,Default
+MapLocation_Snow_Villa,Villa,#20260209061303,Default
+MapLocation_Snow_Gas,Stazione\ di\ Servizio,#20260209061303,Default
+MapLocation_Snow_Transformer,Sottostazione,#20260209061303,Default
+UI_Exit,Esci,#20260209061303,Default
+Buff_equip_BlueBall_Buff,Potenza\ dell'Ombrello,#20260209061303,Default
+Buff_equip_BlueBall_Buff_Desc,"Ripristina\ continuamente\ HP\ e\ aumenta\ Armatura,\ DMG\ mischia\ e\ DMG\ arma\.\ Rimosso\ quando\ attacchi\ o\ ricevi\ danni\.",#20260209061303,Default
+Buff_equip_RedBall_Buff,Palla\ Rossa,#20260209061303,Default
+Buff_equip_RedBall_Buff_Desc,Aumenta\ DMG\ mischia\ e\ arma\.\ Rimosso\ quando\ attacchi\.,#20260209061303,Default
+Item_ShitStick,Bastone\ di\ Sterco,#20260209061303,Default
+Item_ShitStick_Desc,L'ATK\ di\ questo\ bastone\ di\ legno\ è\ stato\ aumentato\.,#20260209061303,Default
+Item_GoldDumbbell,Manubrio\ d'Oro,#20260209061303,Default
+Item_GoldDumbbell_Desc,Estremamente\ pesante\.\ Sollevarlo\ richiede\ una\ forza\ sorprendente\.,#20260209061303,Default
+Item_AED,Defibrillatore,#20260209061303,Default
+Item_AED_Desc,Un\ dispositivo\ medico\ di\ emergenza\ utilizzabile\ da\ non\ professionisti\.\ Sembra\ scarico\.,#20260209061303,Default
+Item_Ophthalmoscope,Oftalmoscopio,#20260209061303,Default
+Item_Ophthalmoscope_Desc,Un\ dispositivo\ comunemente\ utilizzato\ per\ esami\ oculari\.,#20260209061303,Default
+Item_RAM,Memoria\ RAM,#20260209061303,Default
+Item_RAM_Desc,"A\ causa\ del\ suo\ ruolo\ critico\ nell'IA,\ i\ prezzi\ sono\ ora\ alle\ stelle\.",#20260209061303,Default
+Item_CPU,CPU,#20260209061303,Default
+Item_CPU_Desc,"Un\ componente\ core\ del\ computer,\ ma\ la\ bassa\ domanda\ nel\ campo\ dell'IA\ mantiene\ i\ prezzi\ ragionevoli\.",#20260209061303,Default
+Item_SSD,M\.2\ SSD,#20260209061732,Default
+Item_SSD_Desc,"A\ causa\ dei\ diffusi\ aumenti\ dei\ prezzi\ dei\ chip\ di\ archiviazione,\ il\ suo\ costo\ è\ aumentato\ vertiginosamente\.",#20260209061303,Default
+Item_TankBattery,Batteria\ da\ Carro,#20260209061303,Default
+Item_TankBattery_Desc,Una\ batteria\ ad\ alta\ capacità\ utilizzata\ nei\ carri\.\ Estremamente\ pesante\.,#20260209061303,Default
+Item_GoldShit,Sterco\ d'Oro,#20260209061303,Default
+Item_GoldShit_Desc,Nessuna\ idea\ del\ perché\ abbia\ questa\ forma\.\ Ma\ a\ molte\ persone\ piace\ davvero\.,#20260209061303,Default
+Item_SHT_AA12_Normal,AA-12,#20260209061303,Default
+Item_SHT_AA12_Normal_Desc,"Un\ fucile\ a\ pompa\ automatico\ con\ prestazioni\ eccellenti\.\ A\ causa\ dell'alto\ costo\ e\ del\ design\ innovativo,\ non\ è\ mai\ stato\ ampiamente\ adottato\.",#20260209061303,Default
+Item_SMG_AK74_Tagilla,AK-74U\ \(Mod\ Tagilla\),#20260209061732,Default
+Item_SMG_AK74_Tagilla_Desc,"Un\ AK-74U\ modificato\ da\ Tagilla,\ coperto\ da\ vari\ accessori\.",#20260209061303,Default
+Item_SHT_Saiga12_Normal,Saiga-12K,#20260209061303,Default
+Item_SHT_Saiga12_Normal_Desc,"Un\ fucile\ a\ pompa\ basato\ sulla\ piattaforma\ AK\.\ Economico,\ durevole\ e\ ampiamente\ preferito\.",#20260209061303,Default
+Item_SHT_Saiga12_TagillaB,Saiga-12K\ \(Mod\ Tagilla\),#20260209061732,Default
+Item_SHT_Saiga12_TagillaB_Desc,La\ Saiga-12K\ portata\ dal\ Minotauro\.\ Senza\ dubbio\ è\ modificata\ da\ Tagilla\.,#20260209061303,Default
+Item_Bullet_NM_Normal,Proiettile\ Nano,#20260209061303,Default
+Item_Bullet_NM_Normal_Desc,Contiene\ robot\ nanometrici\.,#20260209061303,Default
+Item_NM_NMGun_Elec,Nano\ Gun,#20260209061303,Default
+Item_NM_NMGun_Elec_Desc,"Prima\ di\ sparare,\ l'arma\ scrive\ programmi\ nei\ robot\ nano\ all'interno\ dei\ proiettili\.\ Diversi\ moduli\ risultano\ in\ programmi\ diversi\ caricati\.",#20260209061303,Default
+Interact_ShutdownGunTurret,Disabilita\ Torretta\ di\ Sentinella,#20260209061303,Default
+Item_Helmat_Tagilla_Basaka,ZABEY,#20260209061303,Default
+Item_Helmat_Tagilla_Basaka_Desc,"Giudicando\ questa\ maschera,\ il\ Labirinto\ aveva\ gravemente\ colpito\ lo\ stato\ mentale\ di\ Tagilla,\ rendendolo\ ancora\ più\ pazzo\ e\ assetato\ di\ sangue\.\ Chi\ avrebbe\ pensato\ che\ potesse\ essere\ ancora\ più\ folle\?",#20260209061651,Default
+Item_Hammer_Tagilla_B_Desc,"Un'ascia\ a\ due\ mani\ fatta\ da\ un\ tombino\ della\ fogna\.\.\.\ Con\ quel\ peso,\ un\ colpo\ è\ sufficiente\ per\ spezzare\ un\ cranio,\ che\ la\ lama\ sia\ affilata\ o\ meno\.",#20260209061303,Default
+Item_Hammer_Tagilla_B,Ascia\ Dimidiata\ Concatenata,#20260209061303,Default
+PerkTree_PerkTree_Hacker,Aggiornamento\ Hacking,#20260209061303,Default
+perk_CloseTurret,Disabilita\ Torretta,#20260209061303,Default
+perk_ControlTurret,Controlla\ Torretta,#20260209061303,Default
+perk_HackRange_1,Portata\ Hack\ I,#20260209061303,Default
+perk_HackTime_1,Durata\ Controllo\ I,#20260209061303,Default
+perk_ControlRobot,Controllo\ Robot,#20260209061303,Default
+perk_ControlBossRobot,Controllo\ Robot\ Avanzato,#20260209061303,Default
+perk_HackRange_2,Portata\ Hack\ II,#20260209061303,Default
+perk_HackTime_2,Durata\ Controllo\ II,#20260209061303,Default
+perk_ControlRobotAcc,Modulo\ di\ Controllo\ Meccanico,#20260209061303,Default
+perk_ControlRobotAcc_Desc,"Sblocca\ la\ capacità\ di\ creare\ il\ Modulo\ di\ Controllo\ Meccanico,\ un\ accessorio\ speciale\ per\ Nano\ Gun\.",#20260209061303,Default
+Interact_HackControl,Hackerare,#20260209061303,Default
+Cname_SuperRob,Super\ Spider-Bot,#20260209061303,Default
+Item_3DMaterial,Materiali\ di\ Stampa\ 3D,#20260209061303,Default
+Note_SnowM_Cold_Title,Area\ Lab\ 37:\ Guida\ Resistenza\ al\ Freddo,#20260209061303,Default
+Note_SnowM_Cold_Content,"Nell'Area\ Lab\ 37,\ categorizziamo\ il\ freddo\ in\ quattro\ livelli:\nLivello\ 1:\ Lieve,\ giorno\ soleggiato\.\ L'equipaggiamento\ base\ anti-freddo\ è\ sufficiente\.\nLivello\ 2:\ Notti\ serene\ o\ giorno\ nevoso\.\ Sono\ necessari\ indumenti\ più\ caldi\.\nLivello\ 3:\ Bufera\ di\ notte\.\ Molto\ più\ freddo—uscire\ non\ è\ consigliato\.\nLivello\ 4:\ Aree\ vicino\ al\ dispositivo\ di\ raffreddamento\.\ Queste\ sono\ zone\ di\ freddo\ estremo\.\ Non\ avvicinarti\ a\ meno\ che\ non\ sia\ dotato\ di\ armatura\ specializzata\ anti-ipotermia\.\nSe\ vedi\ fuochi\ da\ campo,\ puoi\ accenderli\ per\ stare\ al\ caldo\.",#20260209061732,Default
+PerkTree_Hacker,Aggiorna\ Dispositivo\ Plug-and-Hack,#20260209061303,Default
+Item_Quest_618_Card_Maze_Empty,Tessera\ Magnetica\ Prototipo,#20260209061303,Default
+Item_Quest_618_Card_Maze_Empty_Desc,"Una\ sofisticata\ tessera\ magnetica\ che\ supporta\ la\ crittografia\ di\ alto\ livello,\ ma\ non\ contiene\ dati\ al\ suo\ interno\.",#20260209061303,Default
+Level_SnowFactory,Caverna\ Gelata,#20260209061303,Default
+Level_ColdStorage,Labirinto,#20260209061303,Default
+Item_3DMaterial_Desc,"Il\ materiale\ essenziale\ per\ la\ stampa\ 3D,\ che\ può\ essere\ utilizzato\ per\ creare\ una\ grande\ varietà\ di\ cose\.",#20260209061303,Default
+Item_LightSaber,LightSaber,#20260209061303,Default
+Cname_RaiderIce,Osservatore,#20260209061303,Default
+Item_LightSaber_Desc,"Sembra\ una\ lama\ e\ viene\ usata\ come\ tale,\ ma\ è\ in\ realtà\ un\ manico\ di\ ombrello\ di\ servizio\ utilizzato\ dalla\ Forza\ Stellare\ dell'Ombrello\.\ Le\ particelle\ ad\ alta\ energia\ che\ emette\ possono\ incendiare\ l'armatura\ e\ persino\ tagliare\ i\ proiettili\.\ Sorprendentemente\ leggero,\ eppure\ usarlo\ consuma\ resistenza—come\ se\ drenasse\ la\ tua\ stessa\ energia\.",#20260209061303,Default
+Quest_681_Desc,"Un\ estraneo\ ci\ ha\ chiesto\ di\ marcare\ i\ carri\ nell'Area\ Lab\ 37—non\ quelli\ all'interno\ della\ Base\ Militare,\ ma\ quelli\ abbandonati\ lasciati\ fuori\.\ Non\ so\ se\ stiano\ raccogliendo\ rottami\ o\ che\ cos'altro\.\ È\ strano,\ ma\ la\ paga\ è\ troppo\ buona\ per\ rifiutare\.\ Quindi\ fai\ il\ viaggio\.",#20260209061303,Default
+Quest_681,Dal\ Nulla—Area\ Lab\ 37,#20260209061303,Default
+Quest_681_Task1_Desc,Marca\ il\ carro\ a\ nord\ della\ Sottostazione\.,#20260209061303,Default
+Quest_681_Task4_Desc,Marca\ il\ carro\ tra\ la\ Stazione\ Meteorologica\ e\ l'Hotel\.,#20260209061303,Default
+Quest_681_Task3_Desc,Marca\ il\ carro\ a\ ovest\ della\ Postazione\ di\ Osservazione\ Improvvisata\.,#20260210024031,Default
+Quest_681_Task2_Desc,Marca\ il\ carro\ a\ nord\ dell'edificio\ principale\ nella\ Base\ Militare\.,#20260209061303,Default
+Item_Helmat_ColdProtect,Casco\ da\ Lavoro\ Anti-Freddo,#20260209061303,Default
+Item_Helmat_ColdProtect_Desc,"Un\ casco\ progettato\ per\ lavorare\ in\ ambienti\ freddi\.\ Fornisce\ un\ isolamento\ forte,\ ma\ non\ può\ resistere\ al\ freddo\ estremo\.",#20260209061303,Default
+Item_Armor_ColdProtect_Desc,"Una\ tuta\ da\ lavoro\ progettata\ per\ ambienti\ freddi\.\ Offre\ un\ isolamento\ forte,\ ma\ non\ può\ resistere\ al\ freddo\ estremo\.",#20260209061303,Default
+Item_Armor_ColdProtect,Tuta\ da\ Lavoro\ Anti-Freddo,#20260209061303,Default
+Quest_672_Desc,"La\ mia\ foto\ è\ stata\ profanata\.\ So\ chi\ l'ha\ fatto—sono\ gli\ unici\ che\ farebbero\ una\ cosa\ del\ genere\.\ Di\ solito\ non\ mi\ arrabbio,\ ma\ questa\ volta\ devi\ toglierlo\ di\ mezzo\ per\ me\.",#20260209061303,Default
+Item_ArmorLV3ColdProtection,Tuta\ da\ Lavoro\ Anti-Freddo\ Lv\.3,#20260209061303,Default
+Item_ArmorLV3ColdProtection_Desc,"Un'armatura\ per\ il\ corpo\ Lv\.3\ cucita\ sull'esterno\ di\ una\ tuta\ da\ lavoro\ anti-freddo\.\ Leggermente\ pesante,\ ma\ estremamente\ efficace\.",#20260209061303,Default
+UI_LootBox_Snow,Cumulo\ di\ Neve,#20260209061303,Default
+Tag_Formula_Printer,Dati\ di\ Stampa\ 3D,#20260209061303,Default
+Tag_Formula_Printer_Desc,Usato\ per\ stampare\ oggetti\ su\ una\ stampante\ 3D\.,#20260209061303,Default
+Item_Print_HelmatLV4_SnowBoss,Dati\ di\ Stampa:\ Casco\ Anti-Ipotermia,#20260209061303,Default
+Item_Print_ArmorLV4_SnowBoss,Dati\ di\ Stampa:\ Armatura\ Anti-Ipotermia,#20260209061303,Default
+Item_Print_ArmorLV4_SnowBoss_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Armatura\ Anti-Ipotermia\.,#20260209061303,Default
+Item_Print_HelmatLV4_SnowBoss_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Casco\ Anti-Ipotermia\.,#20260209061303,Default
+Item_Print_ArmorLV4_Snow_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Armatura\ per\ il\ Corpo\ Livello\ 4\ Campo\ Nevoso\.,#20260209061303,Default
+Item_Print_HelmatLV4_Snow_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Casco\ Livello\ 4\ Campo\ Nevoso\.,#20260209061303,Default
+Item_Print_ArmorLV4_Snow,Dati\ di\ Stampa:\ Armatura\ per\ il\ Corpo\ Livello\ 4\ Campo\ Nevoso,#20260209061303,Default
+Item_Print_HelmatLV4_Snow,Dati\ di\ Stampa:\ Casco\ Livello\ 4\ Campo\ Nevoso,#20260209061303,Default
+Item_Key_Maze_Interrogation,Chiave\ della\ Stanza\ di\ Interrogatorio,#20260209061303,Default
+Item_Key_Maze_Interrogation_Desc,Apre\ la\ stanza\ di\ interrogatorio\ all'interno\ del\ Labirinto\.,#20260209061303,Default
+Item_Key_Maze_IronGate,Chiave\ del\ Cancello\ di\ Ferro,#20260209061303,Default
+Item_Key_Maze_IronGate_Desc,Apre\ il\ cancello\ di\ ferro\ all'interno\ del\ Labirinto\.,#20260209061303,Default
+Item_Key_Maze_RestRoom,Chiave\ della\ Lounge\ del\ Labirinto,#20260209061303,Default
+Item_Key_Maze_RestRoom_Desc,Apre\ la\ lounge\ all'interno\ del\ Labirinto\.,#20260209061303,Default
+Task_Beacon_Level_SnowMilitaryBase_Main,Attiva\ il\ Faro\ nell'Area\ Lab\ 37,#20260209061303,Default
+Item_Print_Special_NM_NMGun_1,Dati\ di\ Stampa:\ Allegato\ Macchina\ Bio-Nano,#20260209061303,Default
+Item_Print_Special_NM_NMGun_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Allegato\ Macchina\ Bio-Nano\.,#20260209061303,Default
+perk_CloseTurret_Desc,,#20260209061303,Default
+Stat_HackSkillLevel,Livello\ Hacking,#20260209061303,Default
+Stat_HackRangeFactor,Coefficiente\ Portata\ Hack,#20260209061303,Default
+Stat_HackTimeFactor,Coefficiente\ Durata\ Hack,#20260209061303,Default
+Item_RussianBeard,Barba\ Grande,#20260209061303,Default
+Item_RussianBeard_Desc,Un\ uomo\ con\ una\ barba\ folta\.,#20260209061303,Default
+Quest_652_Task1_Fix,Ripara\ la\ Stampante\ 3D,#20260209061303,Default
+Buff_Electric_NM,Macchine\ Nano,#20260209061303,Default
+Buff_Electric_NM_Desc,Robot\ nano\ stanno\ invadendo\.,#20260209061303,Default
+Buff_NM_Damage,Invasione\ di\ Macchine,#20260209061303,Default
+Buff_NM_Damage_Desc,"Invaso\ da\ robot\ nano,\ perderai\ continuamente\ HP\.\ Quasi\ incurabile\.",#20260209061303,Default
+Item_Print_NM_NMGun_Elec,Dati\ di\ Stampa:\ Nano\ Gun,#20260209061303,Default
+Item_Print_NM_NMGun_Elec_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Nano\ Gun\.,#20260209061303,Default
+Item_Print_Bullet_NM_Normal,Dati\ di\ Stampa:\ Proiettile\ Nano,#20260209061303,Default
+Item_Print_Bullet_NM_Normal_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Proiettile\ Nano\.,#20260209061303,Default
+perk_ControlTurret_Desc,Consente\ al\ Dispositivo\ Plug-and-Hack\ di\ controllare\ le\ torrette\.,#20260209061303,Default
+perk_ControlRobot_Desc,Consente\ al\ Dispositivo\ Plug-and-Hack\ di\ controllare\ le\ macchine\ normali\.,#20260209061303,Default
+perk_ControlBossRobot_Desc,Consente\ al\ Dispositivo\ Plug-and-Hack\ di\ controllare\ le\ macchine\ avanzate\.,#20260209061303,Default
+Item_Print_ARR_AHBow_Ice,Dati\ di\ Stampa:\ Arco\ Ricurvo\ Tundra,#20260209061303,Default
+Item_Print_ARR_AHBow_Normal,Dati\ di\ Stampa:\ Arco\ Ricurvo,#20260209061303,Default
+Item_Print_Bullet_ARR_Piercing2,Progetto:\ Freccia\ AP\ Base,#20260209061303,Default
+Item_Print_Bullet_ARR_Piercing4,Progetto:\ Freccia\ AP\ Intermedia,#20260209061303,Default
+Item_Print_Special_ARR_AHBow_1,Dati\ di\ Stampa:\ Modulo\ Scarico\ Arco\ Ricurvo,#20260209061303,Default
+Item_Print_Special_ARR_AHBow_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Scarico\ Arco\ Ricurvo\.,#20260209061303,Default
+Item_Print_Bullet_ARR_Piercing2_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Freccia\ AP\ Base\.,#20260209061303,Default
+Item_Print_ARR_AHBow_Normal_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Arco\ Ricurvo\.,#20260209061303,Default
+Item_Print_ARR_AHBow_Ice_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Arco\ Ricurvo\ Tundra\.,#20260209061303,Default
+MapLocation_Snow_Signal,Fonte\ del\ Segnale,#20260209061303,Default
+UI_Interact_ToSnowMilitary,Vai\ all'Area\ Lab\ 37,#20260209061303,Default
+Cname_Zombie,\?\?\?,#20260209061303,Default
+Cname_SnowMan,Snow-Bot,#20260209061303,Default
+Note_SnowM_SnowMan_Title,Rapporti\ di\ Terrificante\ Pupazzo\ di\ Neve,#20260209061303,Default
+Note_SnowM_SnowMan_Content,"C'è\ un\ pupazzo\ di\ neve\ che\ vaga\ nel\ Villaggio\ settentrionale\.\ I\ suoi\ occhi\ brillano\ di\ rosso\ e\ appare\ solo\ di\ notte\.\nL'ho\ visto\ una\ volta\ con\ i\ miei\ occhi\.\ Ero\ terrificato,\ ma\ fortunatamente\ non\ mi\ ha\ notato\.\ In\ realtà\ assomiglia\ molto\ a\ un\ robot\.\ Forse\ qualcuno\ l'ha\ costruito\ per\ guardarsi\ da\ qualcosa\?",#20260209061733,Default
+Item_Key_SnowMilitary_Villa,Chiave\ della\ Villa,#20260209061303,Default
+Item_Key_SnowMilitary_Villa_Desc,Apre\ la\ villa\ nell'Area\ Lab\ 37\.,#20260209061303,Default
+Item_Key_SnowMilitary_StudyRoom,Chiave\ dello\ Spazio\ Lab\ N\.\ 2,#20260209061303,Default
+Item_Key_SnowMilitary_StudyRoom_Desc,Apre\ lo\ Spazio\ Lab\ N\.\ 2\ nell'Area\ Lab\ 37\.,#20260209061303,Default
+Item_Key_SnowMilitary_SpaceResearch,Chiave\ dello\ Spazio\ Lab,#20260209061303,Default
+Item_Key_SnowMilitary_SpaceResearch_Desc,Apre\ lo\ Spazio\ Lab\ nell'Area\ Lab\ 37\.,#20260209061303,Default
+Note_SnowM_GunSmith_Title,Sfogo\ di\ Alex,#20260209061303,Default
+Note_SnowM_GunSmith_Content,"Le\ armi\ da\ fuoco\ in\ questo\ mondo\ sembrano\ familiari,\ ma\ funzionano\ completamente\ diversamente\.\nGli\ accessori\ che\ non\ dovrebbero\ essere\ compatibili\ in\ qualche\ modo\ si\ adattano\ insieme—come\ un\ gioco\ economico\ e\ traballante\.\ È\ pazzo\.",#20260209061733,Default
+Item_Print_BoomCar,Dati\ di\ Stampa:\ Auto\ RC\ Esplosiva,#20260209061303,Default
+Item_Print_LightSaber,Dati\ di\ Stampa:\ LightSaber,#20260209061303,Default
+Item_Print_RKT_SnowGun_Ice,Dati\ di\ Stampa:\ Pistola\ Palla\ di\ Neve,#20260209061303,Default
+Item_Print_SHT_AA12_Normal,Dati\ di\ Stampa:\ AA-12,#20260209061303,Default
+Item_Print_SHT_Saiga12_Normal,Dati\ di\ Stampa:\ Saiga-12K,#20260209061303,Default
+Item_Print_SNP_TecSniper_Elec,Dati\ di\ Stampa:\ Fucile\ da\ Cecchino\ Intelligente\ TS-128,#20260209061303,Default
+Item_Print_Special_Melee_LightSaber_1,Dati\ di\ Stampa:\ Modulo\ Deflettente\ LightSaber,#20260209061303,Default
+Item_Print_Special_Poop_ShitGun_1,Dati\ di\ Stampa:\ Modulo\ Portata\ Pistola\ Sterco,#20260209061303,Default
+Item_Print_Special_RKT_SnowGun_1,Dati\ di\ Stampa:\ Modulo\ Miglioramento\ Pistola\ Palla\ di\ Neve,#20260209061303,Default
+Item_Print_Special_SHT_SnowBoss_1,Dati\ di\ Stampa:\ Modulo\ Cluster\ BSG,#20260210022146,Default
+Item_Print_Special_SNP_TecSniper_1,Dati\ di\ Stampa:\ Modulo\ BCI\ TS-128,#20260209061303,Default
+Item_Print_BoomCar_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Auto\ RC\ Esplosiva\.,#20260209061303,Default
+Item_Print_LightSaber_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ LightSaber\.,#20260209061303,Default
+Item_Print_RKT_SnowGun_Ice_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Pistola\ Palla\ di\ Neve\.,#20260209061303,Default
+Item_Print_SHT_AA12_Normal_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ AA-12\.,#20260209061303,Default
+Item_Print_SHT_Saiga12_Normal_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Saiga-12K\.,#20260209061303,Default
+Item_Print_SNP_TecSniper_Elec_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Fucile\ da\ Cecchino\ Intelligente\ TS-128\.,#20260209061303,Default
+Item_Print_Special_Melee_LightSaber_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Deflettente\ LightSaber\.,#20260209061303,Default
+Item_Print_Special_Poop_ShitGun_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Portata\ Pistola\ Sterco\.,#20260209061303,Default
+Item_Print_Special_RKT_SnowGun_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Miglioramento\ Pistola\ Palla\ di\ Neve\.,#20260209061303,Default
+Item_Print_Special_SHT_SnowBoss_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Cluster\ BSG\.,#20260210022152,Default
+Item_Print_Special_SNP_TecSniper_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ BCI\ TS-128\.,#20260209061303,Default
+Item_SNP_TecSniper_Elec,Fucile\ da\ Cecchino\ Intelligente\ TS-128,#20260209061303,Default
+Item_Special_Melee_LightSaber_1,Modulo\ Deflettente\ LightSaber,#20260209061303,Default
+Item_Special_Poop_ShitGun_1,Modulo\ Portata\ Pistola\ Sterco,#20260209061303,Default
+Item_Special_RKT_SnowGun_1,Modulo\ Miglioramento\ Pistola\ Palla\ di\ Neve,#20260209061303,Default
+Item_Special_SNP_TecSniper_1,Modulo\ BCI\ TS-128,#20260209061303,Default
+Tag_Acc_LightSaber,Solo\ LightSaber,#20260209061303,Default
+Tag_Acc_ShitGun,Solo\ Pistola\ Sterco,#20260209061303,Default
+"Tag_,Acc_SnowGun",Solo\ Pistola\ Palla\ di\ Neve,#20260209061303,Default
+Tag_Acc_TecSniper,Solo\ TS-128,#20260209061303,Default
+Item_Special_Melee_LightSaber_1_Desc,"Consente\ al\ LightSaber\ di\ deflettere\ i\ proiettili\ nemici,\ ma\ consuma\ più\ Resistenza\ quando\ colpisci\.",#20260209061303,Default
+Item_Key_SnowMilitary_PresidentialSuite,Chiave\ della\ Suite\ Presidenziale,#20260209061303,Default
+Item_Key_SnowMilitary_PresidentialSuite_Desc,Apre\ la\ Suite\ Presidenziale\ dell'Hotel\ nell'Area\ Lab\ 37\.,#20260209061303,Default
+Note_SnowM_SpaceReserch_Title,Ricerca\ nello\ Spazio,#20260209061303,Default
+Note_SnowM_SpaceReserch_Content,"Gli\ eventi\ che\ si\ sono\ verificati\ nel\ Labirinto\ hanno\ provato\ l'esistenza\ dello\ spazio\ multidimensionale,\ quindi\ abbiamo\ lanciato\ ricerche\ spaziali\ qui\.\ Ciò\ richiede\ una\ quantità\ massiccia\ di\ Cristalli\ Blu\.\nAl\ momento,\ possiamo\ aprire\ un\ passaggio\ che\ si\ collega\ a\ un\ altro\ mondo,\ ma\ è\ solo\ monodirezionale\.\nCi\ sono\ due\ laboratori\ che\ conducono\ la\ stessa\ ricerca\ simultaneamente\.\nLab\ N\.\ 1\ sta\ facendo\ progressi\ lenti\ e\ le\ sue\ macchine\ hanno\ recentemente\ malfunzionato\.\nLab\ N\.\ 2\ è\ molto\ segreta,\ ma\ penso\ che\ stiano\ facendo\ buoni\ progressi,\ poiché\ si\ possono\ occasionalmente\ sentire\ i\ urli\ dei\ ricercatori\ dall'interno\.",#20260209061733,Default
+Item_Special_Poop_ShitGun_1_Desc,La\ rigatura\ della\ canna\ della\ Pistola\ Sterco\ in\ realtà\ migliora\ la\ sua\ portata\ e\ la\ velocità\ del\ proiettile\.,#20260209061303,Default
+Item_Key_SnowMilitary_TankRoom,Chiave\ del\ Garage\ Carri,#20260209061303,Default
+Item_Key_SnowMilitary_TankRoom_Desc,Apre\ il\ Garage\ Carri\ nell'Area\ Lab\ 37\.,#20260209061303,Default
+Item_Key_SnowMilitary_HunterRoom,Chiave\ della\ Casa\ del\ Cacciatore,#20260209061303,Default
+Item_Key_SnowMilitary_HunterRoom_Desc,Apre\ la\ casa\ del\ cacciatore\.,#20260209061303,Default
+Item_Special_SNP_Balett_1,Modulo\ Mobilità\ M107,#20260209061303,Default
+Item_Special_SHT_Hand_1,Modulo\ Mietitore\ Fucile\ a\ Pompa\ Artigianale,#20260209061303,Default
+Item_Special_SMG_UZI_1,Modulo\ Precisione\ UZI,#20260209061303,Default
+Item_Print_Special_SNP_Balett_1,Dati\ di\ Stampa:\ Modulo\ Mobilità\ M107,#20260209061303,Default
+Item_Print_Special_SHT_Hand_1,Dati\ di\ Stampa:\ Modulo\ Mietitore\ Fucile\ a\ Pompa\ Artigianale,#20260209061303,Default
+Item_Print_Special_SMG_UZI_1,Dati\ di\ Stampa:\ Modulo\ Precisione\ UZI,#20260209061303,Default
+Item_Print_Special_SNP_Balett_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Mobilità\ M107\.,#20260209061303,Default
+Item_Print_Special_SHT_Hand_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Mietitore\ Fucile\ a\ Pompa\ Artigianale\.,#20260209061303,Default
+Item_Print_Special_SMG_UZI_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Precisione\ UZI\.,#20260209061303,Default
+Tag_Acc_Balett,Solo\ M107,#20260209061303,Default
+Tag_Acc_Hand,Solo\ Fucile\ a\ Pompa\ Artigianale,#20260209061303,Default
+Tag_Acc_UZI,Solo\ UZI,#20260209061303,Default
+Snow_Alex_Intro_1,Chi\?,#20260209061303,Default
+Snow_Alex_Intro_2,Hai\ ricevuto\ il\ segnale\?\ Perfetto\.,#20260209061303,Default
+Snow_Alex_Intro_3,"Ho\ alcuni\ buoni\ lavori\ qui,\ con\ una\ paga\ generosa\.",#20260209061303,Default
+Snow_Alex_Intro_4,"Ma\ prima,\ devi\ guadagnare\ la\ mia\ fiducia\.",#20260209061303,Default
+Snow_Alex_End_1,Aspetta!,#20260209061303,Default
+Snow_Alex_End_3,"Sto\ bene\ a\ stare\ qui\ adesso,\ quindi\.\.\.\ non\ devi\ preoccuparti\ che\ io\ rovini\ questo\ posto\.",#20260209061733,Default
+Snow_Alex_End_2,Hai\ vinto\.\.\.,#20260209061733,Default
+Stat_DmgOverDistance,Moltiplicatore\ DMG\ Fuori\ Portata,#20260209061303,Default
+Item_Totem_WarmStone,Pietra\ Riscaldante,#20260209061303,Default
+Item_Totem_WarmStone_Desc,Calda\ al\ tatto\.\ Tienila\ vicina\ per\ proteggerti\ dal\ freddo\.,#20260209061303,Default
+Item_BP_Totem_WarmStone,Progetto:\ Pietra\ Riscaldante,#20260209061303,Default
+Item_BP_Totem_WarmStone_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Pietra\ Riscaldante\.,#20260209061303,Default
+Item_Special_SNP_M700_1,Modulo\ Specializzato\ M700,#20260209061303,Default
+Item_Special_SNP_M700_1_Desc,"Un\ modulo\ incentrato\ sulla\ mobilità\ per\ l'M700\.\ Migliora\ la\ velocità\ di\ mira\ e\ il\ movimento\.\ Anche\ se\ la\ sua\ portata\ è\ ridotta,\ il\ DMG\ dei\ proiettili\ aumenta\ effettivamente\ una\ volta\ superata\ la\ portata\ efficace\.",#20260209061303,Default
+Item_Print_Special_SNP_M700_1,Dati\ di\ Stampa:\ Modulo\ Specializzato\ M700,#20260209061729,Default
+Item_Print_Special_SNP_M700_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Modulo\ Specializzato\ M700\.,#20260209061303,Default
+Tag_Acc_M700,Solo\ M700,#20260209061303,Default
+Item_Special_SNP_Balett_1_Desc,"Un\ modulo\ che\ migliora\ la\ mobilità\ generale\ dell'M107,\ aumentando\ anche\ la\ penetrazione\ dell'armatura\ dei\ proiettili\ al\ costo\ di\ DMG\ ridotto\.",#20260209061303,Default
+Item_MAG_ASh12_Normal,ASh-12,#20260209061303,Default
+Item_MAG_ASh12_Normal_Desc,"Un'arma\ progettata\ specificamente\ per\ il\ combattimento\ urbano\ ravvicinato\.\ Spara\ proiettili\ di\ grosso\ calibro\ con\ tremenda\ potenza,\ ma\ limita\ deliberatamente\ la\ velocità\ dei\ proiettili\ e\ riduce\ al\ minimo\ il\ rischio\ di\ fuoco\ amico\.",#20260209061303,Default
+Item_Special_SHT_Hand_1_Desc,"Consente\ a\ un\ fucile\ a\ pompa\ improvvisato\ di\ sparare\ proiettili\ in\ tutte\ le\ direzioni,\ come\ se\ la\ stessa\ morte\ fosse\ arrivata\.",#20260209061303,Default
+Item_Special_SMG_UZI_1_Desc,"Un\ modulo\ che\ migliora\ notevolmente\ la\ capacità\ dell'UZI\ di\ colpire\ la\ testa\ con\ precisione\.\ In\ cambio\ di\ una\ cadenza\ di\ fuoco\ ridotta,\ anche\ la\ riduzione\ del\ danno\ oltre\ la\ portata\ efficace\ è\ ridotta\.",#20260209061303,Default
+Item_SNP_TecSniper_Elec_Desc,Un\ fucile\ da\ cecchino\ ingegnerizzato\ con\ tecnologia\ aliena\ che\ sembra\ stranamente\ familiare\.,#20260209061303,Default
+Item_Special_SNP_TecSniper_1_Desc,"Collega\ i\ proiettili\ direttamente\ al\ tuo\ cervello\.\ Durante\ la\ mira,\ i\ proiettili\ seguiranno\ il\ bersaglio\.",#20260209061303,Default
+Perk_Storage_TankBattery,Ottimizzazione\ Fornitura\ Energia,#20260209061303,Default
+Perk_Physical_36,Portata\ Massima\ Definitiva,#20260209061303,Default
+Item_GreenBat,Batteria\ al\ Litio\ GreenBat,#20260209061303,Default
+Item_GreenBat_Desc,"Una\ batteria\ da\ 3,7\ volt\ con\ una\ capacità\ nominale\ di\ 3.400\ mAh\.\ Utilizzata\ in\ dispositivi\ di\ illuminazione\ e\ ingegneria\.",#20260209061733,Default
+Quest621_AlexKilled,Uccidi\ Alex,#20260209061733,Default
+Item_Wireless_Ming,Modulo\ Wireless,#20260209061303,Default
+Item_Wireless_Ming_Desc,Capace\ di\ ricevere\ segnali\ wireless\.,#20260209061303,Default
+Item_Shell,Proiettile\ OFZ\ 30×165\ mm,#20260209061733,Default
+Item_Shell_Desc,Un\ proiettile\ frammentato\ ad\ alto\ esplosivo\ da\ 30mm\ per\ un\ cannone\ 2A42\ da\ 30mm\ utilizzato\ su\ veicoli\ da\ combattimento\ corazzati\ e\ elicotteri\.,#20260209061303,Default
+Item_SnowBallWithStone,Palla\ di\ Neve\ \(Potenziata\),#20260209061303,Default
+Item_SnowBallWithStone_Desc,Questa\ palla\ di\ neve\ è\ stata\ caricata\.,#20260209061303,Default
+Item_BP_SHT_AA12_Normal,Progetto:\ AA-12,#20260209061303,Default
+Item_BP_SHT_Saiga12_Normal,Progetto:\ Saiga-12,#20260209061303,Default
+Item_BP_MAG_ASh12_Normal,Progetto:\ ASh-12,#20260209061303,Default
+Item_BP_SHT_AA12_Normal_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ AA-12\.,#20260209061303,Default
+Item_BP_SHT_Saiga12_Normal_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ Saiga-12\.,#20260209061303,Default
+Item_BP_MAG_ASh12_Normal_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ ASh-12\.,#20260209061303,Default
+Item_BP_IceGrenade,Progetto:\ Granata\ Ghiacciata,#20260209061303,Default
+Item_BP_IceGrenade_Desc,Un\ progetto\ utilizzato\ per\ creare\ Granata\ Ghiacciata\.,#20260209061303,Default
+Quest_682,Materiali\ Controllati,#20260209061303,Default
+Quest_682_Desc,"Quell'estraneo\ ci\ ha\ portato\ un\ altro\ lavoro\.\ Questa\ volta\ vuole\ batterie\ di\ carri\ e\ proiettili\.\ Non\ ho\ idea\ di\ cosa\ siano,\ ma\ la\ paga\ è\ ancora\ migliore\ di\ prima\.\ Quelle\ cose\ sono\ estremamente\ pesanti—assicurati\ di\ portare\ una\ borsa\ più\ grande\.",#20260209061303,Default
+Quest_663,Rivale,#20260209061303,Default
+Quest_663_Desc,"Quei\ rifornimenti\ invernali\ si\ sono\ venduti\ estremamente\ bene\.\ Ma\ ultimamente,\ qualcuno\ è\ diventato\ geloso—cercando\ di\ rubarci\ il\ clienti\.\ Questo\ è\ inaccettabile\.\ Di\ solito\ appare\ a\ nord\ della\ Stazione\ Meteorologica\ o\ vicino\ alla\ capanna\ a\ nord-ovest\ della\ Sottostazione\ nell'Area\ Lab\ 37\.\ Vai\ e\ insegnagli\ una\ lezione\.",#20260209061303,Default
+Quest_673,Battaglia\ di\ Palle\ di\ Neve\ I,#20260209061303,Default
+Quest_673_Desc,Il\ Capodanno\ sta\ arrivando\ e\ Jeff\ mi\ ha\ invitato\ a\ una\ battaglia\ di\ palle\ di\ neve\.\ Il\ problema\ è\ che\ non\ nevica\ dove\ siamo\.\ Potresti\ andare\ all'Area\ Lab\ 37\ e\ riportarmi\ alcune\ palle\ di\ neve\?,#20260209061303,Default
+Item_Formula_SnowBallWithStone,Ricetta:\ Palla\ di\ Neve\ \(Potenziata\),#20260209061303,Default
+Item_Formula_SnowBallWithStone_Desc,Una\ ricetta\ per\ creare\ la\ Palla\ di\ Neve\ \(Potenziata\)\ al\ Banco\ di\ Lavoro\.,#20260209061303,Default
+NM,Imballaggio\ Nano,#20260209061303,Default
+Cname_Boss_Blue,\?\?\?,#20260209061733,Default
+Item_BlueEye,\?\?\?,#20260209061733,Default
+Item_BlueEye_Desc,Sembra\ estremamente\ freddo\.\ Mangiarlo\ probabilmente\ ti\ congelrebbe\ saldamente\.,#20260209061303,Default
+Item_Key_SnowMilitary_SmallControlRoom,Chiave\ della\ Piccola\ Sala\ di\ Controllo,#20260209061303,Default
+Item_Key_SnowMilitary_SmallControlRoom_Desc,Apre\ una\ piccola\ sala\ di\ controllo\ all'interno\ della\ Base\ Militare\ nell'Area\ Lab\ 37\.,#20260209061303,Default
+Item_ElecStick,Manganello\ Stordente,#20260209061303,Default
+Item_ElecStick_Desc,Si\ sente\ solido\ e\ rassicurante\ in\ mano\.,#20260209061303,Default
+Item_Print_ElecStick,Dati\ di\ Stampa:\ Manganello\ Stordente,#20260209061303,Default
+Item_Print_ElecStick_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Manganello\ Stordente\.,#20260209061303,Default
+Item_Bullet_Poop_Gold,Proiettile\ Sterco\ d'Oro,#20260209061303,Default
+Item_Bullet_Poop_Gold_Desc,"Sterco\ d'oro\ spezzato\ in\ pezzi\ più\ piccoli,\ con\ una\ penetrazione\ sorprendentemente\ alta\.",#20260209061303,Default
+Item_BP_Bullet_Poop_Gold_Desc,Un\ progetto\ utilizzato\ per\ creare\ Proiettili\ Sterco\ d'Oro\.,#20260209061303,Default
+Item_BP_Bullet_Poop_Gold,Progetto:\ Proiettile\ Sterco\ d'Oro,#20260209061303,Default
+Item_Figurine_Horse_Desc,Un\ belissimo\ piccolo\ pony\.,#20260209061303,Default
+MapLocation_Snow_Warehouse,Area\ di\ Stoccaggio,#20260209061303,Default
+Note_SnowM_PMCLeader_Title,Registri\ dell'Oca\ Sciocca,#20260209061303,Default
+Note_SnowM_PMCLeader_Content,"La\ dirigenza\ superiore\ di\ J-Lab\ è\ fuggita\ segretamente\ da\ questo\ pianeta\ senza\ portarci\ con\ sé\.\ I\ ricercatori\ rimasti\ avevano\ paura\ che\ li\ uccidessimo,\ quindi\ hanno\ rilasciato\ quei\ soggetti\ di\ test\ per\ combattere\ contro\ di\ noi\.\ Quei\ demoni\ malvagi\.\nAlmeno\ siamo\ riusciti\ a\ mantenere\ la\ Base\ Militare\ e\ non\ siamo\ a\ corto\ di\ rifornimenti—ma\ è\ un\ peccato\ che\ quel\ maledetto\ scienziato\ pazzo\ sia\ scappato\.",#20260209061733,Default
+Note_SnowM_Ceremony_Title,Oggetto\ Rituale,#20260209061303,Default
+Note_SnowM_Ceremony_Content,Questo\ oggetto\ rituale\ sembra\ più\ uno\ strumento\ di\ precisione\.\ Dubito\ che\ sia\ stato\ realizzato\ con\ tecnologia\ locale\.\nPuò\ aprire\ un\ ingresso\ da\ un\ altro\ mondo\ qui—solo\ monodirezionale\.\nDevo\ studiare\ questo\ attentamente\.,#20260209061733,Default
+Note_SnowM_Reverse_Title,Esperimento\ Inverso,#20260209061303,Default
+Note_SnowM_Reverse_Content,Ho\ trovato\ un\ modo\ per\ invertire\ il\ rituale—ma\ richiede\ un\ enorme\ quantità\ di\ Cristalli\ Blu\.\ Una\ quantità\ assurda\.\nLa\ ricerca\ che\ segue\ è\ un\ po'\ pericolosa\.\ Non\ posso\ permettere\ a\ nessuno\ di\ scoprirlo\.,#20260209061733,Default
+Note_Maze_Cost_Title,Il\ Costo\ del\ Portale\ Inverso,#20260209061303,Default
+Note_Maze_Cost_Content,"In\ base\ ai\ miei\ calcoli,\ il\ processo\ dovrebbe\ completarsi\ in\ 10\ giorni\.\nConsumerà\ circa\ il\ 30%\ dell'Energia\ della\ Tempesta\.\ La\ crosta\ non\ reggerà—ma\ almeno\ posso\ tornare\ indietro\.",#20260209061733,Default
+Quest_674,Battaglia\ di\ Palle\ di\ Neve\ IV,#20260209061303,Default
+Quest_674_Desc,"Ho\ appena\ avuto\ una\ battaglia\ di\ palle\ di\ neve\ con\ Jeff—fa\ un\ male\ infernale\.\ Sono\ abbastanza\ sicuro\ che\ abbia\ barato,\ quindi\ non\ puoi\ biasimarmi\ per\ aver\ usato\ la\ tecnologia\ moderna\.\ Ho\ ordinato\ qualcosa\ di\ buono\ da\ Xavier,\ ma\ mi\ servono\ ancora\ alcuni\ materiali\.\ Aiutami\ a\ raccoglierli\ e\ dividemmo\ la\ merce\.",#20260209061303,Default
+Quest_634,Battaglia\ di\ Palle\ di\ Neve\ II,#20260209061303,Default
+Quest_634_Desc,Conosci\ il\ segreto\ per\ vincere\ sempre\ una\ battaglia\ di\ palle\ di\ neve\?\ Posso\ insegnarti—basta\ portarmi\ indietro\ alcuni\ materiali\.,#20260209061303,Default
+Quest_635,Battaglia\ di\ Palle\ di\ Neve\ III,#20260209061303,Default
+Quest_635_Desc,Hai\ padroneggiato\ la\ tecnica\ definitiva\ della\ battaglia\ di\ palle\ di\ neve\.\ Vai\ a\ provarla\.,#20260209061303,Default
+Buff_TwoBall_Layer,Carica\ di\ Fusione,#20260209061303,Default
+Buff_TwoBall_Layer_Desc,"Guadagna\ effetti\ raggiungendo\ 100\ stack,\ ma\ qualsiasi\ attacco\ interrompe\ la\ carica\.",#20260209061303,Default
+Buff_Buff_FoodPoison,Avvelenamento\ da\ Cibo,#20260209061303,Default
+Buff_Buff_FoodPoison_Desc,Alcune\ cose\ non\ dovrebbero\ essere\ mangiate\ insieme\.,#20260209061303,Default
+Item_Helmat_LionDance,Cappello\ della\ Danza\ del\ Leone,#20260209061303,Default
+Item_Helmat_LionDance_Desc,"Sia\ gli\ occhi\ che\ la\ bocca\ sono\ articolati,\ mostrando\ un\ artigianato\ squisito\.",#20260209061303,Default
+Item_RKT_FireWork_Fire,Pistola\ Fuochi\ d'Artificio,#20260209061303,Default
+Item_RKT_FireWork_Fire_Desc,Spara\ i\ fuochi\ d'artificio!\ Urrà!,#20260209061303,Default
+Item_Print_Helmat_LionDance,Dati\ di\ Stampa:\ Cappello\ della\ Danza\ del\ Leone,#20260209061303,Default
+Item_Print_Helmat_LionDance_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Cappello\ della\ Danza\ del\ Leone\.,#20260209061303,Default
+Item_Print_RKT_FireWork_Fire_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Pistola\ Fuochi\ d'Artificio\.,#20260209061303,Default
+Item_Print_RKT_FireWork_Fire,Dati\ di\ Stampa:\ Pistola\ Fuochi\ d'Artificio,#20260209061303,Default
