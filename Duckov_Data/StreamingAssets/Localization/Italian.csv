@@ -4786,264 +4786,264 @@ Item_Totem_GhostResist,Amuleto,#20251031084413,Items
 Item_GiantSwordFish,Gran\ Pesce\ Spada,#20251106085233,Items
 Item_GiantSwordFish_Desc,Le\ sue\ pinne\ sono\ piuttosto\ affilate.,#20251106085233,Items
 Item_DarkCarrot_Desc,Come\ puoi\ vedere\.\.\.,#20251117073422,Items
-Item_DarkCarrot,,#20251103105644,Items
+Item_DarkCarrot,Carota\ Scura,#20251103105644,Items
 Buff_DarkCarrot,1\ 000\ %,#20260209061303,Buffs
-Buff_DarkCarrot_Desc,,#20251224083649,Buffs
-Item_Formula_DarkCarrot,,#20251103111611,Items
-Item_Formula_DarkCarrot_Desc,,#20251103111629,Items
-Item_MoYuToy,,#20251104053242,Items
-Ground,,#20251104062512,Default
-From_QuestReward,,#20251106085233,Default
-Quest,,#20251104063142,Default
-Fishing,,#20251104063449,Default
-Unknown,,#20251104072031,Default
-Var_ItemFromInfo,,#20251104072140,Default
-Tag_Collection,,#20251212072228,Tags
-Quest_334,,#20251106085233,Default
-Quest_334_Desc,,#20251106085233,Default
-Item_Armor_WitchCloth,,#20251106085233,Default
-Buff_GhostResist_Desc,,#20251106085233,Default
-Buff_GhostResist,,#20251106085233,Default
-Item_MoYuToy_Desc,,#20251106085233,Default
-Level_Zombie,,#20251212072228,Default
-Level_Zombie_Desc,,#20251224083649,Default
-Warning_ModsChanged,,#20251224083649,UIText
-UI_Mods_NeedsReboot,,#20251212072228,UIText
-Item_Helmat_Cone,,#20251114075347,Items
-UI_BuffView,,#20251212072228,UIText
-Item_ARR_CrossBow_Normal,,#20251212072228,Items
-Weather_Snow,,#20251201041647,Default
-Stat_ElementFactor_Ice,,#20251212072228,Properties
-Stat_GunShootSpeedMultiplier,,#20251212072228,Default
-Tag_Acc_ArcadeGun,,#20251212072228,Tags
-Tag_Acc_Mosin,,#20251212072228,Tags
-Tag_Acc_PP19Bizon,,#20251212072228,Tags
-Tag_Acc_SKS,,#20251212072228,Tags
-Tag_Acc_M14,,#20251212072228,Tags
-Tag_Acc_Glick,,#20251212072228,Tags
-Tag_Acc_CubeGun,,#20251218030359,Tags
-Tag_Acc_Aug,,#20251212072228,Tags
-Tag_SpecialAcc,,#20251205083547,Tags
-Buff_Freeze,,#20251212072228,Buffs
-Buff_Freeze_Desc,,#20251212072228,Buffs
-Buff_Frozen,,#20251212072228,Buffs
-Buff_Frozen_Desc,,#20251212072228,Buffs
-Item_Special_Energy_CubeGun_1,,#20251216062805,Items
-Stat_TraceAbility,,#20251212072228,Properties
-Item_Special_Energy_CubeGun_1_Desc,,#20251212072228,Items
-Item_Special_AR_AUG_1,,#20251224083649,Items
-Item_Special_AR_AUG_1_Desc,,#20251224083649,Items
-Item_Special_BR_M14_1,,#20251216062805,Items
-Item_Special_BR_M14_1_Desc,,#20251212072228,Items
-Item_Special_BR_SKS_1,,#20251216062805,Items
-Item_Special_BR_SKS_1_Desc,,#20251212072228,Items
-Item_Special_PST_Glick_1,,#20251216062805,Items
-Item_Special_PST_Glick_1_Desc,,#20251212072228,Items
-Item_Special_SMG_ArcadeGun_1,,#20251216062805,Items
-Item_Special_SMG_ArcadeGun_1_Desc,,#20251212072228,Items
-Item_Special_SMG_PP19Bizon_1,,#20251216062805,Items
-Item_Special_SMG_PP19Bizon_1_Desc,,#20251212072228,Items
-Item_Special_SNP_Mosin_1,,#20251216062805,Items
-Item_Special_SNP_Mosin_1_Desc,,#20251212072228,Items
-Stat_BurstCount,,#20251205100032,Properties
-Stat_OverrideTriggerMode,,#20251205100152,Properties
-Cname_Snow_Fleeze,,#20251210074003,Characters
-Cname_Snow_Igny,,#20251210074549,Characters
-Character_SnowPMC,,#20251216062805,Characters
-Interact_PMC,,#20251210103437,Interact
-Item_Helmat_Cone_Desc,,#20251212072228,Default
-Level_StormPast,,#20251212072228,Default
-Level_StormPast_Desc,,#20251212072228,Default
-Stat_ColdProtection,,#20251212072228,Default
-Stat_HeatProtection,,#20251212072228,Default
-Buff_Cold,,#20251212072228,Default
-Buff_SuperCold,,#20251212072228,Default
-Buff_HurtByCold,,#20251212072228,Default
-Dialog_Cold_1,,#20251212072228,Default
-Dialog_Cold_2,,#20251212072228,Default
-Dialog_Cold_3,,#20251212072228,Default
-Dialog_SuperCold_1,,#20251212072228,Default
-Dialog_SuperCold_2,,#20251212072228,Default
-Buff_Cold_Desc,,#20251218030359,Default
-Buff_SuperCold_Desc,,#20251212072228,Default
-Buff_HurtByCold_Desc,,#20251212072228,Default
-Item_AR_RPD_Normal,,#20251212072228,Default
-Item_AR_RPD_Normal_Desc,,#20251212072228,Default
-Item_AR_RPD_Ice,,#20251212072228,Default
-Item_AR_RPD_Ice_Desc,,#20251212072228,Default
-Item_AR_MK47_Normal,,#20251212072228,Default
-Item_AR_MK47_Normal_Desc,,#20251212072228,Default
-Item_ARR_AHBow_Normal,,#20251212072228,Default
-Item_ARR_AHBow_Normal_Desc,,#20251212072228,Default
-Item_ARR_AHBow_Ice,,#20251212072228,Default
-Item_ARR_AHBow_Ice_Desc,,#20251212072228,Default
-Item_SMG_SR3M_Ice,,#20251212072228,Default
-Item_SMG_SR3M_Ice_Desc,,#20251212072228,Default
-Item_RKT_SnowGun_Ice,,#20251212072228,Default
-Item_RKT_SnowGun_Ice_Desc,,#20251212072228,Default
-Snow,,#20251212072228,Default
-Item_IceBlade,,#20251212072228,Default
-Item_IceBlade_Desc,,#20251212072228,Default
-Item_Bullet_Snow_Ice,,#20251212072228,Default
-Item_Bullet_Snow_Ice_Desc,,#20251212072228,Default
-Tag_Acc_Candy,,#20251212072228,Default
-Tag_Acc_AHBow,,#20251212072228,Default
-Item_Special_SHT_Candy_1,,#20251216062805,Default
-Item_Special_SHT_Candy_1_Desc,,#20251212072228,Default
-Item_Special_ARR_AHBow_1,,#20251216062805,Default
-Item_Special_ARR_AHBow_1_Desc,,#20251212072228,Default
-Item_HelmatLV4_Snow,,#20251212072228,Default
-Item_HelmatLV4_Snow_Desc,,#20251212072228,Default
-Item_ArmorLV4_Snow,,#20251212072228,Default
-Item_ArmorLV4_Snow_Desc,,#20251212072228,Default
-Item_HelmatLV3_Snow,,#20251212072228,Default
-Item_HelmatLV3_Snow_Desc,,#20251212072228,Default
-Item_ArmorLV3_Snow,,#20251212072228,Default
-Item_ArmorLV3_Snow_Desc,,#20251212072228,Default
-Item_HelmatLV2_Snow,,#20251212072228,Default
-Item_HelmatLV2_Snow_Desc,,#20251212072228,Default
-Item_ArmorLV2_Snow,,#20251212072228,Default
-Item_ArmorLV2_Snow_Desc,,#20251212072228,Default
-Item_HelmatLV1_Snow,,#20251212072228,Default
-Item_HelmatLV1_Snow_Desc,,#20251212072228,Default
-Item_ArmorLV1_Snow,,#20251212072228,Default
-Item_ArmorLV1_Snow_Desc,,#20251212072228,Default
-Item_HelmatLV4_SnowBoss,,#20251218030359,Default
-Item_HelmatLV4_SnowBoss_Desc,,#20251212072228,Default
-Item_ArmorLV4_SnowBoss_Desc,,#20251212072228,Default
-Item_ArmorLV4_SnowBoss,,#20251218030359,Default
-Item_BP_AR_MK47_Normal,,#20251212072228,Default
-Item_BP_AR_RPD_Normal,,#20251212072228,Default
-Item_BP_ARR_CrossBow_Normal,,#20251212072228,Default
-Item_BP_ARR_AHBow_Ice,,#20251212072228,Default
-Item_BP_ARR_AHBow_Normal,,#20251212072228,Default
-Item_BP_AR_RPD_Ice,,#20251212072228,Default
-Item_BP_RKT_SnowGun_Ice,,#20251212072228,Default
-Item_BP_SMG_SR3M_Ice,,#20251212072228,Default
-Item_BP_IceBlade,,#20251212072228,Default
-Item_BP_Bullet_Snow_Ice,,#20251212072228,Default
-Item_BP_Special_Energy_CubeGun_1,,#20251218030359,Default
-Item_BP_Special_AR_AUG_1,,#20251216062805,Default
-Item_BP_Special_BR_SKS_1,,#20251216062805,Default
-Item_BP_Special_PST_Glick_1,,#20251216062805,Default
-Item_BP_Special_SMG_ArcadeGun_1,,#20251216062805,Default
-Item_BP_Special_SMG_PP19Bizon_1,,#20251216062805,Default
-Item_BP_Special_SNP_Mosin_1,,#20251212072228,Default
-Item_BP_Special_BR_M14_1,,#20251216062805,Default
-Item_BP_Special_SHT_Candy_1,,#20251216062805,Default
-Item_BP_Special_ARR_AHBow_1,,#20251216062805,Default
-Item_BP_ArmorLV1_Snow,,#20251212072228,Default
-Item_BP_ArmorLV2_Snow,,#20251212072228,Default
-Item_BP_ArmorLV3_Snow,,#20251212072228,Default
-Item_BP_ArmorLV4_Snow,,#20251212072228,Default
-Item_BP_ArmorLV4_SnowBoss,,#20251218030359,Default
-Item_BP_HelmatLV1_Snow,,#20251212072228,Default
-Item_BP_HelmatLV2_Snow,,#20251212072228,Default
-Item_BP_HelmatLV3_Snow,,#20251212072228,Default
-Item_BP_HelmatLV4_Snow,,#20251212072228,Default
-Item_BP_HelmatLV4_SnowBoss,,#20251218030359,Default
-Item_BP_AR_MK47_Normal_Desc,,#20251212072228,Default
-Item_BP_AR_RPD_Normal_Desc,,#20251212072228,Default
-Item_BP_ARR_CrossBow_Normal_Desc,,#20251212072228,Default
-Item_BP_ARR_AHBow_Ice_Desc,,#20251212072228,Default
-Item_BP_ARR_AHBow_Normal_Desc,,#20251212072228,Default
-Item_BP_AR_RPD_Ice_Desc,,#20251212072228,Default
-Item_BP_RKT_SnowGun_Ice_Desc,,#20251212072228,Default
-Item_BP_SMG_SR3M_Ice_Desc,,#20251212072228,Default
-Item_BP_IceBlade_Desc,,#20251212072228,Default
-Item_BP_Bullet_Snow_Ice_Desc,,#20251212072228,Default
-Item_BP_Special_Energy_CubeGun_1_Desc,,#20251218030359,Default
-Item_BP_Special_AR_AUG_1_Desc,,#20251216062805,Default
-Item_BP_Special_BR_SKS_1_Desc,,#20251216062805,Default
-Item_BP_Special_PST_Glick_1_Desc,,#20251216062805,Default
-Item_BP_Special_SMG_ArcadeGun_1_Desc,,#20251216062805,Default
-Item_BP_Special_SMG_PP19Bizon_1_Desc,,#20251216062805,Default
-Item_BP_Special_SNP_Mosin_1_Desc,,#20251212072228,Default
-Item_BP_Special_BR_M14_1_Desc,,#20251216062805,Default
-Item_BP_Special_SHT_Candy_1_Desc,,#20251216062805,Default
-Item_BP_Special_ARR_AHBow_1_Desc,,#20251216062805,Default
-Item_BP_ArmorLV1_Snow_Desc,,#20251212072228,Default
-Item_BP_ArmorLV2_Snow_Desc,,#20251212072228,Default
-Item_BP_ArmorLV3_Snow_Desc,,#20251212072228,Default
-Item_BP_ArmorLV4_Snow_Desc,,#20251212072228,Default
-Item_BP_ArmorLV4_SnowBoss_Desc,,#20251218030359,Default
-Item_BP_HelmatLV1_Snow_Desc,,#20251212072228,Default
-Item_BP_HelmatLV2_Snow_Desc,,#20251212072228,Default
-Item_BP_HelmatLV3_Snow_Desc,,#20251212072228,Default
-Item_BP_HelmatLV4_Snow_Desc,,#20251212072228,Default
-Item_BP_HelmatLV4_SnowBoss_Desc,,#20251218030359,Default
-Buff_ColdResist,,#20251212072228,Default
-Buff_ColdResist_Desc,,#20251212072228,Default
-Cname_Usec_Ice,,#20251212072228,Default
-Cname_Scav_Ice,,#20251212072228,Default
-Cname_Hunter,,#20251212072228,Default
-Cname_WolfKing_Ice,,#20251212072228,Default
-Cname_Speedy_Ice,,#20251212072228,Default
-Cname_SpeedyChild_Ice,,#20251212072228,Default
-Cname_Wolf_Ice,,#20251212072228,Default
-UI_Interact_Light,,#20251212072228,Default
-Cname_Bear,,#20251212072228,Default
-Note_ChallengeSnow_Device_Title,,#20251212072228,Default
+Buff_DarkCarrot_Desc,"Percezione\ \+1,000%,\ Raggio\ Visivo\ −1,000%\.\ Stordito\ per\ 7s\.",#20260209061732,Buffs
+Item_Formula_DarkCarrot,Ricetta:\ Carota\ Oscura,#20251103111611,Items
+Item_Formula_DarkCarrot_Desc,Una\ ricetta\ per\ creare\ la\ Carota\ Oscura\ al\ Banco\ di\ Lavoro\.,#20251103111629,Items
+Item_MoYuToy,Aya,#20251104053242,Items
+Ground,Suolo,#20251104062512,Default
+From_QuestReward,Ricompense\ Missioni,#20251106085233,Default
+Quest,Missione,#20251104063142,Default
+Fishing,Pesca,#20251104063449,Default
+Unknown,Sconosciuto,#20251104072031,Default
+Var_ItemFromInfo,Fonte,#20251104072140,Default
+Tag_Collection,Collezionabile,#20251212072228,Tags
+Quest_334,Squadra\ Cacciafantasmi,#20251106085233,Default
+Quest_334_Desc,Fantasmi\ nel\ sanatorio\?\ Occasione\ perfetta\ per\ testare\ nuove\ armi\.\ Elimina\ alcuni\ fantasmi\ e\ riporta\ campioni!,#20251106085233,Default
+Item_Armor_WitchCloth,Veste\ da\ Mago,#20251106085233,Default
+Buff_GhostResist_Desc,Immune\ alla\ Paura\.,#20251106085233,Default
+Buff_GhostResist,Immunità\ alla\ Paura,#20251106085233,Default
+Item_MoYuToy_Desc,"Interessato\ a\ tutto,\ tranne\ che\ al\ lavoro\.",#20251106085233,Default
+Level_Zombie,Zona\ Z,#20251212072228,Default
+Level_Zombie_Desc,\.\.\.,#20260209061732,Default
+Warning_ModsChanged,Rilevata\ modifica\ della\ configurazione\ MOD\ dall'ultima\ partita\.\ Assicurati\ che\ tutte\ le\ MOD\ siano\ installate\ correttamente\ prima\ di\ continuare\.\ Altamente\ consigliato\ eseguire\ il\ backup\ dei\ file\ di\ salvataggio\.,#20260209061732,UIText
+UI_Mods_NeedsReboot,Alcune\ modifiche\ potrebbero\ richiedere\ il\ riavvio\ del\ gioco\ per\ avere\ effetto\.\ Alcune\ mod\ disabilitate\ potrebbero\ rimanere\ attive\ fino\ alla\ chiusura\ completa\ del\ gioco\.,#20251212072228,UIText
+Item_Helmat_Cone,Cono\ Stradale,#20251114075347,Items
+UI_BuffView,Effetti,#20251212072228,UIText
+Item_ARR_CrossBow_Normal,Balestra,#20251212072228,Items
+Weather_Snow,Nevoso,#20251201041647,Default
+Stat_ElementFactor_Ice,Moltiplicatore\ Danni\ Gelo\ Subiti,#20251212072228,Properties
+Stat_GunShootSpeedMultiplier,Moltiplicatore\ Frequenza\ di\ Fuoco,#20251212072228,Default
+Tag_Acc_ArcadeGun,Solo\ Pistola\ Giocattolo,#20251212072228,Tags
+Tag_Acc_Mosin,Solo\ Mosin-Nagant,#20251212072228,Tags
+Tag_Acc_PP19Bizon,Solo\ Bizon-2,#20251212072228,Tags
+Tag_Acc_SKS,Solo\ SKS-45,#20251212072228,Tags
+Tag_Acc_M14,Solo\ M14,#20251212072228,Tags
+Tag_Acc_Glick,Solo\ Glick,#20251212072228,Tags
+Tag_Acc_CubeGun,Solo\ Pistola\ Cubica,#20251218030359,Tags
+Tag_Acc_Aug,Solo\ StG\ 77,#20251212072228,Tags
+Tag_SpecialAcc,Accessorio\ Speciale,#20251205083547,Tags
+Buff_Freeze,Congelato,#20251212072228,Buffs
+Buff_Freeze_Desc,Riduce\ la\ Velocità\ di\ Movimento\ e\ la\ velocità\ di\ recupero\ della\ Stamina\.,#20251212072228,Buffs
+Buff_Frozen,Gelato,#20251212072228,Buffs
+Buff_Frozen_Desc,Impossibile\ muoversi\ e\ la\ Stamina\ non\ può\ recuperare\.,#20251212072228,Buffs
+Item_Special_Energy_CubeGun_1,Modulo\ Intelligente\ Pistola\ Cubica,#20251216062805,Items
+Stat_TraceAbility,Proiettile\ Teleguidato,#20251212072228,Properties
+Item_Special_Energy_CubeGun_1_Desc,"Quando\ installato,\ i\ proiettili\ intelligenti\ possono\ inseguire\ i\ nemici\.",#20251212072228,Items
+Item_Special_AR_AUG_1,Kit\ Conversione\ Semi-Auto\ StG\ 77,#20260209061732,Items
+Item_Special_AR_AUG_1_Desc,"Converte\ lo\ StG\ 77\ in\ un'arma\ semi-automatica\ a\ raffica\ di\ 3\ colpi\.\ Aumenta\ leggermente\ i\ danni,\ la\ gittata\ e\ i\ danni\ alla\ testa\.",#20260209061732,Items
+Item_Special_BR_M14_1,Modulo\ Automatico\ M14,#20251216062805,Items
+Item_Special_BR_M14_1_Desc,"Converte\ l'M14\ in\ automatica,\ aumentando\ leggermente\ la\ capacità\ del\ caricatore\ e\ la\ precisione\ ADS,\ ma\ riducendo\ i\ danni\.",#20251212072228,Items
+Item_Special_BR_SKS_1,Modulo\ Precisione\ SKS-45,#20251216062805,Items
+Item_Special_BR_SKS_1_Desc,"Migliora\ la\ precisione\ dell'SKS-45\.\ Aumenta\ notevolmente\ i\ danni\ alla\ testa\ e\ la\ gittata,\ e\ permette\ ai\ proiettili\ di\ penetrare\ un\ nemico\.",#20251212072228,Items
+Item_Special_PST_Glick_1,Modulo\ Raffica\ Tre\ Colpi\ Glick,#20251216062805,Items
+Item_Special_PST_Glick_1_Desc,"Converte\ il\ Glick\ in\ modalità\ raffica\ di\ 3\ colpi,\ riducendo\ leggermente\ i\ danni\ ma\ aumentando\ le\ altre\ statistiche\.",#20251212072228,Items
+Item_Special_SMG_ArcadeGun_1,Modulo\ Danni\ Pistola\ Giocattolo,#20251216062805,Items
+Item_Special_SMG_ArcadeGun_1_Desc,Aumenta\ notevolmente\ i\ danni\ e\ la\ frequenza\ di\ fuoco\ della\ Pistola\ Giocattolo\.\ Anche\ la\ velocità\ di\ ricarica\ viene\ migliorata\.,#20251212072228,Items
+Item_Special_SMG_PP19Bizon_1,Modulo\ Shotgun\ Bizon-2,#20251216062805,Items
+Item_Special_SMG_PP19Bizon_1_Desc,"Converte\ il\ Bizon-2\ in\ un\ shotgun,\ dividendo\ ogni\ colpo\ in\ 5\ proiettili\.\ Davvero\ fantastico!",#20251212072228,Items
+Item_Special_SNP_Mosin_1,Modulo\ Bipiede\ Mosin-Nagant,#20251216062805,Items
+Item_Special_SNP_Mosin_1_Desc,"Un\ bipiede\ agganciabile\ alla\ Mosin-Nagant\.\ Migliora\ notevolmente\ il\ tiro\ di\ precisione,\ ma\ impedisce\ il\ movimento\ mentre\ si\ mira\.",#20251212072228,Items
+Stat_BurstCount,Colpi\ di\ Raffica,#20251205100032,Properties
+Stat_OverrideTriggerMode,Modalità\ di\ Fuoco,#20251205100152,Properties
+Cname_Snow_Fleeze,Fleeze,#20251210074003,Characters
+Cname_Snow_Igny,Igny,#20251210074549,Characters
+Character_SnowPMC,Carbonella,#20251216062805,Characters
+Interact_PMC,Assumi,#20251210103437,Interact
+Item_Helmat_Cone_Desc,"Normalmente\ usato\ come\ segnale\ a\ terra,\ ma\ si\ è\ scoperto\ che\ fa\ un\ discreto\ elmetto\.",#20251212072228,Default
+Level_StormPast,Valle\ della\ Faglia,#20251212072228,Default
+Level_StormPast_Desc,Zona\ Sviluppo\ Nuova\ Energia,#20251212072228,Default
+Stat_ColdProtection,Protezione\ dal\ Freddo,#20251212072228,Default
+Stat_HeatProtection,Protezione\ dal\ Calore,#20251212072228,Default
+Buff_Cold,Freddo,#20251212072228,Default
+Buff_SuperCold,Ipotermia,#20251212072228,Default
+Buff_HurtByCold,Congelamento,#20251212072228,Default
+Dialog_Cold_1,Così\ freddo.,#20251212072228,Default
+Dialog_Cold_2,Si\ gela\.\.\.,#20251212072228,Default
+Dialog_Cold_3,Troppo\ freddo\.\.\.,#20251212072228,Default
+Dialog_SuperCold_1,No!\ Mi\ sto\ congelando\!,#20251212072228,Default
+Dialog_SuperCold_2,Ho\ bisogno\ di\ equipaggiamento\ migliore\ contro\ il\ freddo!,#20251212072228,Default
+Buff_Cold_Desc,"Riduce\ la\ Velocità\ di\ Movimento,\ la\ Frequenza\ di\ Fuoco\ e\ la\ Res\ al\ Gelo\.",#20251218030359,Default
+Buff_SuperCold_Desc,La\ temperatura\ corporea\ scende\ al\ di\ sotto\ della\ soglia\ di\ sicurezza—tutte\ le\ funzioni\ fisiche\ sono\ gravemente\ compromesse\.,#20251212072228,Default
+Buff_HurtByCold_Desc,Perde\ HP\ continuamente\.\ Riduce\ la\ RES\ al\ Gelo\.,#20251212072228,Default
+Item_AR_RPD_Normal,RPD,#20251212072228,Default
+Item_AR_RPD_Normal_Desc,"L'RPD,\ predecessore\ dell'RPK,\ dispone\ di\ un\ caricatore\ a\ tamburo\ con\ enorme\ capacità\ di\ munizioni\ e\ supporto\ di\ fuoco\ paragonabile\ all'RPK\.",#20251212072228,Default
+Item_AR_RPD_Ice,RPD-Invernale,#20251212072228,Default
+Item_AR_RPD_Ice_Desc,"Modificata\ con\ Cristallo\ di\ Gelo,\ i\ suoi\ proiettili\ infliggono\ DMG\ di\ Gelo\.",#20251212072228,Default
+Item_AR_MK47_Normal,MK-47,#20251212072228,Default
+Item_AR_MK47_Normal_Desc,"Un\ fucile\ moderno\ che\ combina\ il\ meglio\ dell'AK-47\ e\ dell'MF,\ offrendo\ sia\ potenza\ che\ precisione\.",#20251212072228,Default
+Item_ARR_AHBow_Normal,Arco\ a\ Ricurva,#20251212072228,Default
+Item_ARR_AHBow_Normal_Desc,Le\ estremità\ degli\ arti\ si\ curvano\ verso\ l'esterno\ per\ un'ottima\ efficienza\ energetica\.\ Offre\ grande\ precisione\ e\ portabilità—ideale\ per\ l'uso\ sul\ campo\.,#20251212072228,Default
+Item_ARR_AHBow_Ice,Arco\ a\ Ricurva\ della\ Tundra,#20251212072228,Default
+Item_ARR_AHBow_Ice_Desc,Modificato\ per\ lanciare\ frecce\ di\ ghiaccio\.\ La\ modifica\ si\ rivela\ essere\.\.\.\ disegnare\ fiocchi\ di\ neve\ sugli\ arti\?!,#20251212072228,Default
+Item_SMG_SR3M_Ice,SR-3M\ Ghiacciato,#20251212072228,Default
+Item_SMG_SR3M_Ice_Desc,"Modifica\ piuttosto\ grezza,\ ma\ converte\ i\ colpi\ in\ DMG\ di\ Ghiaccio—in\ qualche\ modo\ funziona\.",#20251212072228,Default
+Item_RKT_SnowGun_Ice,Pistola\ di\ Palle\ di\ Neve,#20251212072228,Default
+Item_RKT_SnowGun_Ice_Desc,Spara\ palle\ di\ neve\ compattate\ che\ fanno\ davvero\ male\ all'impatto\.,#20251212072228,Default
+Snow,Neve,#20251212072228,Default
+Item_IceBlade,Lama\ di\ Ghiaccio,#20251212072228,Default
+Item_IceBlade_Desc,"La\ lama\ irradia\ freddo,\ ma\ in\ mano\ sembra\ calda\.\ Il\ pomello\ mostra\ segni\ di\ usura—come\ se\ fosse\ stato\ incoccato\ e\ scoccato\ come\ una\ freccia\.",#20251212072228,Default
+Item_Bullet_Snow_Ice,Palla\ di\ Neve\ Proiettile,#20251212072228,Default
+Item_Bullet_Snow_Ice_Desc,Compattata\ ancora\ di\ più\ delle\ palle\ di\ neve\ normali\.,#20251212072228,Default
+Tag_Acc_Candy,Solo\ Pistola\ di\ Caramelle,#20251212072228,Default
+Tag_Acc_AHBow,Solo\ Arco\ a\ Ricurva,#20251212072228,Default
+Item_Special_SHT_Candy_1,Modulo\ Multi-Colpo\ Pistola\ di\ Caramelle,#20251216062805,Default
+Item_Special_SHT_Candy_1_Desc,Permette\ alla\ Pistola\ di\ Caramelle\ di\ sparare\ più\ colpi\ contemporaneamente\.,#20251212072228,Default
+Item_Special_ARR_AHBow_1,Modulo\ Raffica\ Arco\ a\ Ricurva,#20251216062805,Default
+Item_Special_ARR_AHBow_1_Desc,Rende\ facile\ padroneggiare\ il\ tiro\ a\ raffica\ di\ tre\ frecce\.,#20251212072228,Default
+Item_HelmatLV4_Snow,Casco\ da\ Campo\ Nevoso\ Lv\.4,#20251212072228,Default
+Item_HelmatLV4_Snow_Desc,"Dotato\ di\ spessi\ materiali\ isolanti\.\ Leggermente\ più\ pesante,\ ma\ estremamente\ caldo\.",#20251212072228,Default
+Item_ArmorLV4_Snow,Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.4,#20251212072228,Default
+Item_ArmorLV4_Snow_Desc,Un'armatura\ corpo\ da\ combattimento\ di\ Livello\ 4\ migliorata\ con\ isolamento\ termico\ avanzato\.,#20251212072228,Default
+Item_HelmatLV3_Snow,Casco\ da\ Campo\ Nevoso\ Lv\.3,#20251212072228,Default
+Item_HelmatLV3_Snow_Desc,Foderato\ con\ imbottitura\ di\ pelliccia\ per\ isolamento\ termico\.,#20251212072228,Default
+Item_ArmorLV3_Snow,Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.3,#20251212072228,Default
+Item_ArmorLV3_Snow_Desc,Semplicemente\ foderata\ con\ isolamento\ base\ cucito\ all'interno\.,#20251212072228,Default
+Item_HelmatLV2_Snow,Casco\ da\ Campo\ Nevoso\ Lv\.2,#20251212072228,Default
+Item_HelmatLV2_Snow_Desc,Più\ caldo\ di\ un\ casco\ standard\.,#20251212072228,Default
+Item_ArmorLV2_Snow,Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.2,#20251212072228,Default
+Item_ArmorLV2_Snow_Desc,Fornisce\ calore\ limitato\.,#20251212072228,Default
+Item_HelmatLV1_Snow,Berretto,#20251212072228,Default
+Item_HelmatLV1_Snow_Desc,"Morbido,\ soffice\ e\ molto\ caldo\.",#20251212072228,Default
+Item_ArmorLV1_Snow,Giubbotto\ Imbottito,#20251212072228,Default
+Item_ArmorLV1_Snow_Desc,Spesso\ e\ chiaramente\ ben\ isolato\.,#20251212072228,Default
+Item_HelmatLV4_SnowBoss,Casco\ Anti-Ipotermia,#20251218030359,Default
+Item_HelmatLV4_SnowBoss_Desc,Dotato\ di\ isolamento\ termico\ e\ un\ sistema\ di\ riscaldamento\ attivo\.\ Un\ set\ completo\ fornisce\ protezione\ contro\ il\ freddo\ estremo\.,#20251212072228,Default
+Item_ArmorLV4_SnowBoss_Desc,Dotato\ di\ isolamento\ termico\ e\ un\ sistema\ di\ riscaldamento\ attivo\.\ Un\ set\ completo\ fornisce\ protezione\ contro\ il\ freddo\ estremo\.,#20251212072228,Default
+Item_ArmorLV4_SnowBoss,Armatura\ Anti-Ipotermia,#20251218030359,Default
+Item_BP_AR_MK47_Normal,Progetto:\ MK-47,#20251212072228,Default
+Item_BP_AR_RPD_Normal,Progetto:\ RPD,#20251212072228,Default
+Item_BP_ARR_CrossBow_Normal,Progetto:\ Balestra,#20251212072228,Default
+Item_BP_ARR_AHBow_Ice,Progetto:\ Arco\ a\ Ricurva\ della\ Tundra,#20251212072228,Default
+Item_BP_ARR_AHBow_Normal,Progetto:\ Arco\ a\ Ricurva,#20251212072228,Default
+Item_BP_AR_RPD_Ice,Progetto:\ RPD-Invernale,#20251212072228,Default
+Item_BP_RKT_SnowGun_Ice,Progetto:\ Pistola\ di\ Palle\ di\ Neve,#20251212072228,Default
+Item_BP_SMG_SR3M_Ice,Progetto:\ SR-3M\ Ghiacciato,#20251212072228,Default
+Item_BP_IceBlade,Progetto:\ Lama\ di\ Ghiaccio,#20251212072228,Default
+Item_BP_Bullet_Snow_Ice,Progetto:\ Palla\ di\ Neve\ Proiettile,#20251212072228,Default
+Item_BP_Special_Energy_CubeGun_1,Progetto:\ Modulo\ Intelligente\ Pistola\ Cubica,#20251218030359,Default
+Item_BP_Special_AR_AUG_1,Progetto:\ Modulo\ Semi-Auto\ StG\ 77,#20251216062805,Default
+Item_BP_Special_BR_SKS_1,Progetto:\ Modulo\ Precisione\ SKS-45,#20251216062805,Default
+Item_BP_Special_PST_Glick_1,Progetto:\ Modulo\ Raffica\ Tre\ Colpi\ Glick,#20251216062805,Default
+Item_BP_Special_SMG_ArcadeGun_1,Progetto:\ Modulo\ Danni\ Pistola\ Giocattolo,#20251216062805,Default
+Item_BP_Special_SMG_PP19Bizon_1,Progetto:\ Modulo\ Shotgun\ Bizon-2,#20251216062805,Default
+Item_BP_Special_SNP_Mosin_1,Progetto:\ Bipiede\ Mosin-Nagant,#20251212072228,Default
+Item_BP_Special_BR_M14_1,Progetto:\ Modulo\ Automatico\ M14,#20251216062805,Default
+Item_BP_Special_SHT_Candy_1,Progetto:\ Modulo\ Multi-Colpo\ Pistola\ di\ Caramelle,#20251216062805,Default
+Item_BP_Special_ARR_AHBow_1,Progetto:\ Modulo\ Raffica\ Arco\ a\ Ricurva,#20251216062805,Default
+Item_BP_ArmorLV1_Snow,Progetto:\ Giubbotto\ Imbottito,#20251212072228,Default
+Item_BP_ArmorLV2_Snow,Progetto:\ Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.2,#20251212072228,Default
+Item_BP_ArmorLV3_Snow,Progetto:\ Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.3,#20251212072228,Default
+Item_BP_ArmorLV4_Snow,Progetto:\ Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.4,#20251212072228,Default
+Item_BP_ArmorLV4_SnowBoss,Progetto:\ Armatura\ Anti-Ipotermia,#20251218030359,Default
+Item_BP_HelmatLV1_Snow,Progetto:\ Berretto,#20251212072228,Default
+Item_BP_HelmatLV2_Snow,Progetto:\ Casco\ da\ Campo\ Nevoso\ Lv\.2,#20251212072228,Default
+Item_BP_HelmatLV3_Snow,Progetto:\ Casco\ da\ Campo\ Nevoso\ Lv\.3,#20251212072228,Default
+Item_BP_HelmatLV4_Snow,Progetto:\ Casco\ da\ Campo\ Nevoso\ Lv\.4,#20251212072228,Default
+Item_BP_HelmatLV4_SnowBoss,Progetto:\ Casco\ Anti-Ipotermia,#20251218030359,Default
+Item_BP_AR_MK47_Normal_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ MK-47.,#20251212072228,Default
+Item_BP_AR_RPD_Normal_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ RPD.,#20251212072228,Default
+Item_BP_ARR_CrossBow_Normal_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ Balestra.,#20251212072228,Default
+Item_BP_ARR_AHBow_Ice_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ Arco\ a\ Ricurva\ della\ Tundra.,#20251212072228,Default
+Item_BP_ARR_AHBow_Normal_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ Arco\ a\ Ricurva.,#20251212072228,Default
+Item_BP_AR_RPD_Ice_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ RPD-Invernale.,#20251212072228,Default
+Item_BP_RKT_SnowGun_Ice_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ Pistola\ di\ Palle\ di\ Neve.,#20251212072228,Default
+Item_BP_SMG_SR3M_Ice_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ SR-3M\ Ghiacciato.,#20251212072228,Default
+Item_BP_IceBlade_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ Lama\ di\ Ghiaccio.,#20251212072228,Default
+Item_BP_Bullet_Snow_Ice_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Palla\ di\ Neve\ Proiettile.,#20251212072228,Default
+Item_BP_Special_Energy_CubeGun_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Intelligente\ Pistola\ Cubica.,#20251218030359,Default
+Item_BP_Special_AR_AUG_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Semi-Auto\ StG\ 77.,#20251216062805,Default
+Item_BP_Special_BR_SKS_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Precisione\ SKS-45.,#20251216062805,Default
+Item_BP_Special_PST_Glick_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Raffica\ Tre\ Colpi\ Glick.,#20251216062805,Default
+Item_BP_Special_SMG_ArcadeGun_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Danni\ Pistola\ Giocattolo.,#20251216062805,Default
+Item_BP_Special_SMG_PP19Bizon_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Shotgun\ Bizon-2.,#20251216062805,Default
+Item_BP_Special_SNP_Mosin_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Bipiede\ Mosin-Nagant.,#20251212072228,Default
+Item_BP_Special_BR_M14_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Automatico\ M14.,#20251216062805,Default
+Item_BP_Special_SHT_Candy_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Multi-Colpo\ Pistola\ di\ Caramelle.,#20251216062805,Default
+Item_BP_Special_ARR_AHBow_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Raffica\ Arco\ a\ Ricurva.,#20251216062805,Default
+Item_BP_ArmorLV1_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Giubbotto\ Imbottito.,#20251212072228,Default
+Item_BP_ArmorLV2_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.2.,#20251212072228,Default
+Item_BP_ArmorLV3_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.3.,#20251212072228,Default
+Item_BP_ArmorLV4_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Armatura\ Corpo\ da\ Campo\ Nevoso\ Lv\.4.,#20251212072228,Default
+Item_BP_ArmorLV4_SnowBoss_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Armatura\ Anti-Ipotermia.,#20251218030359,Default
+Item_BP_HelmatLV1_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Berretto.,#20251212072228,Default
+Item_BP_HelmatLV2_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Casco\ da\ Campo\ Nevoso\ Lv\.2.,#20251212072228,Default
+Item_BP_HelmatLV3_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Casco\ da\ Campo\ Nevoso\ Lv\.3.,#20251212072228,Default
+Item_BP_HelmatLV4_Snow_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Casco\ da\ Campo\ Nevoso\ Lv\.4.,#20251212072228,Default
+Item_BP_HelmatLV4_SnowBoss_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Casco\ Anti-Ipotermia.,#20251218030359,Default
+Buff_ColdResist,RES\ al\ Freddo,#20251212072228,Default
+Buff_ColdResist_Desc,Aumenta\ temporaneamente\ la\ Protezione\ dal\ Freddo\ di\ 1\ livello.,#20251212072228,Default
+Cname_Usec_Ice,Mercenario\ della\ Neviera,#20251212072228,Default
+Cname_Scav_Ice,Scavenger\ della\ Neviera,#20251212072228,Default
+Cname_Hunter,Cacciatore,#20251212072228,Default
+Cname_WolfKing_Ice,Re\ dei\ Lupi\ della\ Tundra,#20251212072228,Default
+Cname_Speedy_Ice,Comandante\ del\ Gelo,#20251212072228,Default
+Cname_SpeedyChild_Ice,Soldato\ del\ Gelo,#20251212072228,Default
+Cname_Wolf_Ice,Lupo\ della\ Tundra,#20251212072228,Default
+UI_Interact_Light,Accendi,#20251212072228,Default
+Cname_Bear,Orso,#20251212072228,Default
+Note_ChallengeSnow_Device_Title,Grande\ Dispositivo\ di\ Raffreddamento,#20251212072228,Default
 Note_ChallengeSnow_Device_Content,"Per\ garantire\ condizioni\ di\ sopravvivenza\ sul\ nuovo\ pianeta,\ abbiamo\ avviato\ una\ serie\ di\ progetti\ di\ ricerca\ sulla\ modifica\ climatica\.\ Il\ Dispositivo\ di\ Raffreddamento\ Regionale\ è\ il\ nostro\ primo\ risultato,\ anche\ se\ ancora\ in\ fase\ sperimentale\.\ Utilizzando\ l'Energia\ della\ Tempesta,\ abbiamo\ ottenuto\ un\ raffreddamento\ su\ larga\ scala\ capace\ di\ trasformare\ l'estate\ in\ inverno\.\nTuttavia,\ è\ già\ stato\ identificato\ un\ difetto:\ Entro\ un\ raggio\ di\ 80-90\ metri,\ il\ dispositivo\ crea\ una\ zona\ di\ freddo\ estremo\ dove\ l'equipaggiamento\ standard\ anti-freddo\ è\ completamente\ inefficace\.\ Il\ personale\ addetto\ alla\ manutenzione\ deve\ indossare\ equipaggiamento\ specializzato\ per\ avvicinarsi\.\nPer\ testare\ la\ stabilità\ del\ dispositivo,\ pianifichiamo\ di\ installare\ diversi\ Grandi\ Dispositivi\ di\ Raffreddamento\ nell'area\ circostante,\ valutando\ la\ loro\ stabilità\ a\ lungo\ termine\ su\ un\ raggio\ più\ ampio\.",#20260209061732,Default
-Level_ChallengeSnow_Main,,#20251216062805,Default
-Item_ARR_CrossBow_Normal_Desc,,#20251212072228,Default
-Item_Pelt,,#20251212072228,Default
-Item_Pelt_Lv2,,#20251212072228,Default
-Item_Pelt_Lv3,,#20251212072228,Default
-Item_Pelt_Desc,,#20251212072228,Default
-Item_Pelt_Lv2_Desc,,#20251212072228,Default
-Item_Pelt_Lv3_Desc,,#20251212072228,Default
-Item_IceCrystal,,#20251212072228,Default
-Item_IceCrystal_Desc,,#20251212072228,Default
-Item_SnowBall,,#20251212072228,Default
-Item_SnowBall_Desc,,#20251212072228,Default
-Item_SnowLandTicket,,#20251216062805,Default
-Item_SnowLandTicket_Desc,,#20251216062805,Default
-Quest_601,,#20251212072228,Default
-Quest_601_Desc,,#20251218030359,Default
-Quest_602,,#20251212072228,Default
-Quest_602_Desc,,#20251212072228,Default
+Level_ChallengeSnow_Main,Sfida\ Zero\ Gradi,#20251216062805,Default
+Item_ARR_CrossBow_Normal_Desc,"Semplice\ design\ di\ balestra\.\ Lenta\ da\ caricare,\ ma\ spara\ rapidamente\ una\ volta\ pronta.",#20251212072228,Default
+Item_Pelt,Pelle,#20251212072228,Default
+Item_Pelt_Lv2,Pelle\ Premium,#20251212072228,Default
+Item_Pelt_Lv3,Pelle\ di\ Qualità,#20251212072228,Default
+Item_Pelt_Desc,Calda\ e\ accogliente\.\ Ottima\ per\ creare\ equipaggiamento\ isolato.,#20251212072228,Default
+Item_Pelt_Lv2_Desc,Pelle\ superiore\ usata\ come\ fodera\ per\ armature\ leggere\ per\ migliorare\ l'isolamento\ termico.,#20251212072228,Default
+Item_Pelt_Lv3_Desc,Pelle\ di\ qualità\ eccezionale\ e\ isolamento\ superiore.,#20251212072228,Default
+Item_IceCrystal,Cristallo\ di\ Ghiaccio,#20251212072228,Default
+Item_IceCrystal_Desc,Irradia\ un\ lieve\ freddo.,#20251212072228,Default
+Item_SnowBall,Palla\ di\ Neve,#20251212072228,Default
+Item_SnowBall_Desc,Perfetta\ per\ una\ battaglia\ di\ palle\ di\ neve!,#20251212072228,Default
+Item_SnowLandTicket,Biglietto\ Sfida\ Zero\ Gradi,#20251216062805,Default
+Item_SnowLandTicket_Desc,Biglietto\ andata\ e\ ritorno\ tra\ il\ Molo\ Ovest\ della\ Segheria\ di\ Farm\ Town\ e\ l'Area\ Sfida\ Zero\ Gradi.,#20251216062805,Default
+Quest_601,Nuova\ Rotta,#20251212072228,Default
+Quest_601_Desc,"Ho\ sentito\ che\ il\ Mercante\ Misterioso\ a\ Farm\ Town\ ha\ aperto\ una\ nuova\ rotta\.\ Voglio\ vedere\ se\ ci\ sono\ nuove\ opportunità\.\ Potresti\ comprarmi\ un\ biglietto\ del\ traghetto\?\ Ti\ ripagherò\ al\ tuo\ ritorno\.\ Il\ molo\ si\ trova\ sul\ lato\ ovest\ della\ Segheria\ di\ Farm\ Town\.\ Se\ anche\ tu\ vuoi\ provare\ fortuna,\ non\ perderti.",#20251218030359,Default
+Quest_602,Campo\ Improvvisato,#20251212072228,Default
+Quest_602_Desc,"Ciao,\ amico\.\ Non\ mi\ aspettavo\ di\ vedere\ un\ nuovo\ paperino\ fin\ qui\.\ Il\ tempo\ è\ brutale\.\ Dovremo\ allestire\ un\ campo\ improvvisato\ se\ vogliamo\ sopravvivere\.\ Mi\ mancano\ ancora\ alcuni\ materiali,\ ma\ fa\ così\ freddo\ che\ posso\ a\ malapena\ muovermi\.\ Aiutami\ e\ da\ ora\ in\ poi\ saremo\ amici\.",#20251212072228,Default
 Item_SHT_SnowBoss_Fire,BSG-F,#20260209061303,Default
 Item_SHT_SnowBoss_Ice,BSG-I,#20260209061303,Default
-Item_SHT_SnowBoss_Ice_Desc,,#20251212072228,Default
-Item_SHT_SnowBoss_Fire_Desc,,#20251212072228,Default
-Item_AtomicClock,,#20251212072228,Default
-Item_AtomicClock_Desc,,#20251212072228,Default
-Item_Matryoshka,,#20251212072228,Default
-Item_Matryoshka_Desc,,#20251212072228,Default
-Tag_Matryoshka_1,,#20251212072228,Default
-Tag_Matryoshka_2,,#20251212072228,Default
-Tag_Matryoshka_3,,#20251212072228,Default
-Tag_Matryoshka_4,,#20251212072228,Default
-Tag_Matryoshka_5,,#20251212072228,Default
-Level_ChallengeSnow_Desc,,#20251216062805,Default
-Item_ArmorLV3StormProtection,,#20251216062805,Items
-Item_ArmorLV3StormProtection_Desc,,#20251216062805,Items
-Item_AR_MMG_Ice,,#20251216062805,Items
-Item_BP_Key_MysteryZ,,#20251213062924,Items
-Item_BP_Key_MysteryZ_Desc,,#20251216062805,Items
-Item_BP_AR_MMG_Ice,,#20251216062805,Items
-Item_BP_AR_MMG_Ice_Desc,,#20251216062805,Items
-Item_AR_MMG_Ice_Desc,,#20251216062805,Items
-Cname_Snow_BigIce,,#20251216062805,Characters
-Item_Key_SnowChallenge_TEU,,#20251213062924,Items
-Item_Key_SnowChallenge_TEU_Desc,,#20251216062805,Items
-UI_Interact_ToSnowChallenge,,#20251216062805,Interact
-Item_IceGrenade,,#20251216062805,Items
-Item_IceGrenade_Desc,,#20251216062805,Items
-Item_HelmatLV2_Black,,#20251216062805,Items
-Item_HelmatLV2_Black_Desc,,#20251216062805,Items
-Tag_Acc_RPD,,#20251213062924,Tags
-Item_Special_AR_RPD_1,,#20251213062924,Items
-Item_Special_AR_RPD_1_Desc,,#20251216062805,Items
-Item_BP_Special_AR_RPD_1,,#20251213062924,Items
-Item_BP_Special_AR_RPD_1_Desc,,#20251216062805,Items
+Item_SHT_SnowBoss_Ice_Desc,"I\ proiettili\ trasportano\ un\ freddo\ intenso,\ mostrando\ la\ tecnologia\ militare\ del\ J-Lab\.",#20251212072228,Default
+Item_SHT_SnowBoss_Fire_Desc,"I\ proiettili\ trasportano\ un\ calore\ intenso,\ mostrando\ la\ tecnologia\ militare\ del\ J-Lab\.",#20251212072228,Default
+Item_AtomicClock,Orologio\ Atomico,#20251212072228,Default
+Item_AtomicClock_Desc,"Dispositivo\ di\ temporizzazione\ ad\ alta\ precisione\ basato\ sulle\ frequenze\ di\ transizione\ atomica\.\ Estremamente\ accurato,\ ma\ dal\ costo\ elevato\.",#20251212072228,Default
+Item_Matryoshka,Matrioska,#20251212072228,Default
+Item_Matryoshka_Desc,Realizzata\ con\ metodi\ tradizionali\.\ Attrae\ collezionisti\ appassionati\ e\ raggiunge\ un\ alto\ prezzo\.,#20251212072228,Default
+Tag_Matryoshka_1,XL,#20251212072228,Default
+Tag_Matryoshka_2,L,#20251212072228,Default
+Tag_Matryoshka_3,M,#20251212072228,Default
+Tag_Matryoshka_4,S,#20251212072228,Default
+Tag_Matryoshka_5,XS,#20251212072228,Default
+Level_ChallengeSnow_Desc,Qualcosa\ è\ nascosto\ in\ questo\ luogo\ gelido\.,#20251216062805,Default
+Item_ArmorLV3StormProtection,Tuta\ Anti-Tempesta\ Lv\.3,#20251216062805,Items
+Item_ArmorLV3StormProtection_Desc,"Un'armatura\ corpo\ Lv\.3\ cucita\ all'esterno\ di\ una\ tuta\ anti-tempesta\.\ Leggermente\ pesante,\ ma\ estremamente\ efficace\.",#20251216062805,Items
+Item_AR_MMG_Ice,MMG-Lama\ di\ Ghiaccio,#20251216062805,Items
+Item_BP_Key_MysteryZ,Progetto: Chiave\ Misteriosa\ Z,#20251213062924,Items
+Item_BP_Key_MysteryZ_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Chiave\ Misteriosa\ Z.,#20251216062805,Items
+Item_BP_AR_MMG_Ice,Progetto:\ MMG-Lama\ di\ Ghiaccio,#20251216062805,Items
+Item_BP_AR_MMG_Ice_Desc,Usato\ al\ banco\ di\ lavoro\ per\ sviluppare:\ MMG-Lama\ di\ Ghiaccio.,#20251216062805,Items
+Item_AR_MMG_Ice_Desc,Un\ MMG\ modificato\ potenziato\ con\ tecnologia\ speciale\.\ Si\ dice\ che\ questa\ tecnologia\ fosse\ un\ tempo\ usata\ per\ modificare\ il\ tempo\.,#20251216062805,Items
+Cname_Snow_BigIce,Grande\ Ghiaccio,#20251216062805,Characters
+Item_Key_SnowChallenge_TEU,Chiave\ Container,#20251213062924,Items
+Item_Key_SnowChallenge_TEU_Desc,Apre\ un\ container\ chiuso\ a\ chiave\.,#20251216062805,Items
+UI_Interact_ToSnowChallenge,Sfida\ Zero\ Gradi!,#20251216062805,Interact
+Item_IceGrenade,Granata\ di\ Ghiaccio,#20251216062805,Items
+Item_IceGrenade_Desc,Rilascia\ una\ nube\ di\ nebbia\ gelida\.\ I\ bersagli\ che\ rimangono\ nella\ nebbia\ per\ un\ certo\ tempo\ verranno\ Congelati\.,#20251216062805,Items
+Item_HelmatLV2_Black,Cappuccio\ di\ Carbone\ Pressato,#20251216062805,Items
+Item_HelmatLV2_Black_Desc,Un\ altro\ giorno\ pieno\ di\ energia!,#20251216062805,Items
+Tag_Acc_RPD,Solo\ RPD,#20251213062924,Tags
+Item_Special_AR_RPD_1,Modulo\ Cadencia\ di\ Fuoco\ RPD,#20251213062924,Items
+Item_Special_AR_RPD_1_Desc,"Durante\ il\ fuoco\ continuo,\ la\ cadencia\ di\ fuoco\ dell'arma\ aumenta\ gradualmente\.\ La\ cadencia\ si\ azzera\ quando\ si\ smette\ di\ sparare\.",#20251216062805,Items
+Item_BP_Special_AR_RPD_1,Progetto: Modulo\ Cadencia\ di\ Fuoco\ RPD,#20251213062924,Items
+Item_BP_Special_AR_RPD_1_Desc,Usato\ al\ banco\ di\ lavoro\ per\ creare:\ Modulo\ Cadencia\ di\ Fuoco\ RPD.,#20251216062805,Items
 Item_FrostbiteOintment_Desc,Usato\ per\ trattare\ il\ congelamento\.,#20260209061303,Items
-Item_FrostbiteOintment,,#20251215072604,Items
+Item_FrostbiteOintment,Unguento\ per\ Congelamento,#20251215072604,Items
 Item_Key_JLab_StormZone,Chiave\ della\ Zona\ Teletrasporto\ dell'Area\ Lab,#20260209061303,Items
 Item_Key_JLab_StormZone_Desc,Apre\ il\ cancello\ della\ Zona\ Teletrasporto\ nell'Area\ Lab\.,#20260209061303,Items
-Item_Bullet_Rocket_H,,#20251224073143,Items
-Item_Bullet_Rocket_H_Desc,,#20251224073444,Items
+Item_Bullet_Rocket_H,Razzo\ Lv\.2,#20260209061732,Items
+Item_Bullet_Rocket_H_Desc,Munizione\ per\ lanciarazzi\.,#20251224073444,Items
 Item_EGun_Turret_MG,Torretta\ MG,#20251229072217,Items
 Building_Showcase_01,Vetrina\ Espositiva,#20260209061303,Default
 Building_Showcase_01_Desc,Usato\ per\ esporre\ oggetti\.,#20260209061303,Default
@@ -5385,7 +5385,7 @@ Item_Key_Maze_RestRoom_Desc,Apre\ la\ lounge\ all'interno\ del\ Labirinto\.,#202
 Task_Beacon_Level_SnowMilitaryBase_Main,Attiva\ il\ Faro\ nell'Area\ Lab\ 37,#20260209061303,Default
 Item_Print_Special_NM_NMGun_1,Dati\ di\ Stampa:\ Allegato\ Macchina\ Bio-Nano,#20260209061303,Default
 Item_Print_Special_NM_NMGun_1_Desc,Usato\ alla\ Stampante\ 3D\ per\ creare:\ Allegato\ Macchina\ Bio-Nano\.,#20260209061303,Default
-perk_CloseTurret_Desc,,#20260209061303,Default
+perk_CloseTurret_Desc,Permette\ al\ Dispositivo\ Plug-and-Hack\ di\ disabilitare\ le\ torrette\.,#20260209061303,Default
 Stat_HackSkillLevel,Livello\ Hacking,#20260209061303,Default
 Stat_HackRangeFactor,Coefficiente\ Portata\ Hack,#20260209061303,Default
 Stat_HackTimeFactor,Coefficiente\ Durata\ Hack,#20260209061303,Default
